@@ -1,0 +1,17 @@
+name: Build and deploy jekyll site
+
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-20.04 
+    steps:
+    - name: Reusable Jekyll Build and Deploy
+      uses: ChrisHammond/christoc-jekyll-builddeploy@v0.0.8
+      with:
+        ruby_version: '3.2.2'
+        jekyll_build_opts: ''
+        github_token: ${{ secrets.GITHUB_TOKEN }}
