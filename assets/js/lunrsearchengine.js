@@ -1923,7 +1923,7 @@ var documents = [{
     "id": 384,
     "url": "https://www.AutocrossBlog.com/learning-about-turbos",
     "title": "Learning about Turbos",
-    "body": "2007/02/18 - Well, I will be the first to admit. I'm a total NOOB when it comes to Turbos, heck engines for that matter. Tonight I ran across the link below over on Hybridz and have spent a little time reading it. I've learned a bit so far, though I've barely cracked the surface! If you need to learn, or want to, about Turbos, check this out. "
+    "body": "2007/02/18 - Well, I will be the first to admit. I’m a total NOOB when it comes to Turbos, heck engines for that matter. Tonight I ran across the link below over on HybridZ and have spent a little time reading it. I’ve learned a bit so far, though I’ve barely cracked the surface! "
     }, {
     "id": 385,
     "url": "https://www.AutocrossBlog.com/new-garage-organization-2-17",
@@ -1933,7 +1933,7 @@ var documents = [{
     "id": 386,
     "url": "https://www.AutocrossBlog.com/thanks-for-4wd",
     "title": "Thanks for 4wd",
-    "body": "2007/02/13 - Days like today I'm glad I don't have the 350Z anymore and get to drive around in the Tahoe. I love the snow! "
+    "body": "2007/02/13 - Days like today I’m glad I don’t have the 350Z anymore and get to drive around in the Tahoe. I love the snow! "
     }, {
     "id": 387,
     "url": "https://www.AutocrossBlog.com/no-work-done-this-weekend",
@@ -1943,7 +1943,7 @@ var documents = [{
     "id": 388,
     "url": "https://www.AutocrossBlog.com/where-are-the-pictures",
     "title": "Where are the pictures?",
-    "body": "2007/01/31 - I'll start digging up some of the pictures of the cars later this week and get them posted. Some are probably on flickr, so I'll track them down and get them all organized for display here on Project240z. com. "
+    "body": "2007/01/31 - I’ll start digging up some of the pictures of the cars later this week and get them posted. Some are probably on flickr, so I’ll track them down and get them all organized for display here on Project240z. com. "
     }, {
     "id": 389,
     "url": "https://www.AutocrossBlog.com/updated-the-videos-again",
@@ -1963,7 +1963,7 @@ var documents = [{
     "id": 392,
     "url": "https://www.AutocrossBlog.com/created-a-videos-section",
     "title": "Created a Videos Section",
-    "body": "2007/01/29 - I’ve gone ahead and created a videos section of the website. As I create videos I’ll get them posted here. I also plan on posting all the videos of runs at events there as well, once the car is running and at an event! "
+    "body": "2007/01/29 - I’ve gone ahead and created a videos section of the Project240z website. As I create videos I’ll get them posted here. I also plan on posting all the videos of runs at events there as well, once the car is running and at an event! "
     }, {
     "id": 393,
     "url": "https://www.AutocrossBlog.com/prepping-the-parts-car-1978-280z-22",
