@@ -7,7 +7,7 @@ description: Looking for a place to try on a helmet in St. Louis?
 keywords: race, gear, st louis, saint, louis, saint louis, helmets,safety
 image: Helmet-1.JPG
 categories:
-featured: true
+featured: false
 ---
 If you're looking for a racing helmet in St. Louis Missouri, you should be looking at [Solo Performance Specialties](https://www.soloperformance.com/).
 
