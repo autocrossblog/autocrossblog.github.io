@@ -5,14 +5,19 @@
     <description>A sample Jekyll Site!</description>
     <link>https://www.AutocrossBlog.com/</link>
     <atom:link href="https://www.AutocrossBlog.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jan 2024 05:16:00 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Jan 2024 05:16:00 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jan 2024 05:18:16 +0000</pubDate>
+    <lastBuildDate>Wed, 17 Jan 2024 05:18:16 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>Hello World, AutocrossBlog.com is live!</title>
-        <description>&lt;p&gt;MORE INFO COMING SOOn!&lt;/p&gt;
+        <description>&lt;p&gt;AutocrossBlog.com is a culmination of two decades of autocrossing and way too many different cars and car websites over the years.&lt;/p&gt;
 
+&lt;p&gt;I’ve tried to consolidate my car blogs into this one location, I am sure there’s a broken link or two, but this is a good enough start!&lt;/p&gt;
+
+&lt;p&gt;I’ll be blogging here going forward for all my automotive autocross adventures.&lt;/p&gt;
+
+&lt;p&gt;For 2024 I’ll be back racing in St. Louis and around the Midwest with my good friend Dave Whitworth from &lt;a href=&quot;https://soloperformance.com/&quot;&gt;Solo Performance Specialties&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Jan 2024 10:00:15 +0000</pubDate>
         <link>https://www.AutocrossBlog.com/autocross-blog</link>
