@@ -6,9 +6,4 @@ permalink: thanks-for-4wd
 image: 
 categories: [ 240z ]
 ---
-<p>Days like today I'm glad I don't have the 350Z anymore and get to drive around in the Tahoe. I love the snow!</p>
-
-
-
-
-
+Days like today I'm glad I don't have the 350Z anymore and get to drive around in the Tahoe. I love the snow!
