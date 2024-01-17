@@ -1048,7 +1048,7 @@ var documents = [{
     "id": 209,
     "url": "https://www.AutocrossBlog.com/yet-another-domain-name-look-out-240znet-is-coming",
     "title": "Yet another domain name, look out 240z.net is coming!",
-    "body": "2009/09/22 - So for a month or so I've been waiting for www. 240z. net to go through the expiration process as the previous owner decided to let it expire. Well today it finally came through and guess who got it!&#160; Woot! Stay tuned as http://www. 240z. net gets built over the coming months. No sneak peeks right now as to what I plan to do with it. It will not just become a replacement for Project240z. com, I don't plan on this site going away. &#160; "
+    "body": "2009/09/22 - So for a month or so I've been waiting for www. 240z. net to go through the expiration process as the previous owner decided to let it expire. Well today it finally came through and guess who got it!&#160; Woot! Stay tuned as https://www. 240z. net gets built over the coming months. No sneak peeks right now as to what I plan to do with it. It will not just become a replacement for Project240z. com, I don't plan on this site going away. &#160; "
     }, {
     "id": 210,
     "url": "https://www.AutocrossBlog.com/labor-day-weekend-and-working-on-the-240z",
@@ -1068,7 +1068,7 @@ var documents = [{
     "id": 213,
     "url": "https://www.AutocrossBlog.com/240z-update-for-august",
     "title": "240Z update for August",
-    "body": "2009/08/17 - So I didn’t actually get anything physically done on the 240Z this weekend, but I did manage to get $40 worth of light bulbs and fuses for the car. I hope to start getting them installed tomorrow night so that I can start testing out the wiring, see what all I am going to have to rewire/fix in order to make the car street legal. Fingers crossed that the stock wiring still works fine! &#160; (My first blog post from my fresh install of Windows 7) "
+    "body": "2009/08/17 - So I didn’t actually get anything physically done on the 240Z this weekend, but I did manage to get $40 worth of light bulbs and fuses for the car.  I hope to start getting them installed tomorrow night so that I can start testing out the wiring, see what all I am going to have to rewire/fix in order to make the car street legal. Fingers crossed that the stock wiring still works fine! (My first blog post from my fresh install of Windows 7) "
     }, {
     "id": 214,
     "url": "https://www.AutocrossBlog.com/two-years-ago",
