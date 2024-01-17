@@ -1463,7 +1463,7 @@ var documents = [{
     "id": 292,
     "url": "https://www.AutocrossBlog.com/finding-the-leaks",
     "title": "Finding the leaks",
-    "body": "2007/07/27 - I spent the night of the 25th of July 2007 tracking down a few leaks. I was concerned about a coolant leak, and a fuel leak, I found them both. 1&lt;object width= 425  height= 350 &gt;&lt;param name= movie  value= http://www. youtube. com/v/URmn1lSll2U /&gt;&lt;embed src= http://www. youtube. com/v/URmn1lSll2U  type= application/x-shockwave-flash  width= 425  height= 350 /&gt;&lt;/object&gt;"
+    "body": "2007/07/27 - I spent the night of the 25th of July 2007 tracking down a few leaks. I was concerned about a coolant leak, and a fuel leak, I found them both. 1&lt;object width= 425  height= 350 &gt;&lt;param name= movie  value= https://www. youtube. com/v/URmn1lSll2U /&gt;&lt;embed src= https://www. youtube. com/v/URmn1lSll2U  type= application/x-shockwave-flash  width= 425  height= 350 /&gt;&lt;/object&gt;"
     }, {
     "id": 293,
     "url": "https://www.AutocrossBlog.com/fuel-water-and-electricity-bangs-head-on-wall",
@@ -1698,7 +1698,7 @@ var documents = [{
     "id": 339,
     "url": "https://www.AutocrossBlog.com/240z-throttle-linkage-and-bodywork",
     "title": "240Z Throttle Linkage and Bodywork",
-    "body": "2007/05/06 - Dad and I spent some time creating a new throttle linkage as the old one off the parts car wouldn't fit on this firewall. After that I had to put the front end together just to see it start to look like a car. 1&lt;object width= 425  height= 350 &gt;&lt;param name= movie  value= http://www. youtube. com/v/gUx4mhIfb38 /&gt;&lt;embed src= http://www. youtube. com/v/gUx4mhIfb38  type= application/x-shockwave-flash  width= 425  height= 350 /&gt;&lt;/object&gt;"
+    "body": "2007/05/06 - Dad and I spent some time creating a new throttle linkage as the old one off the parts car wouldn't fit on this firewall. After that I had to put the front end together just to see it start to look like a car. 1&lt;object width= 425  height= 350 &gt;&lt;param name= movie  value= https://www. youtube. com/v/gUx4mhIfb38 /&gt;&lt;embed src= https://www. youtube. com/v/gUx4mhIfb38  type= application/x-shockwave-flash  width= 425  height= 350 /&gt;&lt;/object&gt;"
     }, {
     "id": 340,
     "url": "https://www.AutocrossBlog.com/240z-floorpan-work",
@@ -1798,7 +1798,7 @@ var documents = [{
     "id": 359,
     "url": "https://www.AutocrossBlog.com/bondo-and-gas-tank-removal",
     "title": "Bondo and Gas Tank Removal",
-    "body": "2007/04/01 - I sanded the area that I bondo'd yesterday on the 240Z. I also then cleaned and sprayed it with primer. Now the Project 240Z officially consists of 6, count them 6, colors. Blue, orange, white, black, brown, and grey. After that I removed the gas tank so I can have that cleaned up like we had done with the radiator last week.   1&lt;object width= 425  height= 350 &gt;&lt;param name= movie  value= http://www. youtube. com/v/7nKCMSlfkio /&gt;&lt;embed src= http://www. youtube. com/v/7nKCMSlfkio  type= application/x-shockwave-flash  width= 425  height= 350 /&gt;&lt;/object&gt;"
+    "body": "2007/04/01 - I sanded the area that I bondo'd yesterday on the 240Z. I also then cleaned and sprayed it with primer. Now the Project 240Z officially consists of 6, count them 6, colors. Blue, orange, white, black, brown, and grey. After that I removed the gas tank so I can have that cleaned up like we had done with the radiator last week.   1&lt;object width= 425  height= 350 &gt;&lt;param name= movie  value= https://www. youtube. com/v/7nKCMSlfkio /&gt;&lt;embed src= https://www. youtube. com/v/7nKCMSlfkio  type= application/x-shockwave-flash  width= 425  height= 350 /&gt;&lt;/object&gt;"
     }, {
     "id": 360,
     "url": "https://www.AutocrossBlog.com/p240z-pulleys-a-pullin",
