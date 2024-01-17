@@ -6,7 +6,7 @@ description: "A sample Jekyll Site!"
 logo: 'assets/Logo.png'
 favicon: 'assets/favicon.ico'
 baseurl: ""
-google_analytics: 'G-ZKHV3G3SN8' # configured for Google Analytics 4 MEASUREMENT ID
+google_analytics: 'G-438M5WVM2K' # configured for Google Analytics 4 MEASUREMENT ID
 # disqus: 
 mailchimp-list: 
 include: ["_pages"]
