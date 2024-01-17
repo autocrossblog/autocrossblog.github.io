@@ -7,7 +7,7 @@ description: The day I got the car
 keywords: 350z, 20 years, 
 image: April2003/April2003-1.jpg
 categories:
-featured: true
+featured: false
 ---
 20 Years.
 
