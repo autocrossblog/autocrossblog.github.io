@@ -8,7 +8,6 @@ comments: false
 Don't be a dick. We reserve the right to remove or censor any comments posted on the site. 
 
 # Privacy Policy
-# Privacy Policy for AutocrossBlog
 
 _Last Updated: 1/17/2024_
 
