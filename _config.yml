@@ -3,7 +3,7 @@
 name: "AutocrossBlog.com"
 title: "AutocrossBlog.com - A sample Jekyll Example website! "
 description: "A sample Jekyll Site!"
-logo: 'assets/Logo.png'
+logo: 'assets/GradientLogo.jpg'
 favicon: 'assets/favicon.ico'
 baseurl: ""
 google_analytics: 'G-438M5WVM2K' # configured for Google Analytics 4 MEASUREMENT ID
