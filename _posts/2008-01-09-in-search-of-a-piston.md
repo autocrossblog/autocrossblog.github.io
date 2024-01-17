@@ -8,6 +8,6 @@ categories:
 ---
 So I finally got into the motor tonight to look for the missing piston.
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/y1Ihcz0jeiQ"/><embed src="http://www.youtube.com/v/y1Ihcz0jeiQ" type="application/x-shockwave-flash" width="425" height="350"/></object>
+<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/y1Ihcz0jeiQ"/><embed src="https://www.youtube.com/v/y1Ihcz0jeiQ" type="application/x-shockwave-flash" width="425" height="350"/></object>
 
 
