@@ -7,7 +7,7 @@ logo: 'assets/Logo.png'
 favicon: 'assets/favicon.ico'
 baseurl: ""
 google_analytics: 'G-438M5WVM2K' # configured for Google Analytics 4 MEASUREMENT ID
-# disqus: 
+disqus: autocrossblog-com
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
