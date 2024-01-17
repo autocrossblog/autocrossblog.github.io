@@ -24,3 +24,8 @@ Other things I need to do:
 If you're interested in any of the car, or SSC bits, let me know.
 
 Car is located in Wildwood Missouri, just outside of St. Louis. The motor has less than 45k miles on it and runs great.
+
+
+
+
+

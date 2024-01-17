@@ -52,3 +52,8 @@ If you're looking for a track project car, feel free to reach out to me, let's s
 
 What's next for me? Well right now I have an order in for a new Nissan Z, and a Ford F-250 truck. I have no idea when either of those will be built.... 
 
+
+
+
+
+

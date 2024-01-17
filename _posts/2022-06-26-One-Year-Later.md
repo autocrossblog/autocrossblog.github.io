@@ -15,3 +15,8 @@ I have only autocrossed once since then, in Dave's Mustang at the 2021 Solo Nati
 That's going to change though. I've got the bug. I need to find a ride. I need a project car, I need a toy. Sometime later this year the FR-S will be replaced.
 
 The FR-S ended up going north, I think towards Minneapolis. The guy who purchased it owns a body shop, I was told it would end up being a track car, but I haven't seen any progress pictures on it.
+
+
+
+
+

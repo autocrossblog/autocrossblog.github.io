@@ -15,9 +15,9 @@ foreach ($file in $files) {
         $yaml = $matches[1]
         Write-Host "Found YAML front matter."
 
-        # More accommodating regex for removing redirect_from
-        $yaml = $yaml -replace "(redirect_from:\s*(\n\s*-\s*.*?)+)(\n\s*[^\s])", '$3'
-        Write-Host "Removed redirect_from section."
+        # Regex to remove lines starting with - "/Blog/ or - "/Video
+        $yaml = $yaml -replace "\n\s*-\s*""?/(Blog|Video|tabid)/[^""\n]*""?", ""
+        Write-Host "Removed specific lines from YAML."
 
         # Replace old YAML with new YAML
         $newContent = $content -replace $yamlPattern, "---`n$yaml`n---"
