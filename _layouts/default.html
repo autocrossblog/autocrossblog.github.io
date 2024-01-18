@@ -34,7 +34,7 @@
 {% else %}    
 <meta property="og:type" content="article" />
 {% endif %}
-<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
 {% if page.description %}
 <meta property="og:description" content="{{ page.description }}" />
 <meta name="description" content="{{ page.description }}">
