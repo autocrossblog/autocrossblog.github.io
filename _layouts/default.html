@@ -19,10 +19,26 @@
 <link rel="icon" href="{{ site.baseurl }}{{ site.favicon }}">
 
 
-{% seo %}
-{% if page.keywords %}
-<meta name="keywords" content="{{ page.keywords }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:image" content="{{ site.url }}{% if page.image %}{% picture direct {{ page.image }} %}{% else %}{{ site.header-img }}{% endif %}" />
+{% if page.type %}
+<meta property="og:type" content="{{ page.type }}" />
+{% else %}    
+<meta property="og:type" content="article" />
 {% endif %}
+<meta property="og:title" content="{{ page.title }}" />
+{% if page.description %}
+<meta property="og:description" content="{{ page.description }}" />
+<meta name="description" content="{{ page.description }}">
+{% else %}
+<meta property="og:description" content="{{ site.description }}" />
+<meta name="description" content="{{ site.description }}">
+{% endif %}       
+{% assign cacheBust = site.time | date:'?v=%s' %}
+
+<meta name="keywords" content="{{ page.keywords }}">
+<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html' }}">
+
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
     
