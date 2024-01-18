@@ -11,20 +11,20 @@ comments: true
 ---
 The 2024 St. Louis Region SCCA Solo Schedule was released just yesterday! It isn't even up on their website, but we've got it here for you now! 
 
-Check out the schedule below and make sure to mark your calendars for all the events you want to attend. For any updates to the schedule be sure to [visit their website](https://solo.stlscca.org/schedule/) (when they post it) 
-
-## 2024 Autocross SCHEDULE
+## 2024 Autocross Schedule
 All events at Family Arena in St. Charles, MO unless otherwise noted.
 
-- **March 30** Novice School
-- **April 7** Event 1
-- **April 21** Event 2
-- **May 3-5** CAM & Event 3 (points event for local region members, and National CAM event)
-- **June 9** Event 4
-- **July 21** Event 5
-- **Sept 8** Event 6
-- **Sept 29** Event 7
-- **Oct 20** Event 8
+- **March 30** - Novice School
+- **April 7** - Event 1
+- **April 21** - Event 2
+- **May 3-5** - CAM & Event 3 (points event for local region members, and National CAM event)
+- **June 9** - Event 4
+- **July 21** - Event 5
+- **Sept 8** - Event 6
+- **Sept 29** - Event 7
+- **Oct 20** - Event 8
+
+Check out the schedule above and make sure to mark your calendars for all the events you want to attend. For any updates to the schedule be sure to [visit their website](https://solo.stlscca.org/schedule/) (when they post it) 
 
 I'm working on putting my 2024 schedule together, and I'm excited to see what the St. Louis Region has in store for us this year.
 
