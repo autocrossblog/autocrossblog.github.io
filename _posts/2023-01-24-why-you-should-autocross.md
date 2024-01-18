@@ -7,7 +7,7 @@ date: '2023-01-24T11:00:15+00:00'
 permalink: why-you-should-autocross
 image: 01-24-2023/autocross-1.jpg
 categories: [ Autocross, FR-S, SSC, Setup, Accident, Supplies, Gear, St. Louis ]
-featured: true
+featured: false
 ---
 Autocross is an exciting and challenging motorsport that is quickly gaining popularity among car enthusiasts. It is a competitive event where drivers navigate a course that is laid out on a large parking lot or closed-off airfield. The objective is to complete the course in the fastest time possible, while navigating tight turns, hairpin bends, and [other obstacles](https://www.specfrs.com/autocross-accident-why-you-need-autocross-insurance).
 
