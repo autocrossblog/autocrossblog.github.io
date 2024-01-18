@@ -26,3 +26,7 @@ All events at Family Arena in St. Charles, MO unless otherwise noted.
 - **Sept 29** Event 7
 - **Oct 20** Event 8
 
+I'm working on putting my 2024 schedule together, and I'm excited to see what the St. Louis Region has in store for us this year.
+
+Which events are you planning to attend? Let us know in the comments below!
+
