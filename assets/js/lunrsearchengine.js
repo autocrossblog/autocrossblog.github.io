@@ -1963,7 +1963,7 @@ var documents = [{
     "id": 392,
     "url": "https://www.AutocrossBlog.com/pulling-the-motor-out-of-the-project-240z",
     "title": "Pulling the motor out of the Project 240z",
-    "body": "2007/01/30 - "
+    "body": "2007/01/30 - In this video you’ll see my pulling the 240z motor out of the car. Notice, the front end of the car dropping, I needed that to happen, just not on it’s own! Lucky for me I was able to get this completed on my own, without injury! "
     }, {
     "id": 393,
     "url": "https://www.AutocrossBlog.com/website-update",
