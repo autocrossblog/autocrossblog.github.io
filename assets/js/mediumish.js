@@ -36,7 +36,7 @@ jQuery(document).ready(function($){
       setTimeout(function() {
         if (location.hash) {
           /* we need to scroll to the top of the window first, because the browser will always jump to the anchor first before JavaScript is ready, thanks Stack Overflow: http://stackoverflow.com/a/3659116 */
-          window.scrollTo(0, 0);
+          // window.scrollTo(0, 0);
           target = location.hash.split('#');
           smoothScrollTo($('#'+target[1]));
         }
