@@ -6,7 +6,7 @@ permalink: autocross-blog
 description: AutocrossBlog.com is a culmination of two decades of autocrossing and way too many different cars and car websites over the years.
 image: Logo.png
 categories: [ Autocross, Site ]
-featured: true
+featured: false
 comments: true
 ---
 AutocrossBlog.com is a culmination of two decades of autocrossing and way too many different cars and car websites over the years.
