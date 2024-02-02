@@ -33,3 +33,6 @@ In some regions, but not in any respectible region. Stick with know and trusted 
 > Due to these being low volume tires from a niche manufacturer, the SEB does not have sufficient information about their performance, actual size(s) availability, and schedule of importation. We do not anticipate having sufficient information to adequately evaluate these tires before January 1st eligibility date.  
 
 > These tires may be removed from the exclusion list when that information becomes available, if all other conditions of 13.3 are met.
+
+
+Opinions are my own, and just that, opinions. 
