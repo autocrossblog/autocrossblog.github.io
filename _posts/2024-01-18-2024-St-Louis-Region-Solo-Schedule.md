@@ -15,7 +15,7 @@ The 2024 St. Louis Region SCCA Solo Schedule was released just yesterday! It isn
 All events at Family Arena in St. Charles, MO unless otherwise noted.
 
 - **March 30** - Novice School
-- **April 7** - Event 1
+- **April 7** - Event 1 (CANCELLED due to lot access)
 - **April 21** - Event 2
 - **May 3-5** - CAM & Event 3 (points event for local region members, and National CAM event)
 - **June 9** - Event 4
