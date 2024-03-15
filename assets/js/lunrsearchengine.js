@@ -1858,22 +1858,22 @@ var documents = [{
     "id": 371,
     "url": "https://www.AutocrossBlog.com/dressed-in-black",
     "title": "Dressed in black",
-    "body": "2007/03/24 - Well the engine bay of the Project 240Z has a nice coat of black paint. I'll be touching up a few areas tomorrow, as well as doing the following. Hitting the Junkyard to locate parts I still need for the megasquirt setup, including mostly these ford parts: throttlebody from a V8, VR Sensor from a V6, fuel injectors, wires, coils.  I'll also be hitting the parts store for some new break and clutch lines, installing the clutch line, and hopefully starting to put the transmission onto the turbo motor. Photos tomorrow. "
+    "body": "2007/03/24 - Well the engine bay of the Project 240Z has a nice coat of black paint. I’ll be touching up a few areas tomorrow, as well as doing the following. Hitting the Junkyard to locate parts I still need for the megasquirt setup, including mostly these ford parts: throttlebody from a V8, VR Sensor from a V6, fuel injectors, wires, coils. I’ll also be hitting the parts store for some new break and clutch lines, installing the clutch line, and hopefully starting to put the transmission onto the turbo motor. Photos tomorrow. "
     }, {
     "id": 372,
     "url": "https://www.AutocrossBlog.com/megasquirt-has-been-ordered",
     "title": "Megasquirt has been ordered",
-    "body": "2007/03/22 - Even though I'm out in Mormanville I've been hard at work at least thinking about the Project 240z! With the guidance of Mr. Whittle I've ordered over $700 in equipment to get the motor wired up with Megasquirt. I hope to hit the junk yard on Friday and find a few more random Ford Ignition parts that I need for the megasquirt setup, and hopefully the megasquirt parts from DiyAutotune will be here early next week. My dad will be in town this coming weekend, so I plan to put him to work the next few weeks to help me get this car ready for April 15th. "
+    "body": "2007/03/22 - Even though I’m out in Mormanville I’ve been hard at work at least thinking about the Project 240z! With the guidance of Mr. Whittle I’ve ordered over $700 in equipment to get the motor wired up with Megasquirt. I hope to hit the junk yard on Friday and find a few more random Ford Ignition parts that I need for the megasquirt setup, and hopefully the megasquirt parts from DiyAutotune will be here early next week. My dad will be in town this coming weekend, so I plan to put him to work the next few weeks to help me get this car ready for April 15th. "
     }, {
     "id": 373,
     "url": "https://www.AutocrossBlog.com/engine-bay-cleanup-day-video",
     "title": "Engine bay cleanup day video",
-    "body": "2007/03/19 - I spent a few hours tooling around the garage today, mostly inside of the engine bay. I tried to clean up old paint and rust so that I can go through it next weekend with primer and paint to make it look a bit nicer. It's currently, or was, black and orange, very Octoberish, well it's March, so it was time to go. I also spent some time in the drivers compartment disconnecting the brake pedal from the booster and master cylinder.  I removed those parts with hopes of putting the booster out of the 78 back in the car. It is bigger, so I assumed better right? I guess I should look into that before I put everything back in though :) One thing I found while playing with the pedals, the mounts are there for the clutch pedal (car was originally an auto) so that's good news, I don't have to take the whole dash out to put in the pedal assembly from the parts car, I can just put in the pedal itself. Here's the link to the video. "
+    "body": "2007/03/19 - I spent a few hours tooling around the garage today, mostly inside of the engine bay. I tried to clean up old paint and rust so that I can go through it next weekend with primer and paint to make it look a bit nicer. It’s currently, or was, black and orange, very Octoberish, well it’s March, so it was time to go. I also spent some time in the drivers compartment disconnecting the brake pedal from the booster and master cylinder. I removed those parts with hopes of putting the booster out of the 78 back in the car. It is bigger, so I assumed better right? I guess I should look into that before I put everything back in though :)One thing I found while playing with the pedals, the mounts are there for the clutch pedal (car was originally an auto) so that’s good news, I don’t have to take the whole dash out to put in the pedal assembly from the parts car, I can just put in the pedal itself. Here’s the link to the video. "
     }, {
     "id": 374,
     "url": "https://www.AutocrossBlog.com/240z-engine-bay-cleanup",
     "title": "240Z Engine Bay Cleanup",
-    "body": "2007/03/18 - I spent a few hours on Sunday the 18th of March cleaning up the engine bay of my 1973 240Z. Next week I hope to paint the engine bay and begin the process of putting the Turbo motor back in the car.   "
+    "body": "2007/03/18 - I spent a few hours on Sunday the 18th of March cleaning up the engine bay of my 1973 240Z. Next week I hope to paint the engine bay and begin the process of putting the Turbo motor back in the car. "
     }, {
     "id": 375,
     "url": "https://www.AutocrossBlog.com/project240zcom-photos",
