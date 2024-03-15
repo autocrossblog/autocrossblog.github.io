@@ -1358,7 +1358,7 @@ var documents = [{
     "id": 271,
     "url": "https://www.AutocrossBlog.com/unpacking-the-new-toolbox",
     "title": "Unpacking the new toolbox.",
-    "body": "2008/01/15 - Checkout the video (with a few new dancing moves for entertainment) of the assembly of the new toolbox to try to help me get the garage organized!  "
+    "body": "2008/01/15 - Checkout the video (with a few new dancing moves for entertainment) of the assembly of the new toolbox to try to help me get the garage organized! "
     }, {
     "id": 272,
     "url": "https://www.AutocrossBlog.com/say-it-isn't-so-we've-found-the-piston",
@@ -1903,7 +1903,7 @@ var documents = [{
     "id": 380,
     "url": "https://www.AutocrossBlog.com/good-news-on-the-project-front",
     "title": "Good news on the Project front!",
-    "body": "2007/03/04 - Today I spent a short time working on the parts car, working on removing the interior. You can check out the video here. Notice the flannel pants, and sweatshirt. I really didn't want to do any work today, but I forced myself to at least do a little. After doing that little work I started trying to figure out how I can get rid of the parts car. I drove over to Hall Street, and found no one over there to take it. So I headed to Illinois and Speedway said they would take it. So next weekend it's making a trip to Illinois for it's final resting place. After that I headed to Sauget to do some inventory on the 240Z, and I must say, I was pleasantly surprised! I had forgotten how much of the stock interior actually remained in the car. I was very happy to find that the headliner, center console, dash, and some of the tunnel interior still there, which makes my life a WHOLE lot easier to get it legal for SM2 in SCCA Autocross. So I only have to order a few things, rather than a complete interior which I was having trouble finding! More work tomorrow, I need to finish up the 280Z tomorrow as I'm going to be on the East Coast all of next week. "
+    "body": "2007/03/04 - Today I spent a short time working on the parts car, working on removing the interior. You can check out the video here. Notice the flannel pants, and sweatshirt. I really didn’t want to do any work today, but I forced myself to at least do a little. After doing that little work I started trying to figure out how I can get rid of the parts car. I drove over to Hall Street, and found no one over there to take it. So I headed to Illinois and Speedway said they would take it. So next weekend it’s making a trip to Illinois for it’s final resting place. After that I headed to Sauget to do some inventory on the 240Z, and I must say, I was pleasantly surprised! I had forgotten how much of the stock interior actually remained in the car. I was very happy to find that the headliner, center console, dash, and some of the tunnel interior still there, which makes my life a WHOLE lot easier to get it legal for SM2 in SCCA Autocross. So I only have to order a few things, rather than a complete interior which I was having trouble finding!More work tomorrow, I need to finish up the 280Z tomorrow as I’m going to be on the East Coast all of next week. "
     }, {
     "id": 381,
     "url": "https://www.AutocrossBlog.com/parts-car-interior-removal-day-1",
