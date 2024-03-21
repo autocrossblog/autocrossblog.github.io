@@ -6,7 +6,7 @@ permalink: vitour-tires-illegal
 description: NOT LEGAL
 image: 2024/vitourtire.jpg
 categories: [ Autocross, tires ]
-featured: true
+featured: false
 comments: true
 ---
 If you're looking for information on the Vitour Tempesta P1 tire for the sport of autocross you've come to the right place!
