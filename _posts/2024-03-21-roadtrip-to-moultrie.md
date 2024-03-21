@@ -3,7 +3,7 @@ layout: post
 title: Roadtrip to Moultrie
 date: '2024-03-21T09:00:15+00:00'
 permalink: roadtrip-to-moultrie
-description: On the road again
+description: Here we go. We are on the road south to Moultrie, Georgia for the 2024 Tire Rack SCCA Red Hills National Tour at Spence Field. I met Dave and Beth at Solo Performance this morning and we hit the road just after 7am, with the plan of getting all the way to Moultrie today, Thursday the 21st. This will be my first time to Moultrie, after having run a few times when the National Tour events were held in Adel, GA. 
 image: 2024/March/Moultrie/MustangVinyl-1.jpg
 categories: [ Autocross, National Tour, SCCA, Mustang, Friends ]
 featured: true
