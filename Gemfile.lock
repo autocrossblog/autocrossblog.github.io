@@ -75,7 +75,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.6)
-    rouge (4.2.0)
+    rouge (4.2.1)
     ruby-vips (2.0.17)
       ffi (~> 1.9)
     safe_yaml (1.0.5)
