@@ -13,7 +13,7 @@ comments: true
 
 We arrived in Moultrie late Thursday night and got checked in to our hotel. The lot was exceptionally small, so getting the truck and trailer situated took Dave some work, but fortunately being a Thursday night there weren't many customer vehicles on the lot, so we had plenty of room for the rig. 
 
-The event was held at Spence Field just outside of Moultrie. Probably 30-40 miles from the South Georgia Motorsports Park where previous tours have been held (and attended by myself). Spence Field is an old WWII air field that was used for advanced pilot training. Since the war it has served a number of purposes, it's most prominant use being host of one of the largest Agriculture expos held every fall. Driving into the property feels very familiar to those initiated in autocross and old air fields, similar to Walnut Ridge, Lincoln and many other autocross sites that I've visited over the years. 
+The event was held at Spence Field just outside of Moultrie. Probably 30-40 miles from the South Georgia Motorsports Park where previous tours have been held (and attended by myself). Spence Field is an old WWII air field that was used for advanced pilot training. Since the war it has served a number of purposes, it's most prominent use being host of one of the largest Agriculture expos held every fall. Driving into the property feels very familiar to those initiated in autocross and old air fields, similar to Walnut Ridge, Lincoln and many other autocross sites that I've visited over the years. 
 
 Friday we pretty much woke up to wetness in Georgia. It rained off and on throughout the day. This made the idea of the practice course not all that interesting, but I knew I needed to get out there anyways. I ended up taking 3 runs. The first run I spun. The second run was okay. The third run I spun and saw the Mustang sliding into a light pole... No more practice runs for me, blood pressure too high after that scare. 
 
@@ -35,7 +35,7 @@ Second run was much better, good enough for second place, about .5 behind Dave's
 ## Saturday Run 2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6nIdPuJmTRg?si=JlG5YgKCKCE5SHy5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Saturday evening the local region provided Pizzas for dinner, I am NOT a fan of cold pizza, so I was right near the front of the line and was pleasantly suprised that I enjoyed the Marcos deliver they brought in. Kudos to the Red Hills region for a great dinner experience! 
+Saturday evening the local region provided Pizzas for dinner, I am NOT a fan of cold pizza, so I was right near the front of the line and was pleasantly surprised that I enjoyed the Marcos deliver they brought in. Kudos to the Red Hills region for a great dinner experience! 
 
 Dave, Beth and Sean all went out for a course walk after dinner, I didn't dare attempt that on Saturday evening due to the pain I was feeling in my feet, I was hoping that I would be a bit better Sunday morning and get a couple of course walks in before Sunday runs. 
 
