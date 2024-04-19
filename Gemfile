@@ -10,17 +10,17 @@ source "https://rubygems.org"
 # If you have any plugins, put them here!
 
 
-gem "jekyll", "~> 4"
+gem 'jekyll'
+gem 'kramdown-parser-gfm'
 
 group :jekyll_plugins do
-#    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-    gem 'jekyll-feed'
-    gem 'jekyll-sitemap'
-    gem 'jekyll-paginate'
-    gem 'jekyll-seo-tag'
-    gem 'jekyll-archives'
-    # gem 'kramdown'
-    # gem 'rouge'
-    gem 'jekyll_picture_tag'
-    gem 'jekyll-redirect-from'
+  gem 'jekyll-paginate'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-seo-tag'
+  gem 'jekyll_picture_tag'
+  gem 'jekyll-feed'
+  gem 'html-proofer'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-archives'
 end
+gem "webrick", "~> 1.7"
