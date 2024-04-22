@@ -14,7 +14,7 @@ The first local autocross of the year was officially Event #2 for the St. Louis 
 I am not sure when I last ran a regional event; it was likely back in 2022 when I drove Matt Miller's Camaro at Gateway, where the car nearly caused a serious accident by heading straight for some jersey barriers and a fence.
 
 ## Event Overview 
-Showing up to the event in the morning, I knew what to expect, I've ran locally in St. Louis since 2000, so things shouldn't be that much different. The event had 155 drivers pre-registered, so coming into the day you have to assume a few things, being the first event.
+Showing up to the event in the morning, I knew what to expect, I've run locally in St. Louis since 2000, so things shouldn't be that much different. The event had 155 drivers pre-registered, so coming into the day you have to assume a few things, being the first event.
 
 1) There will be delays
 2) There will be newbies getting lost
@@ -34,7 +34,7 @@ I ended up working at Corner 4 in the first heat. I haven't ran that much in qui
 **ProTip:** Just call this out over the radio so that course workers can be informed and fix it, no need to walk out on the course yourself to do something to the course. To be honest, that's probably grounds for disqualification... 
 
 ## The Course
-Ouch, let me start off by saying, I have never turned so much at an autocross on the family arena parking lot as I did on the course yesterday. I am not sure I would define this as fun in a 2012 Mustang. We were the fastest car on the course? Sure, could it have been a more enjoyable experience? Absofrickenlutely. 
+Ouch, let me start off by saying, I have never turned so much at an autocross on the family arena parking lot as I did on the course yesterday. I am not sure I would define this as fun in a 2012 Mustang. We were the fastest car on the course? Certainly! Could it have been a more enjoyable experience? Absofrickenlutely. 
 
 ## The Results
 Dave and I ran second heat in CAM-C. I started out running a time of 55.* with a cone, which based on the times I had noticed while working the course seemed to be a decent starting point. My second run I managed to drop a second off to get down to a 54.3* while Dave put down a 55.4* on his second run. Third run I managed to get to a 54.333 which would end up being my fastest, while Dave put down a 54.5. Fourth runs we both put down slower times, and then on our fifth and final runs we each put down a 54.1*, with Dave running a 54.162 to my 54.105, the catch being that I had a cone on my 5th run to negate the improvement and give Dave the win again for the weekend.
@@ -44,10 +44,18 @@ I am never really happy when I don't finish on top of PAX results, it's been a w
 ## The Photos
 Because I was working first heat, running second heat, I was only able to shoot photos of the third heat, but I managed to take 1300 photos during that time. [I have posted 300 of those photos on my RainbowMarks Photography event gallery, check it out and purchase a shot or two if you ran third](https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3)! If you ran first or second heat, sorry! Hopefully at some point this year I'll get an opportunity to take pictures of every driver. (Perhaps at the CAM Challenge in two weeks!)
 
+<a href="https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3/i-3QpjpSz/buy">
 {% picture 2024/April/StLouis/Event2-2.jpg --alt Street Creature Mustang splitter digging into the pavement %}
+</a>
+<a href="https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3/i-p7Z8Bkd/buy">
 {% picture 2024/April/StLouis/Event2-3.jpg --alt Subaru Wagon lifting the inside rear tire %}
-{% picture 2024/April/StLouis/Event2-2.jpg --alt White Mustang attempting the drift %}
-{% picture 2024/April/StLouis/Event2-2.jpg --alt White Mustang paying for the attempted drift %}
+</a>
+<a href="https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3/i-gXFDg6V/buy">
+{% picture 2024/April/StLouis/Event2-4.jpg --alt White Mustang attempting the drift %}
+</a>
+<a href="https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3/i-B5DVhgx/buy">
+{% picture 2024/April/StLouis/Event2-5.jpg --alt White Mustang paying for the attempted drift %}
+</a>
 
 ## What's next? 
 The CAM Challenge is coming up here in less than two weeks, once again at the Family Arena in St. Charles, MO. If you haven't signed up yet, get signed up! Local entrants not running in CAM classes (or the X classes) can run for $45 for the weekend, with 6 runs on Saturday and 3 runs on Sunday! CAM/X drivers can enter for $125 entry with the same 9 runs but also the ability to qualify for the Challenge portion after the Sunday morning runs. If you've not run a SCCA National level event before, this is the perfect time to try it out. You'll see drivers that are way faster than what you'll find at typical location regional event, and if you're local to STL you get to do it without all the travel costs! [Sign Up Today!](https://www.motorsportreg.com/events/2024-tire-rack-scca-st-louis-cam-challenge-family-arena-national-solo-360805)
