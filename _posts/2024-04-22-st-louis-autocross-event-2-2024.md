@@ -39,6 +39,8 @@ Ouch, let me start off by saying, I have never turned so much at an autocross on
 ## The Results
 Dave and I ran second heat in CAM-C. I started out running a time of 55.* with a cone, which based on the times I had noticed while working the course seemed to be a decent starting point. My second run I managed to drop a second off to get down to a 54.3* while Dave put down a 55.4* on his second run. Third run I managed to get to a 54.333 which would end up being my fastest, while Dave put down a 54.5. Fourth runs we both put down slower times, and then on our fifth and final runs we each put down a 54.1*, with Dave running a 54.162 to my 54.105, the catch being that I had a cone on my 5th run to negate the improvement and give Dave the win again for the weekend.
 
+I am never really happy when I don't finish on top of PAX results, it's been a while since that has occurred, but I look forward to hopefully achieving that goal a few times in 2024...
+
 ## The Photos
 Because I was working first heat, running second heat, I was only able to shoot photos of the third heat, but I managed to take 1300 photos during that time. [I have posted 300 of those photos on my RainbowMarks Photography event gallery, check it out and purchase a shot or two if you ran third](https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3)! If you ran first or second heat, sorry! Hopefully at some point this year I'll get an opportunity to take pictures of every driver. (Perhaps at the CAM Challenge in two weeks!)
 
