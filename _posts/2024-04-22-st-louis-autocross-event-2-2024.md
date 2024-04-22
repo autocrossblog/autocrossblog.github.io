@@ -42,6 +42,11 @@ Dave and I ran second heat in CAM-C. I started out running a time of 55.* with a
 ## The Photos
 Because I was working first heat, running second heat, I was only able to shoot photos of the third heat, but I managed to take 1300 photos during that time. [I have posted 300 of those photos on my RainbowMarks Photography event gallery, check it out and purchase a shot or two if you ran third](https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3)! If you ran first or second heat, sorry! Hopefully at some point this year I'll get an opportunity to take pictures of every driver. (Perhaps at the CAM Challenge in two weeks!)
 
+{% picture 2024/April/StLouis/Event2-2.jpg --alt Street Creature Mustang splitter digging into the pavement %}
+{% picture 2024/April/StLouis/Event2-3.jpg --alt Subaru Wagon lifting the inside rear tire %}
+{% picture 2024/April/StLouis/Event2-2.jpg --alt White Mustang attempting the drift %}
+{% picture 2024/April/StLouis/Event2-2.jpg --alt White Mustang paying for the attempted drift %}
+
 ## What's next? 
 The CAM Challenge is coming up here in less than two weeks, once again at the Family Arena in St. Charles, MO. If you haven't signed up yet, get signed up! Local entrants not running in CAM classes (or the X classes) can run for $45 for the weekend, with 6 runs on Saturday and 3 runs on Sunday! CAM/X drivers can enter for $125 entry with the same 9 runs but also the ability to qualify for the Challenge portion after the Sunday morning runs. If you've not run a SCCA National level event before, this is the perfect time to try it out. You'll see drivers that are way faster than what you'll find at typical location regional event, and if you're local to STL you get to do it without all the travel costs! [Sign Up Today!](https://www.motorsportreg.com/events/2024-tire-rack-scca-st-louis-cam-challenge-family-arena-national-solo-360805)
 
