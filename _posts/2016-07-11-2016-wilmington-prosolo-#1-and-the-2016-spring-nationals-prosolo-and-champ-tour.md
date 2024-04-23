@@ -6,6 +6,8 @@ date: '2016-07-11T00:44:14+00:00'
 permalink: 2016-wilmington-prosolo-1-and-the-2016-spring-nationals-prosolo-and-champ-tour
 image:
 categories: [ 350z, Nissan ]
+redirect_from: 
+    - "2016-wilmington-prosolo-"
 ---
 
 So here we are, another month has gone by since the last blog post, time for an update here on the status of [@Project350z](http://twitter.com/project350z).
