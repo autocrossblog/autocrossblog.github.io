@@ -6,7 +6,7 @@ permalink: in-search-of-a-piston
 image: 
 categories: 
 redirect_from: 
-    - "videos-itemid-55-in-search-of-a-piston"
+    - "category/videos-itemid-55-in-search-of-a-piston"
 ---
 So I finally got into the motor tonight to look for the missing piston.
 
