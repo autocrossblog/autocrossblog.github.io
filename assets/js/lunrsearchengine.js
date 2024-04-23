@@ -1953,7 +1953,7 @@ var documents = [{
     "id": 390,
     "url": "https://www.AutocrossBlog.com/parts-car-engine-removal-day-1",
     "title": "Parts Car Engine Removal Day 1",
-    "body": "2007/02/25 - Spent today disconnecting things from the motor so I can get the motor and transmission pulled out tomorrow. Also removed some of the front end body work I need to try to make work on the 240Z as well. Accomplished today    Disconnected all wires and hoses from the motor that need to be disconnected to pull the motor.    Removed the Radiator    Removed the headlight buckets    Removed the rest of the front valance    Removed Passenger Side Mirror    Removed Passenger/Driver side chrome trim  "
+    "body": "2007/02/25 - Spent today disconnecting things from the motor so I can get the motor and transmission pulled out tomorrow. Also removed some of the front end body work I need to try to make work on the 240Z as well. Accomplished today  - Disconnected all wires and hoses from the motor that need to be disconnected to pull the motor.   - Removed the Radiator    - Removed the headlight buckets  - Removed the rest of the front valance  - Removed Passenger Side Mirror  - Removed Passenger/Driver side chrome trim "
     }, {
     "id": 391,
     "url": "https://www.AutocrossBlog.com/project-240z-day-2-of-parts-car-motor-pull",
@@ -1963,17 +1963,17 @@ var documents = [{
     "id": 392,
     "url": "https://www.AutocrossBlog.com/draining-the-fluids-in-the-parts-car-2-23-07",
     "title": "Draining the fluids in the parts car, 2-23-07",
-    "body": "2007/02/24 - I spent a bit of time this evening working on the 280Z.  Here's the video! /draining-the-fluids-in-the-parts-car-2-23-07 Here's what I got done.    Drained the oil   Drained the transmission fluid     Removed the hood wings       Removed the driver's side mirror          Removed teh driver's side Z vent cover.          Tomorrow: The motor and transmission come out. "
+    "body": "2007/02/24 - I spent a bit of time this evening working on the 280Z.  Here’s the video! Here’s what I got done. 12345- Drained the oil- Drained the transmission fluid- Removed the hood wings- Removed the driver's side mirror- Removed teh driver's side Z vent coverTomorrow: The motor and transmission come out. "
     }, {
     "id": 393,
     "url": "https://www.AutocrossBlog.com/project-240z-day-1-of-parts-car-motor-pull-2-24",
     "title": "Project 240Z Day 1 of Parts Car Motor Pull 2-24",
-    "body": "2007/02/24 - "
+    "body": "2007/02/24 - Spent today disconnecting things from the motor so I can get the motor and transmission pulled out tomorrow. Also removed some of the front end body work I need to try to make work on the 240Z as well. "
     }, {
     "id": 394,
     "url": "https://www.AutocrossBlog.com/parts-car-draining-the-fluids-2-23",
     "title": "Parts Car draining the fluids 2-23",
-    "body": "2007/02/24 - "
+    "body": "2007/02/24 - In prepping the parts car for engine and transmission removal I needed to drain fluids! "
     }, {
     "id": 395,
     "url": "https://www.AutocrossBlog.com/you're-invited-this-weekend-good-luck-at-the-100-acre-wood",
@@ -1983,7 +1983,7 @@ var documents = [{
     "id": 396,
     "url": "https://www.AutocrossBlog.com/february-17th-garage-cleanup-organization",
     "title": "February 17th, Garage Cleanup/Organization",
-    "body": "2007/02/18 - I spent a few hours on the 17th getting the garage cleaned up so that I can begin pulling the motor out of the parts car. I hope to begin that process today. Checkout yesterday's video, though I warn you, it isn't all that exciting! new-garage-organization-2-17 "
+    "body": "2007/02/18 - I spent a few hours on the 17th getting the garage cleaned up so that I can begin pulling the motor out of the parts car. I hope to begin that process today. Checkout yesterday’s video, though I warn you, it isn’t all that exciting! new-garage-organization-2-17 "
     }, {
     "id": 397,
     "url": "https://www.AutocrossBlog.com/learning-about-turbos",
@@ -1993,7 +1993,7 @@ var documents = [{
     "id": 398,
     "url": "https://www.AutocrossBlog.com/new-garage-organization-2-17",
     "title": "New Garage Organization 2-17",
-    "body": "2007/02/18 - "
+    "body": "2007/02/18 - Video of me working organizing the new garage. "
     }, {
     "id": 399,
     "url": "https://www.AutocrossBlog.com/thanks-for-4wd",
@@ -2033,12 +2033,12 @@ var documents = [{
     "id": 406,
     "url": "https://www.AutocrossBlog.com/prepping-the-parts-car-1978-280z-22",
     "title": "Prepping the parts car, 1978 280Z 2+2",
-    "body": "2007/01/29 - "
+    "body": "2007/01/29 - Starting working on the 78 280Z 2+2 parts car today. I absolutely hate 2+2s, they are an abomination that are only useful for tearing apart for parts. "
     }, {
     "id": 407,
     "url": "https://www.AutocrossBlog.com/prepping-for-pulling-the-motor-out-of-the-datsun-240z",
     "title": "Prepping for pulling the motor out of the Datsun 240z",
-    "body": "2007/01/29 - "
+    "body": "2007/01/29 - Spent some time today getting the car prepped for pulling the motor. Still a bit of work left to do. "
     }, {
     "id": 408,
     "url": "https://www.AutocrossBlog.com/project-240z-site-begins",
