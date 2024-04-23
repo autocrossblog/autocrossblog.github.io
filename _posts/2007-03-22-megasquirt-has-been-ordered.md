@@ -4,7 +4,7 @@ title: Megasquirt has been ordered
 date: '2007-03-22T16:37:47+00:00'
 permalink: megasquirt-has-been-ordered
 image: 
-categories: [ 240z ]
+categories: [ 240z, Datsun ]
 ---
 Even though I'm out in Mormanville I've been hard at work at least thinking about the Project 240z!  With the guidance of Mr. Whittle I've ordered over $700 in equipment to get the motor wired up with Megasquirt.
 

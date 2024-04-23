@@ -4,7 +4,7 @@ title: 240Z Engine Bay Cleanup
 date: '2007-03-18T00:00:00+00:00'
 permalink: 240z-engine-bay-cleanup
 image: 
-categories: [ 240z ]
+categories: [ 240z, Datsun ]
 ---
 I spent a few hours on Sunday the 18th of March cleaning up the engine bay of my 1973 240Z.
 

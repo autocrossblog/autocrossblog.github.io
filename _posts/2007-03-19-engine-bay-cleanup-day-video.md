@@ -4,7 +4,7 @@ title: Engine bay cleanup day video
 date: '2007-03-19T06:52:53+00:00'
 permalink: engine-bay-cleanup-day-video
 image: 
-categories: [ 240z ]
+categories: [ 240z, Datsun ]
 ---
 I spent a few hours tooling around the garage today, mostly inside of the engine bay.
 I tried to clean up old paint and rust so that I can go through it next weekend with primer and paint to make it look a bit nicer. It's currently, or was, black and orange, very Octoberish, well it's March, so it was time to go. I also spent some time in the drivers compartment disconnecting the brake pedal from the booster and master cylinder. 

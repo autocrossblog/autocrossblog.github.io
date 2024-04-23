@@ -4,7 +4,7 @@ title: Parts car interior removal, day 1
 date: '2007-03-03T00:00:00+00:00'
 permalink: parts-car-interior-removal-day-1
 image: 
-categories: [ 240z ]
+categories: [ 240z, Datsun ]
 ---
 I spent some time today, though not too long, removing interior items from the 280Z today.
 

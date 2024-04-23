@@ -4,8 +4,9 @@ title: Prepping for pulling the motor out of the Datsun 240z
 date: '2007-01-29T00:00:00+00:00'
 permalink: prepping-for-pulling-the-motor-out-of-the-datsun-240z
 image: 
-categories: [ 240z ]
+categories: [ 240z, Datsun ]
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mfdQASxI0Mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Spent some time today getting the car prepped for pulling the motor. Still a bit of work left to do.
 
