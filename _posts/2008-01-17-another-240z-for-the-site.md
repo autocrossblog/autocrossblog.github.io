@@ -7,7 +7,7 @@ image:
 categories:  [ 240z, Datsun ]
 
 ---
-<p>What? Another 240Z may become part of <a href="http://www.project240z.com">www.project240z.com</a>? More information next week.....</p>
+What? Another 240Z may become part of www.project240z.com? More information next week.....
 
 
 
