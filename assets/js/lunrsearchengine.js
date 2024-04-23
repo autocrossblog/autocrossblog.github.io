@@ -1648,32 +1648,32 @@ var documents = [{
     "id": 329,
     "url": "https://www.AutocrossBlog.com/p240z-rollin-till-the-wheels-fall-off",
     "title": "P240Z Rollin till the wheels fall off",
-    "body": "2007/06/26 - Eric and I put the brakes back together, got the wheels on the car, roll it out of the garage, turn it around, roll it back in, then start cutting out the rear to mount the fuel cell.  "
+    "body": "2007/06/26 - Eric and I put the brakes back together, got the wheels on the car, roll it out of the garage, turn it around, roll it back in, then start cutting out the rear to mount the fuel cell. "
     }, {
     "id": 330,
     "url": "https://www.AutocrossBlog.com/more-fuel-parts-ordered",
     "title": "More Fuel Parts Ordered",
-    "body": "2007/06/22 - I just placed another order with Summit Racing dot com today. I ordered the following, which I think will finish up what I need for the fuel system for the 240z.  AEI-13109 FUEL REGULATOR    AEI-15633 FUEL PRESSURE GAUGE     AER-FBM3416 REPLACEMENT HNBR O-RINGS EA     AER-FBM3417 REPLACEMENT HNBR O-RINGS 6EA    EAR-251008ERL SIZE 8 FLAPPER CK - STYLE 1    SUM-220630 -06 PLUG AN ALUMINUM     SUM-220648 6AN TO 3/8 NPT ADAPTER    SUM-220841 -08 AN FEMALE COUPLE     SUM-220844 -08-06 AN MALE ADAPTER    SUM-220887 -08 90 SWIVEL HOSE END    SUM-220890 8AN HOSE END STRAIGHT  "
+    "body": "2007/06/22 - I just placed another order with Summit Racing dot com today. I ordered the following, which I think will finish up what I need for the fuel system for the 240z. 1234567891011- AEI-13109 FUEL REGULATOR- AEI-15633 FUEL PRESSURE GAUGE - AER-FBM3416 REPLACEMENT HNBR O-RINGS EA- AER-FBM3417 REPLACEMENT HNBR O-RINGS 6EA- EAR-251008ERL SIZE 8 FLAPPER CK - STYLE 1- SUM-220630 -06 PLUG AN ALUMINUM- SUM-220648 6AN TO 3/8 NPT ADAPTER- SUM-220841 -08 AN FEMALE COUPLE- SUM-220844 -08-06 AN MALE ADAPTER- SUM-220887 -08 90 SWIVEL HOSE END- SUM-220890 8AN HOSE END STRAIGHT "
     }, {
     "id": 331,
     "url": "https://www.AutocrossBlog.com/datsun-fuel-rail-ordered",
     "title": "Datsun Fuel Rail Ordered!",
-    "body": "2007/06/22 - I just got off the phone with www. lonewolfperformance. com and ordered my fuel rail for the Project 240Z. Hopefully it will be here next week. Tomorrow I'll get on ordering the other parts I need, a guage, regulator and some fittings. As well as starting to locate some injectors! Thanks for James at Lonewolf for all the help on the phone today, he was great with answering my questions, and guess where they're from? Salina Kansas of all places, I guess I'll have to get the car ready and make it to an event in Salina sometime next year! "
+    "body": "2007/06/22 - I just got off the phone with lonewolfperformance. com and ordered my fuel rail for the Project 240Z. Hopefully it will be here next week. Tomorrow I’ll get on ordering the other parts I need, a guage, regulator and some fittings. As well as starting to locate some injectors! Thanks for James at Lonewolf for all the help on the phone today, he was great with answering my questions, and guess where they’re from? Salina Kansas of all places, I guess I’ll have to get the car ready and make it to an event in Salina sometime next year! "
     }, {
     "id": 332,
     "url": "https://www.AutocrossBlog.com/high-definition-240z-engine-removal",
     "title": "High Definition 240Z Engine Removal",
-    "body": "2007/06/19 - I finally got the video working from my new camera. I installed Windows Vista again last night on my home Machine (after 4 months of running on XP again) and with Vista the camera works great! You can see/download the video with the URL below. But please right click and save the file, it is large. 180mb, but I think the quality is well worth the wait for the download. http://www. christoc. com/p240z-6-16. 2. wmv "
+    "body": "2007/06/19 - I finally got the video working from my new camera. I installed Windows Vista again last night on my home Machine (after 4 months of running on XP again) and with Vista the camera works great! You can see/download the video with the URL below. But please right click and save the file, it is large. 180mb, but I think the quality is well worth the wait for the download. 2024 Update: Uploaded to YouTube. 180mb large? Lol 2007 me was so funny "
     }, {
     "id": 333,
     "url": "https://www.AutocrossBlog.com/a-small-victory-(updated)",
     "title": "A small victory (updated)",
-    "body": "2007/06/18 - With the help of a buddy of mine I was able to get the intake manifold removed from the car, as well as the exhaust manifold and the turbo. I had hoped to have video up today but for some reason my laptop apparently decided to have some troubles with the video file from today. I do have the engine removal on tape, in high def. I got a new video camera today, Natalie and I needed one (she's got a lesson with a very big name in training on Monday that she wants me to record), the camera is amazing. I hooked it up to my plasma TV and holy cow, my garage looks better on TV than in person! I'll work tomorrow to get the HD video off that camera. I have a few hours of video with my normal webcam setup, hopefully this chkdsk I'm running now will repair one of the videos. Otherwise it looks like I'll only have the motor removal from the webcam, not the 2 hours of work after that removing all the intake/exhaust manifold parts. What's next? Cleanup time. I'm going to be ordering a fuel rail, injectors, pressure system/guage, and look into options for cleaning up the intake manifold. I may end up trying to have some machine work done on the manifold, and have the intake/exhaust manifolds coated before I go to put them back on. More on that later this week. Hopefully video later tonight, if not sometime tomorrow. Here's a link to the Video "
+    "body": "2007/06/18 - With the help of a buddy of mine I was able to get the intake manifold removed from the car, as well as the exhaust manifold and the turbo. I had hoped to have video up today but for some reason my laptop apparently decided to have some troubles with the video file from today. I do have the engine removal on tape, in high def. I got a new video camera today, Natalie and I needed one (she’s got a lesson with a very big name in training on Monday that she wants me to record), the camera is amazing. I hooked it up to my plasma TV and holy cow, my garage looks better on TV than in person! I’ll work tomorrow to get the HD video off that camera. I have a few hours of video with my normal webcam setup, hopefully this chkdsk I’m running now will repair one of the videos. Otherwise it looks like I’ll only have the motor removal from the webcam, not the 2 hours of work after that removing all the intake/exhaust manifold parts. What’s next? Cleanup time. I’m going to be ordering a fuel rail, injectors, pressure system/guage, and look into options for cleaning up the intake manifold. I may end up trying to have some machine work done on the manifold, and have the intake/exhaust manifolds coated before I go to put them back on. More on that later this week. Hopefully video later tonight, if not sometime tomorrow. Here’s a link to the Video "
     }, {
     "id": 334,
     "url": "https://www.AutocrossBlog.com/engine-removal-video-1-of-2",
     "title": "Engine Removal, Video 1 of 2",
-    "body": "2007/06/17 - I got the motor out of the car again yesterday, here's the video! First half is motor removal, second half is me and Eric working on removing the intake manifold, exhaust manifold and turbo.  "
+    "body": "2007/06/17 - I got the motor out of the car again yesterday, here’s the video! First half is motor removal, second half is me and Eric working on removing the intake manifold, exhaust manifold and turbo. "
     }, {
     "id": 335,
     "url": "https://www.AutocrossBlog.com/p240z-motor-out",
@@ -1683,12 +1683,12 @@ var documents = [{
     "id": 336,
     "url": "https://www.AutocrossBlog.com/progress-is-slow-but-i-do-have-a-new-video",
     "title": "Progress is slow, but I do have a new video!",
-    "body": "2007/06/15 - So I spent some time tonight working on trying to remove the intake manifold from the car. Long story short, I didn't get very far and I'm going to pull the motor back out of the car on Saturday. Getting parts removed off the motor is a huge pain in the rear with it in the car, so I'm just going to disconnect the driveshaft, motor mount and transmission mount and pull the thing back out for now. I'll probably take this time to look at replacing the fuel rail and injectors while I have it out of the car. I need to pull it out so I can retap some of the holes I need to fill, as well as clean it out, I'm sure it has all sorts of crap in there that I'd rather not blow into the motor the first time it starts up. Here is a link to the video from this evening. Nothing too interesting, but a cool camera angle. Removing the motor on Saturday should make for some good video. . . "
+    "body": "2007/06/15 - So I spent some time tonight working on trying to remove the intake manifold from the car. Long story short, I didn’t get very far and I’m going to pull the motor back out of the car on Saturday. Getting parts removed off the motor is a huge pain in the rear with it in the car, so I’m just going to disconnect the driveshaft, motor mount and transmission mount and pull the thing back out for now. I’ll probably take this time to look at replacing the fuel rail and injectors while I have it out of the car. I need to pull it out so I can retap some of the holes I need to fill, as well as clean it out, I’m sure it has all sorts of crap in there that I’d rather not blow into the motor the first time it starts up. Here is a link to the video from this evening. Nothing too interesting, but a cool camera angle. Removing the motor on Saturday should make for some good video… "
     }, {
     "id": 337,
     "url": "https://www.AutocrossBlog.com/240z-intake-manifold-bolts",
     "title": "240Z Intake Manifold Bolts...",
-    "body": "2007/06/15 - I spent tonight removing 3 bolts off the turbo (of 4) and one intake manifold bold, as well as two heat shield bolts and the destruction of another heat shield bolt. This weekend the motor comes out again. . . "
+    "body": "2007/06/15 - I spent tonight removing 3 bolts off the turbo (of 4) and one intake manifold bold, as well as two heat shield bolts and the destruction of another heat shield bolt. This weekend the motor comes out again… "
     }, {
     "id": 338,
     "url": "https://www.AutocrossBlog.com/fun-power-tools-and-more-240z-progress",
