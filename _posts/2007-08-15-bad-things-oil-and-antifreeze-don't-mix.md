@@ -7,7 +7,7 @@ image:
 categories:  [ 240z, Datsun ]
 
 ---
-<p>So I'm in the garage. Pulled the drain plug on the motor, out comes antifreeze, then oil... bad things</p>
+So I'm in the garage. Pulled the drain plug on the motor, out comes antifreeze, then oil... bad things
 
 
 
