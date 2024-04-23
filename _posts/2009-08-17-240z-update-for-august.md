@@ -4,7 +4,7 @@ title: 240Z update for August
 date: '2009-08-17T02:56:15+00:00'
 permalink: 240z-update-for-august
 image: 
-categories:  [ 240z ]
+categories:  [ 240z, Datsun ]
 
 ---
  So I didn't actually get anything physically done on the 240Z this weekend, but I did manage to get $40 worth of light bulbs and fuses for the car. 
