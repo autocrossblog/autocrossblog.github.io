@@ -5,8 +5,8 @@ date: '2016-11-15T00:39:38+00:00'
 permalink: stu-2003-nissan-350z-for-sale-project350z-v3
 image:
 categories: [ 350z, Nissan ]
-redirect-from:
-    - stu-2003-nissan-350z-for-sale–project350z-v3
+redirect_from: 
+    - "stu-2003-nissan-350z-for-sale–project350z-v3"
 ---
 **SOLD!**
 

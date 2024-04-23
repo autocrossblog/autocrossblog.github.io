@@ -5,6 +5,8 @@ date: '2008-01-09T02:53:27+00:00'
 permalink: in-search-of-a-piston
 image: 
 categories: 
+redirect_from: 
+    - "videos-itemid-55-in-search-of-a-piston"
 ---
 So I finally got into the motor tonight to look for the missing piston.
 
