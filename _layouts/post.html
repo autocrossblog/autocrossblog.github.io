@@ -28,28 +28,20 @@ featured_image:  something.jpg
                         <h1 class="posttitle">{{ page.title }}</h1>
 
                         <!-- Post Date -->
-                        <p>
+                        <div style="float:right">
                             <small>
-                                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d %H:%M" }}">{{ page.date | date: "%b %-d, %Y %H:%M" }}</time></span>           
+                                <span class="post-date">Posted: <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d %H:%M" }}">{{ page.date | date: "%b %-d, %Y %H:%M" }}</time></span>           
                                 {% if page.last_modified_at %}
                                 (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y %H:%M" }}</time>)
                                 {% endif %}
                             </small>
-                        </p>
-    
+                        </div>  
 
                         <!-- Author Box -->
                         {% if page.author %}
                         <div class="row post-top-meta">
-                            <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
-                                {% if author.avatar %}
-                                <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-                                {% else %}
-                                <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
-                                {% endif %}
-                            </div>
                             <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                                <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+                                By: <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
                             </div>
                         </div>
                         {% endif %}
@@ -100,6 +92,13 @@ featured_image:  something.jpg
                     <div class="row post-top-meta">
                         <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
                             <h3>About the Author:</h3>
+                            <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                                {% if author.avatar %}
+                                <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
+                                {% else %}
+                                <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+                                {% endif %}
+                            </div>
                             <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
                                 <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
                             </div>
