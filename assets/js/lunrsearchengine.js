@@ -1763,22 +1763,22 @@ var documents = [{
     "id": 352,
     "url": "https://www.AutocrossBlog.com/240z-throttle-linkage-and-bodywork",
     "title": "240Z Throttle Linkage and Bodywork",
-    "body": "2007/05/06 - Dad and I spent some time creating a new throttle linkage as the old one off the parts car wouldn't fit on this firewall. After that I had to put the front end together just to see it start to look like a car. 1&lt;object width= 425  height= 350 &gt;&lt;param name= movie  value= https://www. youtube. com/v/gUx4mhIfb38 /&gt;&lt;embed src= https://www. youtube. com/v/gUx4mhIfb38  type= application/x-shockwave-flash  width= 425  height= 350 /&gt;&lt;/object&gt;"
+    "body": "2007/05/06 - Dad and I spent some time creating a new throttle linkage as the old one off the parts car wouldn’t fit on this firewall. After that I had to put the front end together just to see it start to look like a car. "
     }, {
     "id": 353,
     "url": "https://www.AutocrossBlog.com/240z-floorpan-work",
     "title": "240Z Floorpan work",
-    "body": "2007/05/06 - Dad and I spent today working on repairing the floorpan in the Project 240Z. It was a learning experience as I haven't really welded before, just a little practice here and there. After that we put the thermostat a backtogether. "
+    "body": "2007/05/06 - Dad and I spent today working on repairing the floorpan in the Project 240Z. It was a learning experience as I haven’t really welded before, just a little practice here and there. After that we put the thermostat a backtogether. "
     }, {
     "id": 354,
     "url": "https://www.AutocrossBlog.com/240z-corbeau-seats-came-in",
     "title": "240Z Corbeau Seats came in",
-    "body": "2007/05/05 - The seats I ordered earlier this week came in today! They look awesome, though they are now in the basement still in the shipping box. I'm not about to put them near the car right now, not until I get the grinding/welding done so I don't cover them in dust/rust and crap!  "
+    "body": "2007/05/05 - The seats I ordered earlier this week came in today! They look awesome, though they are now in the basement still in the shipping box. I’m not about to put them near the car right now, not until I get the grinding/welding done so I don’t cover them in dust/rust and crap! "
     }, {
     "id": 355,
     "url": "https://www.AutocrossBlog.com/cleaning-up-the-passenger-floorboard",
     "title": "Cleaning up the passenger floorboard",
-    "body": "2007/05/02 - I spent some time this evening cleaning up the passenger floorboard. I have a LOT of welding to do there! I'm going to do some more practicing tomorrow. To view tonight's video click the link below /cleaning-up-the-passenger-floor "
+    "body": "2007/05/02 - I spent some time this evening cleaning up the passenger floorboard. I have a LOT of welding to do there! I’m going to do some more practicing tomorrow. To view tonight’s video click the link below cleaning-up-the-passenger-floor "
     }, {
     "id": 356,
     "url": "https://www.AutocrossBlog.com/mark-stops-by-with-a-welder",
