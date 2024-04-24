@@ -81,5 +81,12 @@ picture:
       source_default:
         width: "300"
 
+defaults:
+  - scope:
+      path: ""  # An empty string here means all files
+      type: "posts"
+    values:
+      author: "chris"
+
 # exclude:
 #  - /assets/images/*
