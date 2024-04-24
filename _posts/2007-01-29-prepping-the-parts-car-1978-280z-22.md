@@ -2,6 +2,7 @@
 layout: post
 title: Prepping the parts car, 1978 280Z 2+2
 date: '2007-01-29T00:00:00+00:00'
+last_modified_at: '2024-04-21T11:07:00+00:00'
 permalink: prepping-the-parts-car-1978-280z-22
 image: 
 categories: [ 240z, Datsun, 280z ]
