@@ -24,7 +24,21 @@ featured_image:  something.jpg
             <article>
                 <div class="mainheading">
                     <header>
-                    <!-- Author Box -->
+                        <!-- Post Title -->
+                        <h1 class="posttitle">{{ page.title }}</h1>
+
+                        <!-- Post Date -->
+                        <p>
+                            <small>
+                                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d %H:%M" }}">{{ page.date | date: "%b %-d, %Y %H:%M" }}</time></span>           
+                                {% if page.last_modified_at %}
+                                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y %H:%M" }}</time>)
+                                {% endif %}
+                            </small>
+                        </p>
+    
+
+                        <!-- Author Box -->
                         {% if page.author %}
                         <div class="row post-top-meta">
                             <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
@@ -40,8 +54,7 @@ featured_image:  something.jpg
                         </div>
                         {% endif %}
 
-                        <!-- Post Title -->
-                        <h1 class="posttitle">{{ page.title }}</h1>
+
                     </header>
                 </div>
 
@@ -80,15 +93,6 @@ featured_image:  something.jpg
                 </div>
                 {% endif %}
 
-                <!-- Post Date -->
-                <p>
-                <small>
-                    <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-                    {% if page.last_modified_at %}
-                    (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                    {% endif %}
-                    </small>
-                </p>
 
                 <footer>
                     <!-- Author Box -->
