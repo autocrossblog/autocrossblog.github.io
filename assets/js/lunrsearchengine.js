@@ -1803,22 +1803,22 @@ var documents = [{
     "id": 360,
     "url": "https://www.AutocrossBlog.com/p240z-two-new-videos",
     "title": "P240Z two new videos",
-    "body": "2007/04/29 - I've posted two new videos for the 240Z. Yesterday I spent some time finishing up the work bench and organizing the garage a bit. /new-toolbench-setup And then Russ came over and we spent a few hours doing a few necessary things. We removed parts for the brakes and cleaned up items so that I can get everything turned this weekend. I installed the new Rocker arm cover gasket. Russ started fabricating block off plates for the various items that will be coming off the motor, you know, all those inhibiting emissions items! /project-240z-brakes-and-unecessary-items  "
+    "body": "2007/04/29 - I’ve posted two new videos for the 240Z. Yesterday I spent some time finishing up the work bench and organizing the garage a bit. new-toolbench-setup And then Russ came over and we spent a few hours doing a few necessary things. We removed parts for the brakes and cleaned up items so that I can get everything turned this weekend. I installed the new Rocker arm cover gasket. Russ started fabricating block off plates for the various items that will be coming off the motor, you know, all those inhibiting emissions items! project-240z-brakes-and-unecessary-items "
     }, {
     "id": 361,
     "url": "https://www.AutocrossBlog.com/project-240z-brakes-and-unecessary-items",
     "title": "Project 240Z Brakes and Unecessary items",
-    "body": "2007/04/29 - Russ helped me yesterday afternoon and last night with quite a few things on the car. We removed all of the brakes so I can get those turned. Then we started fabricating blockoff plates for the various vacuum and emission lines that will be removed from the car.  "
+    "body": "2007/04/29 - Russ helped me yesterday afternoon and last night with quite a few things on the car. We removed all of the brakes so I can get those turned. Then we started fabricating blockoff plates for the various vacuum and emission lines that will be removed from the car. "
     }, {
     "id": 362,
     "url": "https://www.AutocrossBlog.com/new-toolbench-setup",
     "title": "New Toolbench Setup",
-    "body": "2007/04/29 - Saturday I spent a few hours fixing up the garage. I got the new toolbox together, and some other items organized. I also filled the trashcan, I guess it's time to get another trashcan!  "
+    "body": "2007/04/29 - Saturday I spent a few hours fixing up the garage. I got the new toolbox together, and some other items organized. I also filled the trashcan, I guess it’s time to get another trashcan! "
     }, {
     "id": 363,
     "url": "https://www.AutocrossBlog.com/my-motivation",
     "title": "My Motivation",
-    "body": "2007/04/28 - I was digging through some old photos tonight looking for photos of Jeff Krekeler, when I ran across this photo I took back in June of 2004.   When I get bored, lazy, or tired of working on the Project240z, I only have to look at that photo and realize what I'm striving for. That car is beautiful, and I hope my car can one day look that good. . . "
+    "body": "2007/04/28 - I was digging through some old photos tonight looking for photos of Jeff Krekeler, when I ran across this photo I took back in June of 2004.  When I get bored, lazy, or tired of working on the Project240z, I only have to look at that photo and realize what I’m striving for. That car is beautiful, and I hope my car can one day look that good… "
     }, {
     "id": 364,
     "url": "https://www.AutocrossBlog.com/gas-tank-update-seat-fitting-this-weekend-harbor-freight-sucks",
