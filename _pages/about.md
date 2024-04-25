@@ -18,4 +18,4 @@ I signed up for the local Novice school, and was hooked. I started autocrossing 
 
 I was hooked, and have autocrossed pretty heavily (and sometimes lightly) over the past 24 years.
 
-This blog is a culmination of a number of projects including Project240z.com, Project350z.com and SpecFRS.com. Long ago I ran a website that started out as Pylon.cc, and then turned into SOLO2.ORG which for a time wa the largest autocross forum on the web. While that site isn't around anymore, it was the start of my blogging in the autocross world.
+This blog is a culmination of a number of projects including Project240z.com, Project350z.com and SpecFRS.com. Long ago I ran a website that started out as Pylon.cc, and then turned into SOLO2.ORG which for a time was the largest autocross forum on the web. While that site isn't around anymore, it was the start of my blogging in the autocross world.
