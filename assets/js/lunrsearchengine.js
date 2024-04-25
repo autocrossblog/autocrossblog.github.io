@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "https://www.AutocrossBlog.com/photos",
     "title": "Autocross Photos",
-    "body": "I haven’t yet decided how I want to do photos here on the website. For now, check out some of the autocross photos from my RainbowMarks Photography business. You can also find some older autocross photos on Flickr "
+    "body": "Over the past 24 years, we’ve taken thousands of autocross photos. Check out a gallery of some of those! I haven’t yet decided how I want to do photos here on the website. For now, check out some of the autocross photos from my RainbowMarks Photography business. You can also find some older autocross photos on Flickr "
     }, {
     "id": 5,
     "url": "https://www.AutocrossBlog.com/policies",
