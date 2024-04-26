@@ -1,0 +1,19 @@
+---
+layout: post
+title: New ride for 2018, my 2016 Scion FR-S
+date: '2018-03-27T03:32:58+00:00'
+last_modified_at: '2024-04-26T11:11:44+00:00'
+permalink: new-ride-for-2018-my-2016-scion-frs
+image: 
+categories: [ Toyota, Scion, FR-S  ]
+---
+<p>I have been scouring the interwebs for a good month or so looking for the perfect FR-S for my SSC build, and came across the one via Autotrader. I reached out to the dealership via Autotrader, and also via TrueCar.com to see what kind of deal I could get on the car. The asking price was $18499, via the TrueCar inquiry they immediately dropped $125 from the price, though the TrueCar quote was adjusted to include a $598 dealer documentation fee, for a total price of $18,972.</p>  <a title="2016 Scion FR-S" href="https://www.flickr.com/photos/chammond/40148396415/in/dateposted/" data-footer="true" data-header="true" data-flickr-embed="true"><img width="500" height="375" alt="2016 Scion FR-S" src="https://farm1.staticflickr.com/814/40148396415_541a6a97c2.jpg" align="center"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  <p>I managed to talk the dealer down about $1k from that price, and after Brian Johns from <a title="https://carpartment.wordpress.com/" href="https://carpartment.wordpress.com/">https://carpartment.wordpress.com/</a> stopped by the dealer to check it out for me, I placed a deposit via the phone on Friday night the 9th. Just over a week and a half ago I hitched a ride with Dave from <a href="http://www.SoloPerformance.com">SoloPerformance.com</a> down to the Dixie Champ Tour in Adel, Georgia. On the way down we stopped in Murfreesboro, Tennessee at Toyota of Murfreesboro to pick up my new SSC ride, a 2016 Scion FR-S.</p>
+<p>Because we were on our way down to the Champ Tour, and we wanted to try to swing by the Jack Daniel's Distillery, we were sort of in a rush when we arrived at the dealer with the truck and trailer in tow. I was hoping to get and our of the dealership in under 2 hours, which, unfortunately, is impossible with car dealers. I performed a quick test drive of the car, and looked her over to see what condition it was in. Overall I was disappointed as I had been told that the car would be detailed before I arrived, but it was far from detailed. It had a rough surface, some sort of film/overspray over most of the car, (top, windows, hood) that was very rough to the touch. It wasn't bad enough that I would change my mind on the car, I figured I would just detail it myself when I had the time and get it cleaned up.</p>
+<p>After that, we tried to move forward with the paperwork, I had pre-approval paperwork ready to go from my bank, and even with that it took about 2.5 hours after we arrived before I was back on the road trying to catch up with Dave and his dad who headed off to Lynchburg to take a tour of the distillery. </p>
+<p>Stay tuned for more posts here on the <a href="http://www.specfrs.com">SpecFRS blog</a>, and be sure to <a href="https://twitter.com/specfrs">follow us on Twitter too</a>.</p>
+<p><br></p>
+
+
+
+
+

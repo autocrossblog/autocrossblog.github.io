@@ -24,7 +24,7 @@ For SSC, here are the contingencies that I believe to be applicable:
 - TRD – ProSolo
 - Falken Tire – ProSolo & Champ/Match Tours
 - Hawk Performance Brakes - ProSolo & Champ/Match Tours
-- [Solo Performance Specialties](http://www.soloperformance.com/) – Champ/Match Tours
+- [Solo Performance Specialties](https://www.soloperformance.com/) – Champ/Match Tours
 - RaceChick.com – ProSolo (ladies)
 
 The amounts will all vary, but Falken for example will pay $300 for first, $200 for second and $100 for third.

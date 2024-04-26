@@ -15,7 +15,7 @@ With that in mind, I wanted to see what I was going to need to do to make them f
 The wheels and tires unfortunately do not fit on the front, but I kind of expected that, and was surprised they fit on the rear without any trouble. So in order to get the wheels on the front of the car I'm going to need to do a few things.
  
   - I need spacers up front, I test fitted a single and double 5mm spacer, 5mm wasn't enough, but 10mm looks to be right. So in the front I'll need 10mm at minimum, though I may order a few different spacers for future needs.</li>
-  - Longer studs, I ended up ordering some ARP Studs (part number 100-7717) from [www.soloperformance.com](http://www.soloperformance.com) via special order. They should be here Friday, in time for me to install them on Saturday. I ordered rear studs as well, but may not put those on immediately.
+  - Longer studs, I ended up ordering some ARP Studs (part number 100-7717) from [www.soloperformance.com](https://www.soloperformance.com) via special order. They should be here Friday, in time for me to install them on Saturday. I ordered rear studs as well, but may not put those on immediately.
   - New lug nuts, with the longer studs I'll need an open lug nut, I'll pick those up at autozone or kragen.
 
 I think, and we'll see in a few months, that I can probably get 315s all the way around on these wheels, and with appropriate spacers, that 315 will fit.
