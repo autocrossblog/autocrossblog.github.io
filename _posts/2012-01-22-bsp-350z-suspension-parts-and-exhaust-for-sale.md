@@ -9,8 +9,14 @@ categories: [ 350z, Nissan ]
 Update: 1/29/2013 
 
 The suspension is now in St. Louis Missouri and available for $1000 plus shipping, paid via Paypal. That includes
-  <p style="font: inherit;"><strong style="font: inherit;">Front Suspension</strong> <br />  TrueChoice Phase 4 coilovers <br />  650lb Hyperco Springs
-  <p style="font: inherit;"><strong style="font: inherit;">Rear Suspension</strong> <br />  Unknown brand spring perches <br />  Unknown brand 500lb springs <br />  Koni Sport Shocks (standard off the shelf)
+**Front Suspension**
+- TrueChoice Phase 4 coilovers 
+- 650lb Hyperco Springs
+  
+**Rear Suspension**
+- Unknown brand spring perches
+- Unknown brand 500lb springs
+- Koni Sport Shocks (standard off the shelf)
 
 All other parts are sold already
 
@@ -63,5 +69,4 @@ $500 Used exhaust, works and sounds great. Center (longest) pipes are about a ye
 
 
 More photos of the parts at at (<a href="http://www.flickr.com/photos/chammond/sets/72157628769483291/">http://www.flickr.com/photos/chammond/sets/72157628769483291/</a>)
-
 
