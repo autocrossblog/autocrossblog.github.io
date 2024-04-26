@@ -8,7 +8,7 @@ permalink: nope-those-lug-nuts-wont-fit
 image:
 categories: [ 350z, Nissan, Setup ]
 ---
-So I ran around Redwood City today over lunch, I needed to find some spacers and lug nuts to go along with the new studs that arrived today from [Solo Performance Specialties](http://www.soloperformance.com)
+So I ran around Redwood City today over lunch, I needed to find some spacers and lug nuts to go along with the new studs that arrived today from [Solo Performance Specialties](https://www.soloperformance.com)
 
 I went to Kragen first, they didn't have any spacers but were kind enough to point me towards Five Point Tire in Redwood City. Five Point was great, service was awesome and the guy was very helpful. I picked up 6 spacers, with the intention of only using 2 or 4 of them for now.
 
