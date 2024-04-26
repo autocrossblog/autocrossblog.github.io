@@ -31,10 +31,7 @@ The wheels I picked up are Enkei RPF1 18x10” +38 for all four corners. The tir
 
 In addition to the wheels and tires I picked up a set of used front and rear Hotchkis sway bars for the 350z. They are the older set, only 3 adjustment points, but they will do for now.
 
-<a href="http://www.flickr.com/photos/chammond/5419227993/">
-    <img style="display: inline; float: right" border="0" alt="New Street Tires" align="right" src="http://farm6.static.flickr.com/5215/5419227993_5718e95cd4_m.jpg" width="180" height="240" />
-
-</a>
+<a href="http://www.flickr.com/photos/chammond/5419227993/">    <img style="display: inline; float: right" border="0" alt="New Street Tires" align="right" src="http://farm6.static.flickr.com/5215/5419227993_5718e95cd4_m.jpg" width="180" height="240" /></a>
     
 I also picked up some new street tires today as the current ones are getting pretty dangerous in the rain. These are brand new Falken RT615s 265/35R18. Not sure when I will get them mounted, but I'm looking forward to having them on the car.
 

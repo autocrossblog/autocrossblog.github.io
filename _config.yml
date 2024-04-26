@@ -13,7 +13,7 @@ include: ["_pages"]
 permalink: /:title/
 url: 'https://www.AutocrossBlog.com'
 
-templatemessage: 'Forked from <a target="_blank" href="https://www.chrishammond.com/">Chris Hammond</a>''s <a href="https://jekyllexample.com">jekyllexample.com</a>.'
+templatemessage: 'Forked from <a  href="https://www.chrishammond.com/">Chris Hammond</a>''s <a href="https://jekyllexample.com">jekyllexample.com</a>.'
 
 # Authors
 authors:
