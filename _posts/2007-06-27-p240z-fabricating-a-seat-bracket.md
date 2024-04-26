@@ -2,6 +2,8 @@
 layout: post
 title: P240Z fabricating a seat bracket
 date: '2007-06-27T11:15:00+00:00'
+last_modified_at: '2024-04-25T21:05:21+00:00'
+description: "Tonight was a semi productive night on the 240Z, which is always a good thing when some productivity happens during the week"
 permalink: p240z-fabricating-a-seat-bracket
 image: 
 categories:  [ 240z, Datsun ]
