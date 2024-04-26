@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Autocross Crash and Why You Need Autocross Insurance
+description: "My story about an autocross crash and why you should have insurance coverage"
 date: '2022-01-19T13:30:15+00:00'
+last_modified_at: '2024-04-26T11:09:43+00:00'
 permalink: autocross-accident-why-you-need-autocross-insurance
 image: 6-13-2021/side2.jpg
 categories: [ Autocross, FR-S, SSC, Setup, Accident ]
