@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Information about the Vitour Tempesta P1
+description: "Information about the illegal Vitour Tempesta P1 tire and why they shouldn't be used"
 date: '2024-02-02T00:00:15+00:00'
 permalink: vitour-tires-illegal
-description: NOT LEGAL
 image: 2024/vitourtire.jpg
 categories: [ Autocross, tires ]
 featured: false
