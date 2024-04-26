@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Night before the Project 350z's first divisional"
+description: "So today was a busy day, I had a lot to catch up on at work, training to provide internally, and a final to take this afternoon."
 date: '2011-02-19T00:52:11+00:00'
 permalink: night-before-the-project-350zs-first-divisional
 image:
