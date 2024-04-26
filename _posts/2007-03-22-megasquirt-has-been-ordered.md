@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Megasquirt has been ordered
+description: I've ordered the megasquirt with the help of a friend!
 date: '2007-03-22T16:37:47+00:00'
 permalink: megasquirt-has-been-ordered
 image: 
