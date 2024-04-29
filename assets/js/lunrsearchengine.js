@@ -658,7 +658,7 @@ var documents = [{
     "id": 131,
     "url": "https://www.AutocrossBlog.com/350z-with-a-white-stripe",
     "title": "350z with a white stripe",
-    "body": "2011/09/14 - I was looking around at Flickr today and happened to check out my “photo stats”. The most viewed photo for the day (having just started according to the Flickr servers) was this photo I kind of liked the white stripe on my old 350z. I’m still thinking I will wrap this one, but the stripe got me reminiscing. What do you think of the stripe? Yay or nay? Add a comment below and let me know! You can find a number of photos of the car during the striping process at 350z White Stripe "
+    "body": "2011/09/14 - Updated 4/28/2024:: When I originally wrote this blog post in 2011 I was looking around at Flickr and happened to check out my “photo stats”. The most viewed photo for the day (having just started according to the Flickr servers) was this that is part of this blog post. I kind of liked the white stripe on my old 350z. I’m still thinking I will wrap this one, but the stripe got me reminiscing. What do you think of the stripe? Yay or nay? Add a comment below and let me know! You can find a number of photos of the car during the striping process at 350z White Stripe "
     }, {
     "id": 132,
     "url": "https://www.AutocrossBlog.com/2011-solo-nationals-sunoco-fuels-pick-the-winners-contest",
