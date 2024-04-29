@@ -5,7 +5,7 @@ description: "Information about the illegal Vitour Tempesta P1 tire and why they
 date: '2024-02-02T00:00:15+00:00'
 permalink: vitour-tires-illegal
 image: 2024/vitourtire.jpg
-categories: [ Autocross, tires ]
+categories: [ Autocross, Tires ]
 featured: false
 comments: true
 ---
