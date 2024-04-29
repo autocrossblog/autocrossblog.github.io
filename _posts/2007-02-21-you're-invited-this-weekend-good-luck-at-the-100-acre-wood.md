@@ -2,7 +2,7 @@
 layout: post
 title: You're invited this weekend. Good luck at the 100 Acre Wood
 date: '2007-02-21T11:45:51+00:00'
-permalink: you're-invited-this-weekend-good-luck-at-the-100-acre-wood
+permalink: you-re-invited-this-weekend-good-luck-at-the-100-acre-wood
 image: 
 categories: [ 240z, Datsun ]
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Project240Z Videos, she's back!!!!
 date: '2008-08-09T23:31:43+00:00'
 last_modified_at: '2024-04-26T08:05:43+23:00'
-permalink: project240z-videos-she's-back
+permalink: project240z-videos-she-s-back
 image: 
 categories:  [ 240z, Datsun ]
 

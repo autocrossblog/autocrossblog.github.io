@@ -2,7 +2,7 @@
 layout: post
 title: Say it isn't so! We've found the piston!
 date: '2008-01-09T11:35:34+00:00'
-permalink: say-it-isn't-so-we've-found-the-piston
+permalink: say-it-isn-t-so-we-ve-found-the-piston
 image: 
 categories: [ 240z, Datsun, Motor ]
 ---

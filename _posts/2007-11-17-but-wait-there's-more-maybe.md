@@ -2,7 +2,7 @@
 layout: post
 title: But wait, there's more... maybe
 date: '2007-11-17T11:52:07+00:00'
-permalink: but-wait-there's-more-maybe
+permalink: but-wait-there-s-more-maybe
 image: 
 categories:  [ 240z, Datsun ]
 

@@ -4,7 +4,7 @@ title: Project 240z, What's next?
 description: "A blog post with a schedule of planned work from July 2007 for the 240z"
 date: '2007-07-06T00:24:52+00:00'
 last_modified_at: '2024-04-26T08:05:03+23:00'
-permalink: project-240z-what's-next
+permalink: project-240z-what-s-next
 image: 
 categories:  [ 240z, Datsun ]
 ---

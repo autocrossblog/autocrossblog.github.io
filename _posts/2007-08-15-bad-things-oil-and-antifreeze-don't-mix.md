@@ -2,7 +2,7 @@
 layout: post
 title: Bad things oil and antifreeze don't mix
 date: '2007-08-15T05:34:02+00:00'
-permalink: bad-things-oil-and-antifreeze-don't-mix
+permalink: bad-things-oil-and-antifreeze-don-t-mix
 image: 
 categories:  [ 240z, Datsun ]
 

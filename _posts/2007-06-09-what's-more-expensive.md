@@ -4,7 +4,7 @@ title: What's more expensive?
 date: '2007-06-09T08:25:10+00:00'
 last_modified_at: '2024-04-25T21:05:19+00:00'
 description: "So I seriously think I have spent more money on tools than I have spent on the car or parts for the car!"
-permalink: what's-more-expensive
+permalink: what-s-more-expensive
 image: 
 categories:  [ 240z, Datsun, Tools ]
 
