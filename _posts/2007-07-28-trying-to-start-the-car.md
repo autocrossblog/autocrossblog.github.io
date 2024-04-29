@@ -8,7 +8,6 @@ image:
 categories:  [ 240z, Datsun ]
 
 ---
-
 Here's some video of me trying to start the car tonight. Today was a day of great progress! It was also hot and probably 99% humidity as you will see by my soaked shirt.
 Notice at the end that one of the vacuum caps on the tube between the turbo and the throttle body pops off, it landed in my lap.
 
