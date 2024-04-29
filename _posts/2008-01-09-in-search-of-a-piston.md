@@ -7,7 +7,7 @@ permalink: in-search-of-a-piston
 image: 
 categories: [ 240z, Datsun ]
 redirect_from: 
-    - "category/videos-itemid-55-in-search-of-a-piston"
+    - "category/videos-itemid-55-in-search-of-a-piston/"
 ---
 So I finally got into the motor tonight to look for the missing piston.
 
