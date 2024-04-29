@@ -7,7 +7,7 @@ permalink: p240z-fiberglass-work
 image: 
 categories:  [ 240z, Datsun ]
 redirect_from:
-    - permalink: p240z-fiberglass-work-
+    - p240z-fiberglass-work-
 ---
 Tonight I spent some time working with fiberglass in the car. I was hoping to repair a few of the holes in the floorboards.
 
