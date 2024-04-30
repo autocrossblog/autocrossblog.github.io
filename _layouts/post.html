@@ -111,11 +111,11 @@ featured_image:  something.jpg
                 </footer>
                 <!-- Post Categories -->
                 <div class="after-post-cats">
-                    <ul class="tags mb-4"><small>Categories:</small>
+                    <ul class="tags mb-4"><h4><small>Categories:</h4></small>
                         {% assign sortedCategories = page.categories | sort %}
                         {% for category in sortedCategories %}
                         <li>
-                            <a class="smoothscroll" href="{{site.baseurl}}/category/{{ category | replace: " ","-" }}">{{ category }}</a>
+                            <a class="smoothscroll btn-secondary" href="{{site.baseurl}}/category/{{ category | replace: " ","-" }}">{{ category }}</a>
                         </li>
                         {% endfor %}
                     </ul>

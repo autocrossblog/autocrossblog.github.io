@@ -4,7 +4,7 @@ title: Undoing the BSP 350z
 date: '2012-01-08T00:04:51+00:00'
 permalink: undoing-the-bsp-350z
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, Nissan, BSP, Parts ]
 ---
 
 <img style="display: inline; float: right" align="right" src="http://farm8.staticflickr.com/7141/6656781633_02f0927064_m.jpg" />
