@@ -1,0 +1,15 @@
+---
+layout: post
+title: Autocrossing this sunday in Marina, CA
+date: '2011-06-30T02:16:05+00:00'
+last_modified_at: '2024-04-26T11:05:43+00:00'
+permalink: autocrossing-this-sunday-in-marina-ca
+image:
+categories: [ 350z, Nissan ]
+---
+Alright, it's time to get back into the swing of things. The 2011 TireRack SCCA Solo Nationals are in two months, I need to try to get as much seat time as I can between now and then!
+
+This weekend the AmericanAuto-x Series is going on at Marina. I've yet to hit an AAS event, so I am looking forward to it. It will have been nearly three months since my last event, so I'm sure I'll be plenty rusty. I am only going to hit the Sunday event, not ready to do both Saturday and Sunday, as I have some work to do on the car, and also some work to do around the house on Saturday.
+
+If you're going to be at Marina this weekend, be sure to come up and say hello.
+
