@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Exceptional Results in Lincoln Nebraska!
-description: "Wow, what a week! Last Wednesday I loaded up the SpecFRS onto a borrowed trailer and left St. Louis the following morning to drive to Lincoln Nebraska for spring Nationals, 4 days of racing. The drive out was uneventful, spent it trying to listen to old “The Forward” podcasts, I'm not a huge podcast guy, even though I used to have my own back in the day, but I've been trying to listen to Armstrong's podcast from the beginning, long drives are about the only time I can actually listen to it."
+description: "Wow, what a week! Last Wednesday I loaded up the SpecFRS onto a borrowed trailer and left St. Louis the following morning to drive to Lincoln Nebraska for spring Nationals"
 date: '2018-06-06T18:29:53+00:00'
 last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: exceptional-results-in-lincoln-nebraska
 image:
 categories: [ Autocross, Toyota, FR-S, SSC, Setup  ]
 ---
-[![SpecFRS loaded up for travel](https://farm1.staticflickr.com/878/40667948930_9690c26601.jpg)](https://www.flickr.com/photos/chammond/40667948930/in/dateposted/)
-
 Wow, what a week! Last Wednesday I loaded up the SpecFRS onto a borrowed trailer and left St. Louis the following morning to drive to Lincoln Nebraska for spring Nationals, 4 days of racing. The drive out was uneventful, spent it trying to listen to old “The Forward” podcasts, I'm not a huge podcast guy, even though I used to have my own back in the day, but I've been trying to listen to Armstrong's podcast from the beginning, long drives are about the only time I can actually listen to it.
+
+[![SpecFRS loaded up for travel](https://farm1.staticflickr.com/878/40667948930_9690c26601.jpg)](https://www.flickr.com/photos/chammond/40667948930/in/dateposted/)
 
 I arrived in Lincoln with plenty of time to get the car unloaded, teched, and over to practice starts to work on my lights for the weekend. I found the practice useful as I was able to knock down some Red Light issues that I had in Blytheville to only one RL all weekend in Lincoln. Friday morning, I talked Joe Tharpe into hoping into the car for the ProSolo as his C5 Z06 was out of commission due to a brake master cylinder failure. It was quite the change for him, hoping into a slow 4cyl, but he made the best of it all weekend! Joe finished in 7th in SSC for the ProSolo, only 1.4 back from the lead in the class. With Spec being such tight competition it is easy to be a number of spots back, but close to the leader. I don't know that Joe will be ditching his SSP Corvette anytime soon, but I think he had fun running in a car with half the horse power for a few days. Unfortunately on Sunday morning he took a spill while working the course and injured his shoulder, taking him out of competition for Sunday and Monday's Champ Tour.
 
