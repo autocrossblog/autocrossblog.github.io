@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Exceptional Results in Lincoln Nebraska!
+description: "Wow, what a week! Last Wednesday I loaded up the SpecFRS onto a borrowed trailer and left St. Louis the following morning to drive to Lincoln Nebraska for spring Nationals, 4 days of racing. The drive out was uneventful, spent it trying to listen to old “The Forward” podcasts, I'm not a huge podcast guy, even though I used to have my own back in the day, but I've been trying to listen to Armstrong's podcast from the beginning, long drives are about the only time I can actually listen to it."
 date: '2018-06-06T18:29:53+00:00'
 last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: exceptional-results-in-lincoln-nebraska
