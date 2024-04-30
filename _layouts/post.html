@@ -114,11 +114,9 @@ featured_image:  something.jpg
                     <ul class="tags mb-4"><h4><small>Categories:</small></h4>
                         {% assign sortedCategories = page.categories | sort %}
                         {% for category in sortedCategories %}
-
-                        {% assign custom_slug = category[0] | downcase | replace: '.', '' | replace: ' ', '-' %}
-
+                        
                         <li>
-                            <a class="smoothscroll btn-secondary" href="{{site.baseurl}}/category/{{ custom_slug }}">{{ category }}</a>
+                            <a class="smoothscroll btn-secondary" href="{{site.baseurl}}/category/{{ category | url_escape | strip | slugify }}">{{ category }}</a>
                         </li>
                         {% endfor %}
                     </ul>
