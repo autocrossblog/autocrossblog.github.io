@@ -6,12 +6,13 @@ date: '2007-07-06T00:24:52+00:00'
 last_modified_at: '2024-04-26T08:05:03+23:00'
 permalink: project-240z-what-s-next
 image: 
-categories:  [ 240z, Datsun ]
+categories:  [ 240z, Datsun, MegaSquirt ]
 ---
 Tasks for the next few days.
 
 ## Thursday: 
   - Finish trimming the driver's side seat mounts, weld everything together, install seat for fitting
+  
 ## Friday/Saturday:
   - Receive the fuel injectors from Summit
   - Run fuel lines from fuel cell to engine bay

@@ -5,7 +5,7 @@ date: '2007-07-23T10:34:20+00:00'
 last_modified_at: '2024-04-26T08:05:24+23:00'
 permalink: p240z-sunday-wiring-starts
 image: 
-categories:  [ 240z, Datsun ]
+categories:  [ 240z, Datsun, MegaSquirt ]
 
 ---
 Here's a quick update on the 240. I got up this morning and finished up modifications to the bracket I built for the VR sensor, you can see what it ended up looking like in the photo below. It's not all that pretty, but not too bad considering I made it out of a drill press, vertical sander, and a jig saw.

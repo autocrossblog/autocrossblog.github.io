@@ -6,7 +6,7 @@ last_modified_at: '2024-04-25T21:05:18+00:00'
 description: "The fuel cell for the 240z arrived!"
 permalink: fuel-cell-arrived-list-of-things-to-get-done
 image: 
-categories:  [ 240z, Datsun ]
+categories:  [ 240z, Datsun, MegaSquirt ]
 
 ---
 Alright, so my fuel cell arrived today! It sure is purty, and big

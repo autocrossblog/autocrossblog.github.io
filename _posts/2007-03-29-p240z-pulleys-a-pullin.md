@@ -4,7 +4,7 @@ title: P240Z Pulleys a pullin
 date: '2007-03-29T08:48:54+00:00'
 permalink: p240z-pulleys-a-pullin
 image: 
-categories:  [ 240z, Datsun ]
+categories:  [ 240z, Datsun, MegaSquirt ]
 
 ---
 

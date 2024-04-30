@@ -5,7 +5,7 @@ description: "At one point I listed the car and website for sale"
 date: '2007-10-23T03:09:58+00:00'
 permalink: project240zcom-and-the-car-are-for-sale
 image: 
-categories:  [ 240z, Datsun ]
+categories:  [ 240z, Datsun, MegaSquirt ]
 
 ---
 With my <a href="https://www.corvettez06.org">recent acquisition</a> I'm going to have to clear out the garage of all of my Datsun parts and cars to make room for a few other vehicles.

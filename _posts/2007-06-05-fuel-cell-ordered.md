@@ -6,7 +6,7 @@ last_modified_at: '2024-04-25T21:05:17+00:00'
 description: "Ordered a fuel cell for the Project240z"
 permalink: fuel-cell-ordered
 image: 
-categories:  [ 240z, Datsun ]
+categories:  [ 240z, Datsun, MegaSquirt ]
 
 ---
 Well I ordered the fuel cell for the 240Z today, as well as 20ft of fuel line and AN fittings, as well as a wiring kit for a fuel pump. Tomorrow I'll probably be ordering a fuel pump.

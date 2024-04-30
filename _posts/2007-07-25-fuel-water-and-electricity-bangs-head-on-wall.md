@@ -5,7 +5,7 @@ date: '2007-07-25T11:30:59+00:00'
 last_modified_at: '2024-04-29T15:05:24+23:00'
 permalink: fuel-water-and-electricity-bangs-head-on-wall
 image: 
-categories:  [ 240z, Datsun ]
+categories:  [ 240z, Datsun, MegaSquirt ]
 ---
 Fuel leaks, coolant leaks, and blown fuses. That about sums up the evening...
 
