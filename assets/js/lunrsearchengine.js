@@ -1153,7 +1153,7 @@ var documents = [{
     "id": 230,
     "url": "https://www.autocrossblog.com/ahhhh-the-engine-is-in-place-again",
     "title": "Ahhhh the engine is in place again!",
-    "body": "2009/04/19 - A HUGE thanks to Terec for coming over today and helping me with the car. We spent a couple hours this morning and were able to get the engine and transmission into the car, it all worked out pretty well with the only hitch being that all the transmission fluid I put in, came back out :D After that we hooked up the drive shaft, clutch line, and the speedo cable (which last time the car ran didn't work anyways). We took a break to go get a rental car for my trip to Indianapolis in the morning. After returning home I drained the fuel cell of the gas that unfortunately has been in there since August 2007 when the car last ran. I barely had enough gas cans to drain it fully, though I did have to put some of the cans into the rental car… I figured out how to safely burn off old fuel though :D Here are some pictures   and of course the video! "
+    "body": "2009/04/19 - A HUGE thanks to Terec for coming over today and helping me with the car. We spent a couple hours this morning and were able to get the engine and transmission into the car, it all worked out pretty well with the only hitch being that all the transmission fluid I put in, came back out :D After that we hooked up the drive shaft, clutch line, and the speedo cable (which last time the car ran didn’t work anyways). We took a break to go get a rental car for my trip to Indianapolis in the morning. After returning home I drained the fuel cell of the gas that unfortunately has been in there since August 2007 when the car last ran. I barely had enough gas cans to drain it fully, though I did have to put some of the cans into the rental car… I figured out how to safely burn off old fuel though :D Here are some pictures   and of course the video! "
     }, {
     "id": 231,
     "url": "https://www.autocrossblog.com/final-prep-for-engine-installation",
@@ -1163,12 +1163,12 @@ var documents = [{
     "id": 232,
     "url": "https://www.autocrossblog.com/a-weekend-of-working-on-the-240z-coming-up",
     "title": "A weekend of working on the 240Z coming up",
-    "body": "2009/04/17 - If you're bored this weekend give me a ring! I'm going to spend this weekend getting the motor into the 240Z, and depending on how fast that progresses maybe even get the fuel and electronics hooked up to it and attempt to start it! Interested? :D I could use all the help I can get. "
+    "body": "2009/04/17 - If you’re bored this weekend give me a ring! I’m going to spend this weekend getting the motor into the 240Z, and depending on how fast that progresses maybe even get the fuel and electronics hooked up to it and attempt to start it! Interested? :D I could use all the help I can get. "
     }, {
     "id": 233,
     "url": "https://www.autocrossblog.com/getting-the-engine-ready-to-put-back-in-the-car",
     "title": "Getting the engine ready to put back in the car",
-    "body": "2009/04/12 - So I spent most of the day today in the garage, the first time I've done that in probably 20 months, it was nice! Thanks to Dave for coming over and helping me out for a bit, if he hadn't come over I wouldn't have gotten all that I did, done. Here's what all was accomplished today.    Alternator completely mounted   Coolant line run and gasket created   Rear main seal replaced   Clutch installed   Transmission installed   EDIS pulley mounted   Turbo mounted The motor is pretty much ready to go into the car now, I just need to finish prepping the transmission cross member by putting in the new bushings, put the motor mounts on, and slide it in the engine bay! Here's today's video, though we missed the lowering of the motor off the engine stand, the battery died on the camera and I didn't realize. And a few pictures at the end of the day  "
+    "body": "2009/04/12 - So I spent most of the day today in the garage, the first time I’ve done that in probably 20 months, it was nice! Thanks to Dave for coming over and helping me out for a bit, if he hadn’t come over I wouldn’t have gotten all that I did, done. Here’s what all was accomplished today.  Alternator completely mounted Coolant line run and gasket created Rear main seal replaced Clutch installed Transmission installed EDIS pulley mounted Turbo mountedThe motor is pretty much ready to go into the car now, I just need to finish prepping the transmission cross member by putting in the new bushings, put the motor mounts on, and slide it in the engine bay! Here’s today’s video, though we missed the lowering of the motor off the engine stand, the battery died on the camera and I didn’t realize. And a few pictures at the end of the day  "
     }, {
     "id": 234,
     "url": "https://www.autocrossblog.com/removing-the-tail-lights",
@@ -1398,7 +1398,7 @@ var documents = [{
     "id": 279,
     "url": "https://www.autocrossblog.com/bye-bye-motor-thanks-for-the-memories",
     "title": "Bye bye motor, thanks for the memories",
-    "body": "2007/08/13 - On the Project240z's maiden autocross voyage today the motor decide to depart the living world. More to come, but it looks like another winter project may involve and LS1. . . . "
+    "body": "2007/08/13 - On the Project240z’s maiden autocross voyage today the motor decide to depart the living world. More to come, but it looks like another winter project may involve and LS1…. Update April 30, 2024: An LS1 didn’t happen… "
     }, {
     "id": 280,
     "url": "https://www.autocrossblog.com/starter-update;-rcompound-tires",
