@@ -11,7 +11,7 @@ disqus: autocrossblog-com
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
-url: 'https://www.AutocrossBlog.com'
+url: 'https://www.autocrossblog.com'
 
 templatemessage: 'Forked from <a  href="https://www.chrishammond.com/">Chris Hammond</a>''s <a href="https://jekyllexample.com">jekyllexample.com</a>.'
 
