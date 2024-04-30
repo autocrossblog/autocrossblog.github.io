@@ -2,9 +2,10 @@
 layout: post
 title: Parts Car Engine Removal Day 1
 date: '2007-02-25T05:13:38+00:00'
+last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: parts-car-engine-removal-day-1
 image: 
-categories: [ 240z, Datsun, 280z ]
+categories: [ 240z, Datsun, 280z, 2.8L ]
 ---
 Spent today disconnecting things from the motor so I can get the motor and transmission pulled out tomorrow. Also removed some of the front end body work I need to try to make work on the 240Z as well.
 

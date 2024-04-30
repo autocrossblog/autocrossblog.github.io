@@ -1,0 +1,20 @@
+---
+layout: post
+title: Ahhhh the engine is in place again!
+date: '2009-04-19T18:28:16+00:00'
+permalink: ahhhh-the-engine-is-in-place-again
+last_modified_at: '2024-04-30T11:05:24+23:00'
+image: 240z/engineinplace.jpg
+categories:  [ 240z, Datsun, Video, Engine, Motor ]
+---
+A HUGE thanks to Terec for coming over today and helping me with the car. We spent a couple hours this morning and were able to get the engine and transmission into the car, it all worked out pretty well with the only hitch being that all the transmission fluid I put in, came back out :D
+
+After that we hooked up the drive shaft, clutch line, and the speedo cable (which last time the car ran didn't work anyways). We took a break to go get a rental car for my trip to Indianapolis in the morning. After returning home I drained the fuel cell of the gas that unfortunately has been in there since August 2007 when the car last ran. I barely had enough gas cans to drain it fully, though I did have to put some of the cans into the rental car… I figured out how to safely burn off old fuel though :D
+
+Here are some pictures
+
+<a href="http://www.flickr.com/photos/chammond/3457414214/in/set-72157594465585463/"><img alt="Engine installed!" width="75" height="75" src="http://farm4.static.flickr.com/3513/3457414214_1b4bcfeb92_s.jpg" /></a> <a href="http://www.flickr.com/photos/chammond/3456593535/in/set-72157594465585463/"><img alt="Engine installed!" width="75" height="75" src="http://farm4.static.flickr.com/3567/3456593535_469212999b_s.jpg" /></a> <a href="http://www.flickr.com/photos/chammond/3456591593/in/set-72157594465585463/"><img alt="Read Engine mount" width="75" height="75" src="http://farm4.static.flickr.com/3663/3456591593_99c139e7f2_s.jpg" /></a> <a href="http://www.flickr.com/photos/chammond/3457408426/in/set-72157594465585463/"><img alt="Urethant Steering Coupler " width="75" height="75" src="http://farm4.static.flickr.com/3497/3457408426_fd3e737562_s.jpg" /></a>
+
+and of course the video!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQ0aHUM22vY?si=LIiVIfDM6_PjYPml" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

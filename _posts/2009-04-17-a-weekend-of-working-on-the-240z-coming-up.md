@@ -1,0 +1,11 @@
+---
+layout: post
+title: A weekend of working on the 240Z coming up
+date: '2009-04-17T00:21:12+00:00'
+last_modified_at: '2024-04-30T11:05:24+23:00'
+permalink: a-weekend-of-working-on-the-240z-coming-up
+image: 
+categories:  [ 240z, Datsun ]
+
+---
+If you're bored this weekend give me a ring! I'm going to spend this weekend getting the motor into the 240Z, and depending on how fast that progresses maybe even get the fuel and electronics hooked up to it and attempt to start it! Interested? :D I could use all the help I can get.
