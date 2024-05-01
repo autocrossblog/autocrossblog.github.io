@@ -5,7 +5,7 @@ date: '2010-01-27T23:53:21+00:00'
 last_modified_at: '2024-04-30T12:05:23+23:00'
 permalink: dropping-weight-in-the-350z-for-str-now-bsp
 image:
-categories: [ 350z, Nissan, Setup, bsp  ]
+categories: [ 350z, Nissan, Setup, BSP  ]
 ---
 This blog post will be gradually updated over time as I figure out how to drop weight in the 350z prepping it for <s>STR in 2010</s> BSP for 2011.
 
