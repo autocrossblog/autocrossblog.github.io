@@ -12,8 +12,6 @@ categories: [ 350z, Nissan, Setup, Suspension, Koni, Install, Tutorial ]
 
 *Disclaimer: This article is just an example of a task we completed on the Project 350Z. We do not recommend you try this yourself unless you are a trained professional. We cannot be held liable for any damage to your vehicle or harm you cause to yourself while working on your vehicle. Please use safety equipment, our work was done on a vehicle lift, if you use a jack, use jack stands for safety.*
 
-*All images in this article are just thumbnails, click on each image to load a larger version in a new window.*
-
 # [Project 350Z](http://www.project350z.com) Koni Sport Install
 
 I finally broke down and bought some Koni Sports for the [Project Z](http://www.project350z.com). I say finally, but they really have only been stateside for 2 months now, so I didn't wait all that long to order them. At the end of this write-up, you'll find a summary of my autocross career, to get a better understanding of the author of this piece.
