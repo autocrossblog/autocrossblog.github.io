@@ -2,6 +2,7 @@
 layout: post
 title: The 240z Lives! and it looks great!
 date: '2010-11-14T01:50:22+00:00'
+last_modified_at: '2024-05-07T23:31:05+00:00'
 permalink: the-240z-lives-and-it-looks-great
 image: green.jpg
 categories: [ Datsun, 240z, Colorado ]
