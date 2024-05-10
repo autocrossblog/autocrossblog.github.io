@@ -13,7 +13,7 @@ Well, tomorrow night I'm hitting the road. Actually a buddy of mine Kevin and I 
 
 Saturday morning we're going to meet up again and cruise up the riverroad to who knows where. If you've got a bike and want to join us, let me know.
 
-<a href="http://www.flickr.com/photos/chammond/502524301/">http://www.flickr.com/photos/chammond/502524301/</a>
+<a href="https://www.flickr.com/photos/chammond/502524301/">https://www.flickr.com/photos/chammond/502524301/</a>
 
-<img class="reflect" height="375" alt="" src="http://farm1.static.flickr.com/227/502524301_8b8ae8932b.jpg?v=0" width="500" onload="show_notes_initially();" />
+<img class="reflect" height="375" alt="" src="https://farm1.static.flickr.com/227/502524301_8b8ae8932b.jpg?v=0" width="500" onload="show_notes_initially();" />
 

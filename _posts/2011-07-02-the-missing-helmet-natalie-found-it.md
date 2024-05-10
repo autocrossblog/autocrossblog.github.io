@@ -15,10 +15,10 @@ Then last month we moved again, this time only 20 miles or so away, but I figure
 
 Until today, Natalie was going through boxes of pictures with her mother (visiting for the weekend) and in one of the boxes labeled Picture Frames, she found the helmet!
 
-<a title="Day 26 of #flickr365 #autocross #helmet by chrishammond, on Flickr" href="http://www.flickr.com/photos/chammond/5390956023/"><img alt="Day 26 of #flickr365 #autocross #helmet" align="right" src="http://farm6.static.flickr.com/5296/5390956023_41ce9910af_m.jpg" width="179" height="240" /></a>Earlier this year I purchased a new helmet (pictured) getting ready for the 2011 autocross season, while I like the helmet, it wasn't my Bell, which I always hoped would return.
+<a title="Day 26 of #flickr365 #autocross #helmet by chrishammond, on Flickr" href="https://www.flickr.com/photos/chammond/5390956023/"><img alt="Day 26 of #flickr365 #autocross #helmet" align="right" src="https://farm6.static.flickr.com/5296/5390956023_41ce9910af_m.jpg" width="179" height="240" /></a>Earlier this year I purchased a new helmet (pictured) getting ready for the 2011 autocross season, while I like the helmet, it wasn't my Bell, which I always hoped would return.
 
 I'll have to take a picture of the Bell later this weekend, I can't find one digging through old photos, but I did come across some photos from the day I picked up my 2003 350z.
 
 Here's a photo of the 350z, and the 1999 Z-28 Camaro I traded in when I purchased it.
- <a title="My 350z and my Camaro by chrishammond, on Flickr" href="http://www.flickr.com/photos/chammond/5893276184/"><img alt="My 350z and my Camaro" src="http://farm6.static.flickr.com/5064/5893276184_d938cdcd93_m.jpg" width="240" height="180" /></a>
+ <a title="My 350z and my Camaro by chrishammond, on Flickr" href="https://www.flickr.com/photos/chammond/5893276184/"><img alt="My 350z and my Camaro" src="https://farm6.static.flickr.com/5064/5893276184_d938cdcd93_m.jpg" width="240" height="180" /></a>
 

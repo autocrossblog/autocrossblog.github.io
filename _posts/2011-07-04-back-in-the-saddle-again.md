@@ -21,7 +21,7 @@ My runs for the most part improved each time today, until the last I believe. I 
 
 I didn't stick around the site after my runs, changed tires and headed out so that I could get home. I think I found the downfall of living in Half Moon Bay. It took me just under 2 hours to get to Marina this morning, and over 3 hours to get home due to all the holiday/beach traffic!
 
-<a title="AAS Autocross July 3rd, 2011" href="http://www.flickr.com/photos/17726343@N00/5899704327/"><img border="0" alt="AAS Autocross July 3rd, 2011" align="right" src="http://static.flickr.com/5317/5899704327_7017d320d0_m.jpg" /></a>Here's a photo I took of the car today I didn't take many photos, but <a href="http://www.flickr.com/photos/chammond/sets/72157627111621056/with/5899705291/" >you can see the few that I did here</a>.
+<a title="AAS Autocross July 3rd, 2011" href="https://www.flickr.com/photos/17726343@N00/5899704327/"><img border="0" alt="AAS Autocross July 3rd, 2011" align="right" src="http://static.flickr.com/5317/5899704327_7017d320d0_m.jpg" /></a>Here's a photo I took of the car today I didn't take many photos, but <a href="https://www.flickr.com/photos/chammond/sets/72157627111621056/with/5899705291/" >you can see the few that I did here</a>.
 
 I'll have videos up later this week
 

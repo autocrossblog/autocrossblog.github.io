@@ -13,10 +13,10 @@ I just need to find someone local who can do the wrap for a reasonable cost, and
 
 For a refresher, here are some photos of some of my past vinyl experiences (all self-applied):
 
-[![The new look](http://farm4.static.flickr.com/3182/2768918509_72f218deef_t.jpg)](http://www.flickr.com/photos/chammond/2768918509/)
-[![DotNetNuke Corvette](http://farm3.static.flickr.com/2402/2291945232_3f7d42f74a_t.jpg)](http://www.flickr.com/photos/chammond/2291945232/)
-[![My Old 350Z](http://farm2.static.flickr.com/1207/1282983712_98de77fd22_t.jpg)](http://www.flickr.com/photos/chammond/1282983712/)
-[![350Z Autocross](http://farm4.static.flickr.com/3261/3257269658_078fbcd902_t.jpg)](http://www.flickr.com/photos/chammond/3257269658/)
-[![CRW_8435](http://farm3.static.flickr.com/2520/4116230997_ebe11d2719_t.jpg)](http://www.flickr.com/photos/chammond/4116230997/)
-[![My Old Camaro](http://farm3.static.flickr.com/2232/2063988267_51055763a0_t.jpg)](http://www.flickr.com/photos/chammond/2063988267/)
-[![7G9X4944](http://farm3.static.flickr.com/2659/4142941262_30e670dbc7_t.jpg)](http://www.flickr.com/photos/chammond/4142941262/)
+[![The new look](https://farm4.static.flickr.com/3182/2768918509_72f218deef_t.jpg)](https://www.flickr.com/photos/chammond/2768918509/)
+[![DotNetNuke Corvette](https://farm3.static.flickr.com/2402/2291945232_3f7d42f74a_t.jpg)](https://www.flickr.com/photos/chammond/2291945232/)
+[![My Old 350Z](https://farm2.static.flickr.com/1207/1282983712_98de77fd22_t.jpg)](https://www.flickr.com/photos/chammond/1282983712/)
+[![350Z Autocross](https://farm4.static.flickr.com/3261/3257269658_078fbcd902_t.jpg)](https://www.flickr.com/photos/chammond/3257269658/)
+[![CRW_8435](https://farm3.static.flickr.com/2520/4116230997_ebe11d2719_t.jpg)](https://www.flickr.com/photos/chammond/4116230997/)
+[![My Old Camaro](https://farm3.static.flickr.com/2232/2063988267_51055763a0_t.jpg)](https://www.flickr.com/photos/chammond/2063988267/)
+[![7G9X4944](https://farm3.static.flickr.com/2659/4142941262_30e670dbc7_t.jpg)](https://www.flickr.com/photos/chammond/4142941262/)

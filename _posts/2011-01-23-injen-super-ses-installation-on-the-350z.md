@@ -25,10 +25,10 @@ I setup my GoPro HD today to take a photo every 2 seconds while I was working, I
 
 I also took a number of photos of the exhaust before putting it on.
 
-<a title="Injen Super SES Exhaust 350z" href="http://www.flickr.com/photos/17726343@N00/5379887402/"><img alt="Injen Super SES Exhaust 350z" src="http://static.flickr.com/5244/5379887402_95ef90bdd9.jpg" style="border-width: 0px;border-style: solid;" /></a>    <br />  The rear of the exhaust after cleaning up the muffler/tips
+<a title="Injen Super SES Exhaust 350z" href="https://www.flickr.com/photos/17726343@N00/5379887402/"><img alt="Injen Super SES Exhaust 350z" src="http://static.flickr.com/5244/5379887402_95ef90bdd9.jpg" style="border-width: 0px;border-style: solid;" /></a>    <br />  The rear of the exhaust after cleaning up the muffler/tips
 
-<a title="Injen Super SES Exhaust 350z" href="http://www.flickr.com/photos/17726343@N00/5379886538/"><img alt="Injen Super SES Exhaust 350z" src="http://static.flickr.com/5288/5379886538_ed8724ec2c.jpg" style="border-width: 0px;border-style: solid;" /></a>    <br />  The new mid pipes from Injen
+<a title="Injen Super SES Exhaust 350z" href="https://www.flickr.com/photos/17726343@N00/5379886538/"><img alt="Injen Super SES Exhaust 350z" src="http://static.flickr.com/5288/5379886538_ed8724ec2c.jpg" style="border-width: 0px;border-style: solid;" /></a>    <br />  The new mid pipes from Injen
 
-<a title="Old and New" href="http://www.flickr.com/photos/17726343@N00/5379280999/"><img alt="Old and New" src="http://static.flickr.com/5244/5379280999_31ac336e52.jpg" style="border-width: 0px;border-style: solid;" /></a>    
+<a title="Old and New" href="https://www.flickr.com/photos/17726343@N00/5379280999/"><img alt="Old and New" src="http://static.flickr.com/5244/5379280999_31ac336e52.jpg" style="border-width: 0px;border-style: solid;" /></a>    
 
 The old and new mid pipes, you can see on the new one that there is extra reinforcement now to prevent the cracking that caused the leak on the original setup.

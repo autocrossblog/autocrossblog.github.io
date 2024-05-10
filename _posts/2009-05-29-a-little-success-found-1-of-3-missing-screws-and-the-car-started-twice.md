@@ -12,19 +12,19 @@ So last night after work I came home with the intention of trying to figure out 
 
 Well wouldn't you know, the car started! And not just once, but twice! It actually even ran for a bit, assuming I had my foot on the pedal, otherwise it would die, but that didn't concern me, not yet. So it ran, and I have megasquirt log files to prove it! I went to try to start it again, and got nothing, but this time it wasn't timing, it wasn't motor, it was the starter. The starter wouldn't turn over, it would only click, which made things really weird because I hadn't had that problem before. Rather than trying to make it work I simply decided to pull the starter out of the car and check it out, it looked okay.
 
-<a href="http://www.flickr.com/photos/chammond/3572141060/"><img alt="Starter after pulling it out" width="240" height="180" src="http://farm3.static.flickr.com/2472/3572141060_2f6ed34481_m.jpg" /></a>
+<a href="https://www.flickr.com/photos/chammond/3572141060/"><img alt="Starter after pulling it out" width="240" height="180" src="https://farm3.static.flickr.com/2472/3572141060_2f6ed34481_m.jpg" /></a>
 
 I decided I would take a picture of the flywheel, and as soon as I took a picture I noticed something shining off the flash.
 
-<a href="http://www.flickr.com/photos/chammond/3571337775/"><img alt="Starter won't turn over, wonder why?" width="180" height="240" src="http://farm4.static.flickr.com/3393/3571337775_18b0c7c815_m.jpg" /></a>
+<a href="https://www.flickr.com/photos/chammond/3571337775/"><img alt="Starter won't turn over, wonder why?" width="180" height="240" src="https://farm4.static.flickr.com/3393/3571337775_18b0c7c815_m.jpg" /></a>
 
 As soon as I took a second look at it I knew exactly what it was. Here's a photo of it after I pulled it from the flywheel.
 
-<a href="http://www.flickr.com/photos/chammond/3571339491/"><img alt="This went missing 3 weeks ago" width="180" height="240" src="http://farm4.static.flickr.com/3632/3571339491_73290fbcd6_m.jpg" /></a>
+<a href="https://www.flickr.com/photos/chammond/3571339491/"><img alt="This went missing 3 weeks ago" width="180" height="240" src="https://farm4.static.flickr.com/3632/3571339491_73290fbcd6_m.jpg" /></a>
 
 Want to know what that is? That is one of the three missing screws from the starter when it fell apart a few weeks ago
 
-<img title="" alt="whoops by you." width="500" height="375" src="http://farm3.static.flickr.com/2196/3529003195_f86d5d45e1.jpg?v=0" />
+<img title="" alt="whoops by you." width="500" height="375" src="https://farm3.static.flickr.com/2196/3529003195_f86d5d45e1.jpg?v=0" />
 
 So with that revelation I decided that I would call it a night from trying to make the car run. I worked on cleaning up some things in the garage, I need to get it up on jack stands and find the remaining 2 screws which I believe are also still in the bell housing. Perhaps this weekend, or early next week I'll get it up and find them.
 

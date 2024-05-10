@@ -19,9 +19,9 @@ Car starts, car ran, car dies, and it's all vanity
 
 Two quick photos, a lot more still uploading
 
-<img height="333" alt="IMG_3170" src="http://farm2.static.flickr.com/1161/1100604624_2d15cd212e.jpg?v=0" width="500" />
+<img height="333" alt="IMG_3170" src="https://farm2.static.flickr.com/1161/1100604624_2d15cd212e.jpg?v=0" width="500" />
 
 And part of the reason the motor no longer runs, it doesn't appear to even turn over.
 
-<img height="333" alt="This isn't good" src="http://farm2.static.flickr.com/1201/1099418479_1f547da43b.jpg?v=0" width="500" />
+<img height="333" alt="This isn't good" src="https://farm2.static.flickr.com/1201/1099418479_1f547da43b.jpg?v=0" width="500" />
  

@@ -11,7 +11,7 @@ So I'm slowly starting to figure out what I need to do to get the car ready for 
 
 I'll be running in a street tire class, limited in the treadwear rating and size (width). Tire choice will be left up to another blog post all together. I'm not making a sure decision on wheels just yet, but here's what I am currently thinking.
 
-When I ran my 2003 350z in BStock I ran a 17" Enkei RPF1 wheels, ([here's a photo](http://www.flickr.com/photos/chammond/1282982714/in/set-72157601780037044/)). I was limited back then in that I had to run the same size wheels as came from the factory, in STR I won't be limited to that requirement, but there is a limit as to the max width allowed in the class, 9". I was thinking I would likely try to get 17" wheels again, but this time in the 9" width, today however Nick put it in my head that I should look at 18" wheels.
+When I ran my 2003 350z in BStock I ran a 17" Enkei RPF1 wheels, ([here's a photo](https://www.flickr.com/photos/chammond/1282982714/in/set-72157601780037044/)). I was limited back then in that I had to run the same size wheels as came from the factory, in STR I won't be limited to that requirement, but there is a limit as to the max width allowed in the class, 9". I was thinking I would likely try to get 17" wheels again, but this time in the 9" width, today however Nick put it in my head that I should look at 18" wheels.
 
 the downfall of 18" wheels would be that they are likely going to be heavier than the same wheel in a 17", but the benefit might be that they would have a taller tire/wheel combo, potentially helping to put more power down. The 350z likely, even in somewhat stock form, won't have too little power, probably the most power in the class.
 

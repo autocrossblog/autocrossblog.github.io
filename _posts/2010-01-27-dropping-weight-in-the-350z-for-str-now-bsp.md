@@ -18,7 +18,7 @@ I have a feeling it weighs quite a bit more than my 03 did, but I'm hoping to ge
 Things I will be looking at:
 
 - Replacing seats
-- [Removing the custom sub woofers/amps](http://www.flickr.com/photos/17726343@N00/4309834337/) ([removal post](/the-350z-goes-on-a-diet))
+- [Removing the custom sub woofers/amps](https://www.flickr.com/photos/17726343@N00/4309834337/) ([removal post](/the-350z-goes-on-a-diet))
 - Lighter wheels
 - Lighter battery
 - Lightweight flywheel

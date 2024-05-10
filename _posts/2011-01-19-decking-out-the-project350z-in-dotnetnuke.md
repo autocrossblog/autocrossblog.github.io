@@ -12,14 +12,14 @@ I don't have an Autocross event coming up for a couple weeks, but I couldn't wai
 
 So here she is, DotNetNuke logos on the front and the back of the 350z.
 
-<img alt="" src="http://farm6.static.flickr.com/5247/5362427932_1cd99da6c9.jpg" />
+<img alt="" src="https://farm6.static.flickr.com/5247/5362427932_1cd99da6c9.jpg" />
 and
-<img alt="" src="http://farm6.static.flickr.com/5210/5361818753_2fe8c12a32.jpg" />
+<img alt="" src="https://farm6.static.flickr.com/5210/5361818753_2fe8c12a32.jpg" />
 
 **What is DotNetNuke?** DotNetNuke is an open source platform for building web sites based on Microsoft .NET technology
 
 **Why would someone put a DotNetNuke logo on their car?** This website runs on DotNetNuke. My personal website runs on DotNetNuke, my wife's site runs on DotNetNuke, my daughter's website runs on DotNetNuke, SCCAForums.com runs on DotNetNuke. I work for DotNetNuke Corporation. I've used DotNetNuke for 8 years now. My life revolves around DotNetNuke, and has for a long time, and hopefully will for a long time as well.
 
-So I found it fitting that I should try to help promote the product in any way I can. That includes putting the logo on my car, front and back. [I've done it before, on a different car](http://www.flickr.com/photos/chammond/2291945232/), so why not on my current car!
+So I found it fitting that I should try to help promote the product in any way I can. That includes putting the logo on my car, front and back. [I've done it before, on a different car](https://www.flickr.com/photos/chammond/2291945232/), so why not on my current car!
 
 So what do you think? Am I crazy? 

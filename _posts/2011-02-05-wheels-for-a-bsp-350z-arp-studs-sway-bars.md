@@ -9,8 +9,8 @@ categories: [ 350z, Nissan, Setup ]
 ---
 So now that wheels and tires (used) are taken care of, at least for part of the season, I need to locate some longer/stronger wheel studs for the 350z.
 
-<a href="http://www.flickr.com/photos/chammond/5419830808/">
-    <img style="display: inline; float: right" border="0" alt="Enkei RPF1 18x10 +38" align="right" src="http://farm6.static.flickr.com/5293/5419830808_08eb37234e_m.jpg" width="240" height="180" />
+<a href="https://www.flickr.com/photos/chammond/5419830808/">
+    <img style="display: inline; float: right" border="0" alt="Enkei RPF1 18x10 +38" align="right" src="https://farm6.static.flickr.com/5293/5419830808_08eb37234e_m.jpg" width="240" height="180" />
 </a>
 
 On my 2003 350z I had Nismo studs, though they were only on the front, I never got around to putting them on the rear. For this one I could go with the Nismo studs, but it appears a lot of people use ARP studs. So I started looking into what was available
@@ -31,7 +31,7 @@ The wheels I picked up are Enkei RPF1 18x10" +38 for all four corners. The tires
 
 In addition to the wheels and tires I picked up a set of used front and rear Hotchkis sway bars for the 350z. They are the older set, only 3 adjustment points, but they will do for now.
 
-<a href="http://www.flickr.com/photos/chammond/5419227993/">    <img style="display: inline; float: right" border="0" alt="New Street Tires" align="right" src="http://farm6.static.flickr.com/5215/5419227993_5718e95cd4_m.jpg" width="180" height="240" /></a>
+<a href="https://www.flickr.com/photos/chammond/5419227993/">    <img style="display: inline; float: right" border="0" alt="New Street Tires" align="right" src="https://farm6.static.flickr.com/5215/5419227993_5718e95cd4_m.jpg" width="180" height="240" /></a>
     
 I also picked up some new street tires today as the current ones are getting pretty dangerous in the rain. These are brand new Falken RT615s 265/35R18. Not sure when I will get them mounted, but I'm looking forward to having them on the car.
 

@@ -10,7 +10,7 @@ categories:  [ 240z, Datsun ]
  
 So this weekend was anything but productive. I ended up not getting a thing done on the car this weekend. I did manage to get the drill press together Saturday morning, and I acquired a trailer Saturday morning. 
  
-<a href="http://www.flickr.com/photos/chammond/539691517/"><img height="180" alt="" src="http://farm2.static.flickr.com/1145/539691517_592abae1cf_m.jpg" width="240" /></a>  
+<a href="https://www.flickr.com/photos/chammond/539691517/"><img height="180" alt="" src="https://farm2.static.flickr.com/1145/539691517_592abae1cf_m.jpg" width="240" /></a>  
  
 Sunday was a different story. I had planned on getting a lot done, but ended up sleeping all day. While it was nice, it was far from what I needed to get the car going. 
  

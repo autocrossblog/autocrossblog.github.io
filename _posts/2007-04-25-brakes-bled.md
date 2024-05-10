@@ -11,6 +11,6 @@ Dad and I spent a few hours this evening working on the brakes on the 240Z. You 
 
 We ended up with a hodgepodge of brake/clutch systems. The vacuum boost is from the 73 240z, the master cylinder is a rebuilt cylinder for a 78 280Z, the clutch is from a 78 280z as the 73 240z was originaly an auto.
 
-Catch all that? Both systems are bled and semi ready. The brakes need to be pulled off the car, probably get the discs turned next week, and see what I need to do with the rear drums/shoes. Eventually I'd like to go to a 4 wheel disc setup, but that will have to wait until I have the cash to do a full suspension setup, most likely a setup from <A href="http://www.arizonazcar.com">www.arizonazcar.com</A>.
+Catch all that? Both systems are bled and semi ready. The brakes need to be pulled off the car, probably get the discs turned next week, and see what I need to do with the rear drums/shoes. Eventually I'd like to go to a 4 wheel disc setup, but that will have to wait until I have the cash to do a full suspension setup, most likely a setup from www.arizonazcar.com.
 
 Not much else accomplished on the car tonight, hoping to get the garage a bit organized on Thursday and start shooting video again, it's been too long since I did a time lapse.

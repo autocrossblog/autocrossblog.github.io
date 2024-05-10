@@ -10,7 +10,7 @@ So I finally heard back from SPL Parts regarding an email I sent a few weeks ago
 
 In summary of the previous blog post, the heim joints aren't legal in B Street Prepared (or any street prepared class in the SCCA). So these arms aren't legal.
 
-<a href="http://www.flickr.com/photos/17726343@N00/5513796701/"><img border="0" alt="350z Control Arm from SPL Pro Suspension" src="http://static.flickr.com/5293/5513796701_f2ee5a4d25.jpg" /></a>
+<a href="https://www.flickr.com/photos/17726343@N00/5513796701/"><img border="0" alt="350z Control Arm from SPL Pro Suspension" src="http://static.flickr.com/5293/5513796701_f2ee5a4d25.jpg" /></a>
 
 SPL finally responded with
   <blockquote>   the rod end thread on our arms is 5/8"-18 right hand, the width of the bearing w/ spacers is 1.96" and bore size is 10mm.</blockquote>  

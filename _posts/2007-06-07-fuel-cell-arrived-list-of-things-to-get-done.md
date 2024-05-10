@@ -11,7 +11,7 @@ categories:  [ 240z, Datsun, MegaSquirt ]
 ---
 Alright, so my fuel cell arrived today! It sure is purty, and big
 
-<a href="http://www.flickr.com/photos/chammond/533611292/"><img height="180" alt="" width="240" src="http://farm2.static.flickr.com/1378/533611292_1ac9563345_m.jpg" /></a> 
+<a href="https://www.flickr.com/photos/chammond/533611292/"><img height="180" alt="" width="240" src="https://farm2.static.flickr.com/1378/533611292_1ac9563345_m.jpg" /></a> 
 
 I'm not yet sure how I'm going to mount it in the car, though I'm hoping to talk to Mark Huebbe and borrow the welder again sometime soon so I can possibly make a bracket to mount it above the spare tire well in the car. That or perhaps I cut the well out and mount it, but that might be a future project.
 

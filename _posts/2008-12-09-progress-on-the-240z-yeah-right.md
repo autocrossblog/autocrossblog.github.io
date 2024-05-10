@@ -14,7 +14,7 @@ I'm off to California next week, so it's not looking like I'll get anything done
 
 I did order some Bushings last week off of Ebay when they were having the 30% cashback special from live.com
 
-<img src="http://farm4.static.flickr.com/3266/3083424225_9c892bcf7f.jpg?v=0" alt="" />
+<img src="https://farm4.static.flickr.com/3266/3083424225_9c892bcf7f.jpg?v=0" alt="" />
 
 Hopefully I'll have more updates in two weeks if we get started while my parents are in town for the holidays.
 

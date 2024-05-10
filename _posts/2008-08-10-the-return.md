@@ -11,5 +11,5 @@ The car is finally back home, within reach of me actually working on it and hope
 
 [I've posted two videos, you can find them on this page](/project240z-videos-she-s-back)
 
-[I've also posted some photos to flickr](http://www.flickr.com/photos/chammond/sets/72157594465585463/)
+[I've also posted some photos to flickr](https://www.flickr.com/photos/chammond/sets/72157594465585463/)
 

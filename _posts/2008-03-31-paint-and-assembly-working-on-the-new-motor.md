@@ -14,30 +14,30 @@ categories:  [ 240z, Datsun ]
 - **Cleaning and Painting**: Cleaned and painted the oil pan from the L28ET motor, attached with a new gasket.
 - **Oil Pickup**: Switched from L28ET to L28E to fit the turbo pan properly.
 
-![Painted Oil Pan](http://farm3.static.flickr.com/2399/2375410808_49de28efb9_s.jpg)
+![Painted Oil Pan](https://farm3.static.flickr.com/2399/2375410808_49de28efb9_s.jpg)
 
 ### Exhaust and Manifold:
 - **Painting**: Painted the exhaust manifold and turbo downpipe, though I'm aware the high temperatures might wear the paint off quickly.
 
-![Painted Turbo Down Pipe](http://farm4.static.flickr.com/3167/2375412468_6541f7fc35_s.jpg)
-![Painted Exhaust Manifold](http://farm3.static.flickr.com/2129/2374580691_23d869e479_s.jpg)
+![Painted Turbo Down Pipe](https://farm4.static.flickr.com/3167/2375412468_6541f7fc35_s.jpg)
+![Painted Exhaust Manifold](https://farm3.static.flickr.com/2129/2374580691_23d869e479_s.jpg)
 
 ### Valve Cover:
 - **Touch-up**: Repainted the turbo valve cover to cover chips; considering powder coating in the future.
 
-![Painted Valve Cover](http://farm4.static.flickr.com/3294/2374582531_803eabc4c2_s.jpg)
+![Painted Valve Cover](https://farm4.static.flickr.com/3294/2374582531_803eabc4c2_s.jpg)
 
 ### Motor Inspection:
 - **Observations**: Noted a different coloration inside the motor compared to another. Considering factors such as age or mileage differences. Thoughts?
 
-![Upright again](http://farm3.static.flickr.com/2245/2374584211_f3c301a5f6_s.jpg)
+![Upright again](https://farm3.static.flickr.com/2245/2374584211_f3c301a5f6_s.jpg)
 
 ### Additional Photos from Today:
 - Various shots showing the ongoing work and parts ready for reassembly.
 
-![Needs paint!](http://farm4.static.flickr.com/3021/2375399264_1935cd8488_s.jpg)
-![IMG_5435](http://farm3.static.flickr.com/2244/2375401364_1802a9f9b4_s.jpg)
-...more on [Flickr](http://www.flickr.com/photos/chammond/sets/72157594465585463/).
+![Needs paint!](https://farm4.static.flickr.com/3021/2375399264_1935cd8488_s.jpg)
+![IMG_5435](https://farm3.static.flickr.com/2244/2375401364_1802a9f9b4_s.jpg)
+...more on [Flickr](https://www.flickr.com/photos/chammond/sets/72157594465585463/).
 
 ### Coming Weeks:
 - Out of town races and other commitments will pause the project temporarily. Excited to resume soon!

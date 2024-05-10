@@ -22,18 +22,18 @@ I had purchased a gravity-fed spray gun back in 2003 when I had the 350Z, previo
 
 Here are some before pictures:
 
-![Before Interior 1](http://farm1.static.flickr.com/188/409594222_9c3c5b701f_m.jpg)
-![Before Interior 2](http://farm1.static.flickr.com/217/498988300_ad19a541c5_m.jpg)
-![Before Interior 3](http://farm2.static.flickr.com/1191/782279103_f6dc23edc9_m.jpg)
+![Before Interior 1](https://farm1.static.flickr.com/188/409594222_9c3c5b701f_m.jpg)
+![Before Interior 2](https://farm1.static.flickr.com/217/498988300_ad19a541c5_m.jpg)
+![Before Interior 3](https://farm2.static.flickr.com/1191/782279103_f6dc23edc9_m.jpg)
 
 And here are some after shots:
 
-![After Interior 1](http://farm2.static.flickr.com/1189/824938492_9f563166b1_m.jpg)
-![After Interior 2](http://farm2.static.flickr.com/1260/824668014_2b20a5cdcd_m.jpg)
-![After Interior 3](http://farm2.static.flickr.com/1329/824056123_dcc0ec1cf2_m.jpg)
-![After Interior 4](http://farm2.static.flickr.com/1436/824677014_903f6fd289_m.jpg)
+![After Interior 1](https://farm2.static.flickr.com/1189/824938492_9f563166b1_m.jpg)
+![After Interior 2](https://farm2.static.flickr.com/1260/824668014_2b20a5cdcd_m.jpg)
+![After Interior 3](https://farm2.static.flickr.com/1329/824056123_dcc0ec1cf2_m.jpg)
+![After Interior 4](https://farm2.static.flickr.com/1436/824677014_903f6fd289_m.jpg)
 
-[There are more photos in my Flickr set for Project240z.com](http://www.flickr.com/photos/chammond/sets/72157594465585463/)
+[There are more photos in my Flickr set for Project240z.com](https://www.flickr.com/photos/chammond/sets/72157594465585463/)
 
 We ended up painting a few coats over most areas of the interior and then let the car sit for a while to dry. Once dry, we rolled the car back into the garage and started running fuel lines. We ran both the feed and return lines for the fuel cell, mounted the pump again after removing it for paint, and fixed the fuel lines to the transmission tunnel.
 

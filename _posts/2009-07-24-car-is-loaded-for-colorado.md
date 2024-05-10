@@ -13,7 +13,7 @@ So I loaded the car up on the trailer tonight after work (well, between work act
 
 I even drove it up on the trailer under its own power!
 
-<a href="http://www.flickr.com/photos/chammond/3749868081/"><img alt="@project240z is loaded for trip to colorado. #going2colorado" src="http://farm3.static.flickr.com/2454/3749868081_c4bd798642_m.jpg" width="240" height="180" /></a>
+<a href="https://www.flickr.com/photos/chammond/3749868081/"><img alt="@project240z is loaded for trip to colorado. #going2colorado" src="https://farm3.static.flickr.com/2454/3749868081_c4bd798642_m.jpg" width="240" height="180" /></a>
 
 
 

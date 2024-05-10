@@ -12,7 +12,7 @@ If you're looking to buy an [Autocross Helmet](https://soloperformance.com/colle
 
 I've been a long time Solo Performance customer, and just recently purchased a number of items from them, including this stylish new [autocross helmet](https://soloperformance.com/collections/helmets-and-accessories)!
 
-<a href="http://www.flickr.com/photos/chammond/5390956023/"><img border="0" alt="Day 26 of #flickr365 #autocross #helmet" src="http://farm6.static.flickr.com/5296/5390956023_41ce9910af_m.jpg" width="179" height="240" /></a>
+<a href="https://www.flickr.com/photos/chammond/5390956023/"><img border="0" alt="Day 26 of #flickr365 #autocross #helmet" src="https://farm6.static.flickr.com/5296/5390956023_41ce9910af_m.jpg" width="179" height="240" /></a>
 
 It should see its first autocross action this Sunday, though it has already seen action at the foosball table here at the office.
 

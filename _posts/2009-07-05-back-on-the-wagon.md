@@ -11,13 +11,13 @@ So I finally got some more time on the Datsun over the past few days. Friday I w
 
 Today I needed to relax a bit (for the reason read this blog post) so I went into the garage and decided to pull the rear hatch off the car. I'm going to try to get rid of all the extra parts I have in the next week or two, and a hatch is one of the extras so I wanted to get the one off the car. That process went pretty quickly, and here are the results:
 
-<a href="http://www.flickr.com/photos/chammond/3692561854/"><img alt="Hatch Removed" src="http://farm3.static.flickr.com/2579/3692561854_980c2b6ca4_m.jpg" width="240" height="180" /></a> <a href="http://www.flickr.com/photos/chammond/3692566252/"><img alt="Old (blue) and New (brown)" src="http://farm3.static.flickr.com/2462/3692566252_64e462c792_m.jpg" width="240" height="180" /></a>
+<a href="https://www.flickr.com/photos/chammond/3692561854/"><img alt="Hatch Removed" src="https://farm3.static.flickr.com/2579/3692561854_980c2b6ca4_m.jpg" width="240" height="180" /></a> <a href="https://www.flickr.com/photos/chammond/3692566252/"><img alt="Old (blue) and New (brown)" src="https://farm3.static.flickr.com/2462/3692566252_64e462c792_m.jpg" width="240" height="180" /></a>
 
 The blue one being the one I will be getting rid of, and the brown one being the one I want to put on the car.
 
 After that I started playing around with some paint stripper.Here's the result of that.
 
-<a href="http://www.flickr.com/photos/chammond/3691765155/"><img alt="Paint Stripper" src="http://farm3.static.flickr.com/2542/3691765155_b35c47ffca_m.jpg" width="240" height="180" /></a>
+<a href="https://www.flickr.com/photos/chammond/3691765155/"><img alt="Paint Stripper" src="https://farm3.static.flickr.com/2542/3691765155_b35c47ffca_m.jpg" width="240" height="180" /></a>
 
 I don't think I want to buy enough stripper to spray down the whole car! That'll be a lot of chemicals, though it does end up cleaner than if I went to completely sand the whole car down.
 

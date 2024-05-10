@@ -10,7 +10,7 @@ categories:  [ 240z, Datsun ]
 ---
 Can you spot the problem in this photo?
 
-<a href="http://www.flickr.com/photos/chammond/1464171009/"><img height="160" alt="Broken piston in a L28 motor" width="240" src="http://farm2.static.flickr.com/1181/1464171009_5e23f11ac7_m.jpg" /></a> 
+<a href="https://www.flickr.com/photos/chammond/1464171009/"><img height="160" alt="Broken piston in a L28 motor" width="240" src="https://farm2.static.flickr.com/1181/1464171009_5e23f11ac7_m.jpg" /></a> 
 
 Status: Motor is once again out of the car, and I'm pretty confident it won't be going back into any car..... ever....
 

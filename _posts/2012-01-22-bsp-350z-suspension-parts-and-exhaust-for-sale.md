@@ -66,8 +66,8 @@ $500 Used exhaust, works and sounds great. Center (longest) pipes are about a ye
 
 <strong>SOLD</strong> I didn't use these, they weren't legal for the class I was running, but I was told they are V2 arms, and that the ball joints needed replaced. You'll need a nut for the ball joint as well.
 
-<img alt="" src="http://farm6.staticflickr.com/5293/5513796701_f2ee5a4d25.jpg" />
+<img alt="" src="https://farm6.staticflickr.com/5293/5513796701_f2ee5a4d25.jpg" />
 
 
-More photos of the parts at at (<a href="http://www.flickr.com/photos/chammond/sets/72157628769483291/">http://www.flickr.com/photos/chammond/sets/72157628769483291/</a>)
+More photos of the parts at at (<a href="https://www.flickr.com/photos/chammond/sets/72157628769483291/">https://www.flickr.com/photos/chammond/sets/72157628769483291/</a>)
 

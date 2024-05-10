@@ -14,7 +14,7 @@ Woot!
 I'm back in autocross mode with a 2004 Nissan 350Z Enthusiast, and here she is.
 
 
-<a href="http://www.flickr.com/photos/chammond/4297068944/" ><img alt="" src="http://farm5.static.flickr.com/4062/4297068944_77490c3a58_m.jpg" /></a>
+<a href="https://www.flickr.com/photos/chammond/4297068944/" ><img alt="" src="https://farm5.static.flickr.com/4062/4297068944_77490c3a58_m.jpg" /></a>
 
 
 You might think, hey, wait a minute, isn't that the same car you had back when? Well, not quite. My previous 350z was a 2003 Enthusiast. What's the difference? Well between 2k3 and 2k4, not much, 2k4 I believe is less buggy, the only physical
@@ -57,10 +57,10 @@ Now, the differences between my old 2003 and my new 2004, here they are (differe
 So what comes next? Well, more modifications to get the car ready for the STR Street Touring Roadster class in the SCCA. When I'll get to all those I'm not sure. I'm going to try to go over the car thoroughly tomorrow in the garage,
     see if there are any other custom parts I don't know about. At some point in the coming weeks I'll come up with a list of things I need to get done to the car before the full blown autocross season starts up.
 
-Also tomorrow I've got a guy coming to take a look at the <a href="http://www.project240z.com" >Project240z</a>. I would like to keep that, but I know I shouldn't, I won't ever get it finished, especially now that I have
+Also tomorrow I've got a guy coming to take a look at the [Project240z](/category/240z). I would like to keep that, but I know I shouldn't, I won't ever get it finished, especially now that I have
     this 350z!
 
-On January 30th I'm going to take the <a href="http://www.project350z.com/" >Project350z</a> out to its first Autocross.
+On January 30th I'm going to take the [Project350z](/category/350z) out to its first Autocross.
 
 
 

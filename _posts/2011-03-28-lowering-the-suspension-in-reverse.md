@@ -18,11 +18,11 @@ So what did I do today? Well, I dropped the car a bit. I wasn't too happy with h
 
 I ended up bringing the car down a bit. Here is the photo from yesterday:
 
-[![The 350z on the new suspension](http://static.flickr.com/5052/5562928957_b408b15521.jpg)](http://www.flickr.com/photos/17726343@N00/5562928957/)
+[![The 350z on the new suspension](http://static.flickr.com/5052/5562928957_b408b15521.jpg)](https://www.flickr.com/photos/17726343@N00/5562928957/)
 
 and what it looks like today (with the race tires on).
 
-[![Lowered the car a bit today 350z](http://static.flickr.com/5023/5566339570_1e92ff79ed.jpg)](http://www.flickr.com/photos/17726343@N00/5566339570/)
+[![Lowered the car a bit today 350z](http://static.flickr.com/5023/5566339570_1e92ff79ed.jpg)](https://www.flickr.com/photos/17726343@N00/5566339570/)
 
 I drove around the neighborhood a bit with the race tires on to see if I had any trouble rubbing, in the current configuration it doesn't look to. The wheels are 18x10 +38 Enkei RPF1s, and the tires are 305 V710s. I'm glad there doesn't appear to be any rubbing issues, we'll see how it goes under autocross competition though.
 
