@@ -20,14 +20,14 @@ The guy I purchased the wheels and tires from uses studs that have a 1.50 pitch,
 
 Doing some research it looks like ARP's catalog doesn't have any listings for Nissans, but based on the specs I found on another website they make a couple of part numbers that would likely work.
 
-Part Number 100-7717 has a knurl (where it goes into the hub) diameter of .565 or ~14.3mm, a length of 3”, knurl length of .270”, and thread size of M12x1.5
+Part Number 100-7717 has a knurl (where it goes into the hub) diameter of .565 or ~14.3mm, a length of 3", knurl length of .270", and thread size of M12x1.5
 
-Part Number 100-7716 has a knurl (where it goes into the hub) diameter of .565 or ~14.3mm, a length of 3”, knurl length of .270”, and thread size of M12x1.25
+Part Number 100-7716 has a knurl (where it goes into the hub) diameter of .565 or ~14.3mm, a length of 3", knurl length of .270", and thread size of M12x1.25
 
 I obviously haven't yet confirmed these fit yet (I'll update this post when I do), but I'm going to see what I can find for a deal on either of the above part numbers. I'm likely going to need them on my 350z with these new wheels and potentially need
     spacers as well.
 
-The wheels I picked up are Enkei RPF1 18x10” +38 for all four corners. The tires are used Kumho Victoracer V710s 18” 305. Not what I want to run ultimately, but the best option for me right now as they were already mounted on the wheels!
+The wheels I picked up are Enkei RPF1 18x10" +38 for all four corners. The tires are used Kumho Victoracer V710s 18" 305. Not what I want to run ultimately, but the best option for me right now as they were already mounted on the wheels!
 
 In addition to the wheels and tires I picked up a set of used front and rear Hotchkis sway bars for the 350z. They are the older set, only 3 adjustment points, but they will do for now.
 

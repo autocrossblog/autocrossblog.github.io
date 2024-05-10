@@ -7,7 +7,7 @@ permalink: color-for-the-wrap-has-been-decided
 image:
 categories: [ 350z, Nissan ]
 ---
-A week ago I posted a “question” on Facebook to see what color we should wrap the 350z in. 
+A week ago I posted a “question" on Facebook to see what color we should wrap the 350z in. 
 
 Well it looks like the final tally is 31/13/13
 

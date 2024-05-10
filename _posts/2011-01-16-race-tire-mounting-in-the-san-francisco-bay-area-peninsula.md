@@ -9,7 +9,7 @@ categories: [ 350z, Nissan, Setup ]
 ---
 So as I try to get ready for the 2011 autocross season I stopped into a tire shop the other day, the Les Schwab on El Camino in San Carlos, California.
 
-I was curious how much they would charge to mount and balance for 18” tires. For those of you who don't autocross, it is very common for autocrossers to need a local tire changing service, while not purchasing the tires from that location as well.
+I was curious how much they would charge to mount and balance for 18" tires. For those of you who don't autocross, it is very common for autocrossers to need a local tire changing service, while not purchasing the tires from that location as well.
 
 I've had placed charge anywhere from $60 to $80. When I asked Les Schwab what they would charge he told me $149, I literally laughed, said thank you, and walked out.
 

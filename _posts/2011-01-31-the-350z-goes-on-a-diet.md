@@ -10,7 +10,7 @@ categories: [ 350z, Nissan, Setup, Weight ]
 ---
 On Saturday the 350z went on a diet, losing (rough guess here) about 3% of it's total weight.
 
-When I purchased the car in January of 2010 I knew a few things. The stereo in the car was aftermarket, and so were the two 10” subs in the back of the car. Beyond that I also assumed there was an amplifier somewhere powering the subs, but I wasn't really sure what else there was.
+When I purchased the car in January of 2010 I knew a few things. The stereo in the car was aftermarket, and so were the two 10" subs in the back of the car. Beyond that I also assumed there was an amplifier somewhere powering the subs, but I wasn't really sure what else there was.
 
 I decided to remove the subwoofers so that I could drop some weight in the car. I liked the sound, but this car has a purpose, autocross, and the subs were not designed for that purpose.
 

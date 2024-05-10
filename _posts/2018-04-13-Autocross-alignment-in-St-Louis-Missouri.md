@@ -20,7 +20,7 @@ Dave at Solo Performance knows his stuff, so he was able to get the car setup as
 - Front Caster: 5.4 degrees
 - Front Toe: 0 inches
 - Rear Camber: –2.25 degrees
-- Rear Toe: 1/8” toe in
+- Rear Toe: 1/8" toe in
 
 [![SpecFRS.com Alignment](https://farm1.staticflickr.com/792/27530585808_1fe8647719_z.jpg)](https://www.flickr.com/photos/chammond/27530585808/in/photostream/)
 

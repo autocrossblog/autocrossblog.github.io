@@ -43,7 +43,7 @@ I looked at a 2005 Base model 350z today, here are my comments on that car. If t
 - **Driver's seat** – As common on the 350zs, the side bolster on this car was worn through to the foam. Honestly this isn't a huge deal as I would be replacing the seat(s) with a more race oriented seat anyways.
 - **Driver's side carpet** – the driver's side carpet was worn through, and the owner had some big bulky rubber floor mat in there to cover it up. The base models I believe originally didn't come with floor mats, it is a shame someone didn't put one in this car early on to prevent this.
 - **Dirt everywhere, so much dirt**
-- **TPS Monitors and tires** – the car was equipped with 18” Performance wheels, with 225 tires on them. There were no TPS sensors, the tires were far too narrow on the wheels, plus they would need to be replaced, they were crap tires.
+- **TPS Monitors and tires** – the car was equipped with 18" Performance wheels, with 225 tires on them. There were no TPS sensors, the tires were far too narrow on the wheels, plus they would need to be replaced, they were crap tires.
 - **Spare tire** – the spare was still in the car, though it was not attached to the car as it should have been, the screw for that was nowhere to be found, and the jack/tools to change the spare were either missing, or misplaced.
 - **Spare tire well** – The inside of the spare tire well on this car had either oil, or water in it. He claimed it was spilled oil, it sure felt like water. Either way, there is nothing that should be in there besides a spare tire, how does water get in there?
 

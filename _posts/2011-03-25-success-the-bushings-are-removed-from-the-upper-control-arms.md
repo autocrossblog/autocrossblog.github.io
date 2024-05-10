@@ -9,7 +9,7 @@ categories: [ 350z, Nissan, Setup, Suspension, Video ]
 ---
 Well, it just goes to show you. Having the right tool for a job is the key to getting the job done right.
 
-Last night I spent some time trying to get the bushings out again, I didn't have any luck. I then ran to Home Depot and picked up a 6” vise.
+Last night I spent some time trying to get the bushings out again, I didn't have any luck. I then ran to Home Depot and picked up a 6" vise.
 
 Tonight I mounted the vise to my workbench and got to work. It didn't take long, with the vise in place I was able to knock out the first bushing. The 2nd and 3rd took a little work, but were much easier than the first one.
 
