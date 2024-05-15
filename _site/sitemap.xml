@@ -1353,6 +1353,10 @@
 <lastmod>2024-05-08T05:00:15-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/why-your-teen-should-autocross</loc>
+<lastmod>2024-05-10T07:00:15-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -1582,6 +1586,15 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/cam/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/family/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/education/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/teens/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
