@@ -1,6 +1,7 @@
 ---
 layout: post
 title: San Diego National Tour Practice Day
+description: "Explore Chris Hammond’s autocross journey, from practice runs to suspension tweaks, and his passion for racing and community at AutocrossBlog.com."
 date: '2011-04-02T00:49:20+00:00'
 last_modified_at: '2024-05-07T23:21:05+00:00'
 permalink: san-diego-national-tour-practice-day

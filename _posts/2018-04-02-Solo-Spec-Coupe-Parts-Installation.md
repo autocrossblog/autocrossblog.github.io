@@ -36,7 +36,7 @@ When assembling the front Struts, and the rears, be sure to figure out your dust
 
 The next point of clarification is related to the bolts used on the bottom of the front struts, there are two. When installing the new struts, use the SPC camber bolt on the bottom hole, and use the original bottom bolt (oem) in the upper hole. You can tell the difference between the two bolts by looking at the shafts. The original TOP bolt is thicker on one side, the bottom one is uniform and will give you more adjustment for camber by installing it at the top position. I saved the original top bolt with all the rest of the OEM parts.
 
-How do you mount the SPC bolt? [Read the instructions here](http://www.spcalignment.com/instructions/81305-INS_WEB.pdf).
+How do you mount the SPC bolt? [Read the instructions here](https://www.spcalignment.com/instructions/81305-INS_WEB.pdf).
 
 Moving on to the Rear of the car, you'll come across this in the instructions:
 - Three upper shock nuts (12).
@@ -46,4 +46,4 @@ Putting the rear shocks together, I ended up using the spring compressor to remo
 
 [![Install Completed](https://farm1.staticflickr.com/787/41176740751_44eec849c8.jpg)](https://www.flickr.com/photos/chammond/41176740751/in/album-72157694192449114/)
 
-- [TRD Lowering Springs install guide](http://www.billswebspace.com/PTR07-18130inst.pdf)
+- [TRD Lowering Springs install guide](https://www.billswebspace.com/PTR07-18130inst.pdf)

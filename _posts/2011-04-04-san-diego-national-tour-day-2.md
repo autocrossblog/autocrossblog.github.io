@@ -1,8 +1,9 @@
 ---
 layout: post
 title: San Diego National Tour Day 2
+description: "Experience exhilarating autocross racing at the San Diego National Tour. Dive into intense competition, camaraderie, and Z car glory. #Autocross #RacingLife"
 date: '2011-04-04T01:16:23+00:00'
-last_modified_at: '2024-04-30T11:05:24+23:00'
+last_modified_at: '2024-05-17T12:05:24+23:00'
 permalink: san-diego-national-tour-day-2
 image:
 categories: [ 350z, Nissan, Setup, National Tour ]
