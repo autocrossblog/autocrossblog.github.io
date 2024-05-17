@@ -7,7 +7,7 @@ permalink: 2011-solo-nationals-sunoco-fuels-pick-the-winners-contest
 image:
 categories: [ 350z, Nissan ]
 ---
-For the past few weeks we've been putting together this years rendition of the http://www.sccaforums.com/pick-the-winners/2011-solo-nationals Solo National Championships Pick The Winners Contest. The contest unfortunately hasn't run since 2008, due to a number of things, but for 2011 it is back, bigger and better. This year's contest is sponsored by Sunoco Fuels and co-sponsored by Off Line Racing Gear, AeroCatch Hood Kits, Driver Element Race Equipment, Fat Cat Motorsports.
+For the past few weeks we've been putting together this years rendition of the https://www.sccaforums.com/pick-the-winners/2011-solo-nationals Solo National Championships Pick The Winners Contest. The contest unfortunately hasn't run since 2008, due to a number of things, but for 2011 it is back, bigger and better. This year's contest is sponsored by Sunoco Fuels and co-sponsored by Off Line Racing Gear, AeroCatch Hood Kits, Driver Element Race Equipment, Fat Cat Motorsports.
 
 Here are the basics: Pick who you think will win in each of the classes competing at the 2011 Tire Rack SCCA Solo Nationals. The person that has the most correct picks wins! For all the details, rules, and the list of kick ass prizes, check out the Pick The Winners portion of SCCAForums.com.
 

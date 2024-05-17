@@ -15,6 +15,6 @@ I am going to wrap the 350z? What does that mean? I am going to take a solid Vin
 
 <strong>Why not have someone else wrap it? Why not have a designer wrap done? </strong>Both of those options cost money, and I really would rather spend money elsewhere on the car. That being said, if you own a car wrapping business in the San Francisco Bay Area and you want to sponsor Project350z, fill out the Contact form on the About page. 
 
-<strong>What color are you going to wrap it?</strong> That's where you come in. <a href="http://www.facebook.com/home.php?sk=question&amp;id=125772814167499" >We've setup a "Poll" on our Facebook page</a>, where you get to help us decide. The options are "Matte Black, Matte Green, Don't Do it!" If you have a Facebook account go ahead and <a href="http://www.facebook.com/home.php?sk=question&amp;id=125772814167499" >answer the question</a>! The Poll will stay open until 5/4/2011.
+<strong>What color are you going to wrap it?</strong> That's where you come in. We've setup a "Poll" on our Facebook page, where you get to help us decide. The options are "Matte Black, Matte Green, Don't Do it!" If you have a Facebook account go ahead and answer the question! The Poll will stay open until 5/4/2011.
 
-And while you are at it, don't forget to <a href="http://www.facebook.com/project350z" >"LIKE" our page</a>!
+And while you are at it, don't forget to <a href="https://www.facebook.com/project350z" >"LIKE" our page</a>!

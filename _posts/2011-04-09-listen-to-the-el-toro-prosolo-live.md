@@ -16,6 +16,6 @@ I setup a new “Channel" for the ProSolo on Ustream, we'll see how it works out
 
 This is completely unofficial, and if it goes down it goes down, no promises that it will work! 
 
-Between the live audio and http://sololive.scca.com you might be able to feel like you are actually in El Toro being miles away! The event is supposed to start at 9am, we'll see how things work out.
+Between the live audio and https://sololive.scca.com you might be able to feel like you are actually in El Toro being miles away! The event is supposed to start at 9am, we'll see how things work out.
 
 

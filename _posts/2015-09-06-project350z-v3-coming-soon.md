@@ -9,7 +9,7 @@ categories: [ 350z, Nissan ]
 ---
 So the time has come, I am currently car shopping again. I've been threatening it for a while now, but with the 2015 Solo National Championships going on this week, and a few other life things figured out, it is time to make the 2016 autocross season happen!
 
-![5892701495_8cf4ea9620_o](http://www.chrishammond.com/Portals/0/PublishThumbnails/Windows-Live-Writer/789304ceb116_E280/5892701495_8cf4ea9620_o_thumb_3.jpg)
+![5892701495_8cf4ea9620_o](https://www.chrishammond.com/Portals/0/PublishThumbnails/Windows-Live-Writer/789304ceb116_E280/5892701495_8cf4ea9620_o_thumb_3.jpg)
 
 So a few details. I'm once again looking at early 350z's, this time around I'm not looking for a daily driver, this next car will be built specifically for autocross and a fun weekend toy, with some daily driving here and there (thankful I have a short commute). I am looking for the perfect car, how do you define that? Well, in an ideal world the perfect 350z for me would be:
 - **Year**: 2003, 2004, 2005
@@ -53,6 +53,6 @@ So after listing off all the things wrong with the car, I do keep in mind that i
 
 ## What comes next?
 
-At this point I don't know when I will purchase my next 350z. I hope to find something this fall, we have one more [Gateway Autocross Association](http://www.gatewayautox.com/) event later this year, I would love to run my own car for that, but that might not be possible.
+At this point I don't know when I will purchase my next 350z. I hope to find something this fall, we have one more [Gateway Autocross Association](https://www.gatewayautox.com/) event later this year, I would love to run my own car for that, but that might not be possible.
 
 

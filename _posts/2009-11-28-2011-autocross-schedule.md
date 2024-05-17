@@ -11,7 +11,7 @@ categories: [ Schedule, 350z ]
 
 This post will be updated over time to include the autocross schedule for the Project350z. While I doubt the car will make it to all these events, you gotta have a goal to start with right?
 
-- [1/23/2010 Winter Series Event 4, Colorado](http://www.rmsolo.org)
+- [1/23/2010 Winter Series Event 4, Colorado](https://www.rmsolo.org)
 - 9/26/2010 NorCal UFO, California
 - 1/30/2011 Norcal UFO, California
 - 2/13/2011 SFR SCCA, California

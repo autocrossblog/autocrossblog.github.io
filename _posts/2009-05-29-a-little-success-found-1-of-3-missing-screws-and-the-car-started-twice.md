@@ -28,7 +28,7 @@ Want to know what that is? That is one of the three missing screws from the star
 
 So with that revelation I decided that I would call it a night from trying to make the car run. I worked on cleaning up some things in the garage, I need to get it up on jack stands and find the remaining 2 screws which I believe are also still in the bell housing. Perhaps this weekend, or early next week I'll get it up and find them.
 
-I also started disassembling the old block, crank and pistons as I need to get rid of those here soon, especially if we find out about our home offer soon (<a href="http://www.going2colorado.com">http://www.going2colorado.com</a>)
+I also started disassembling the old block, crank and pistons as I need to get rid of those here soon, especially if we find out about our home offer soon (<a href="https://www.going2colorado.com">https://www.going2colorado.com</a>)
 
 Here's a brief video of today's work, nothing too fascinating, next time I have it running I'll get audio!
 

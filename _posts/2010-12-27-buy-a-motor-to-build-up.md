@@ -13,7 +13,7 @@ I was thinking, perhaps a motor build up would be a place to start. And rather t
 
 There's a guy selling one on My350z that is somewhat local, could be an interesting thing to pull into the garage. Though, considering we got rid of the pickup truck last week it might not be a good idea to acquire a new motor just yet
 
-<a href="http://my350z.com/forum/norcal-marketplace/467754-fs-rev-up-motor-w-spun-bearing.html">http://my350z.com/forum/norcal-marketplace/467754-fs-rev-up-motor-w-spun-bearing.html</a>
+<a href="https://my350z.com/forum/norcal-marketplace/467754-fs-rev-up-motor-w-spun-bearing.html">my350z.com/forum/norcal-marketplace/467754-fs-rev-up-motor-w-spun-bearing.html</a>
 
 I may email him and tell him I'll give him $150, see where that goes.
 

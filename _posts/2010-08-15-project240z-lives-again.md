@@ -9,7 +9,7 @@ categories: [ 240z, Video Games ]
 ---
 Yes, it's true folks, the Project240z lives again! Check out the latest incarnation!
 
-<img alt="Project240z.com" src="http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs248.snc4/39749_456558199702_685999702_6368642_3742207_n.jpg" />
+(image removed as it no longer works)
 
 So what if it is in a web based video game.
 

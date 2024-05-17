@@ -7,7 +7,7 @@ permalink: saying-goodbye
 image: 
 categories: [ Friends, 240z, Datsun, Colorado, California ]
 ---
-(Idea blatantly stolen from [James Nelson's Saying Goodbye post](http://mywifeisfaster.blogspot.com/2010/01/saying-goodbye.html))
+(Idea blatantly stolen from [James Nelson's Saying Goodbye post](https://mywifeisfaster.blogspot.com/2010/01/saying-goodbye.html))
 
 ![CJH_06-05-07-10-02-39 by chrishammond, on Flickr](https://farm3.static.flickr.com/2488/4140330336_61e4511b6a_m.jpg)
 We've been together for almost 4 years, you and I. It was love at first sight, but it took an internet chat conversation with 4 guys to get you where I wanted you. Once your previous owner let a price slip I jumped on the opportunity to buy you, and a week later you, and a billion parts, were loaded up into a trailer for the trip home.
@@ -18,7 +18,7 @@ I got you home and you fit right in next to your younger sister, it wasn't long 
 The next 6 months you didn't get much attention, but you did gain an unsightly brother, a 1978 2+2 that you would learn to love later in life, as he provided a replacement heart for you, along with eye sockets and chest plate to cover the heart.
 ![CJH_06-05-15-18-48-26 by chrishammond, on Flickr](https://farm3.static.flickr.com/2729/4321433512_984788c373_m.jpg)
 
-In June, about a month after you did start off strong in June by losing your inner self. That was the start of something beautiful, you became an internet star, getting thousands upon thousands of views of your videos. You even show up [very high in the search results for 240z](http://www.google.com/search?hl=en&source=hp&q=240z).
+In June, about a month after you did start off strong in June by losing your inner self. That was the start of something beautiful, you became an internet star, getting thousands upon thousands of views of your videos. You even show up [very high in the search results for 240z](https://www.google.com/search?hl=en&source=hp&q=240z).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MgUDgNx-sBg?si=h2Y5aenm4TXaiwTn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

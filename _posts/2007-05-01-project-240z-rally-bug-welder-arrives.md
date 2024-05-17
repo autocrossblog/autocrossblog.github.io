@@ -8,7 +8,7 @@ categories:  [ 240z, Datsun ]
 
 ---
 
-Mark from The Rally Bug (http://www.321govideo.com/rallybug) stopped by tonight and dropped off his welder for me to borrow for a week. He was also kind enough to give me some brief lessons as it's been a while (proly 10 years) since I've welded anything!
+Mark from The Rally Bug (www.321govideo.com/rallybug) stopped by tonight and dropped off his welder for me to borrow for a week. He was also kind enough to give me some brief lessons as it's been a while (proly 10 years) since I've welded anything!
 
 Thanks Mark for your help tonight, now I can get going on some Major items for the 240z!
 

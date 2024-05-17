@@ -21,7 +21,7 @@ featured_image:  something.jpg
         {% assign author = site.authors[page.author] %}
 
         <div class="col-md-9 flex-first flex-md-unordered">
-            <article itemscope itemtype="http://schema.org/BlogPosting">
+            <article itemscope itemtype="https://schema.org/BlogPosting">
                 <div class="mainheading">
                     <header>
                         <!-- Post Title -->
@@ -43,7 +43,7 @@ featured_image:  something.jpg
                         {% if page.author %}
                         <div class="row post-top-meta">
                             <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                                <div itemtype="http://schema.org/Person">
+                                <div itemtype="https://schema.org/Person">
                                     By: <a  class="link-dark" href="{{ author.web }}" itemprop="sameAs"><span itemprop="name">{{ author.display_name }}</span></a><a  href="{{ author.twitter }}" class="btn follow" itemprop="sameAs">Follow</a>
                                 </div>
                             </div>
@@ -100,7 +100,7 @@ featured_image:  something.jpg
                                 <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
                                 {% endif %}
                             </div>
-                            <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left" itemprop="author" itemtype="http://schema.org/Person">
+                            <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left" itemprop="author" itemtype="https://schema.org/Person">
                                 <a  class="link-dark" href="{{ author.web }}" itemprop="sameAs"><span itemprop="name">{{ author.display_name }}</span></a><a  href="{{ author.twitter }}" class="btn follow" itemprop="sameAs">Follow</a>
                             </div>
                             <span class="author-description" itemprop="description">{{ author.description }}</span>
@@ -177,7 +177,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
 {% if page.rating %}
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org/",
+  "@context": "https://schema.org/",
   "@type": "Review",
   "itemReviewed": {
     "@type": "Thing",

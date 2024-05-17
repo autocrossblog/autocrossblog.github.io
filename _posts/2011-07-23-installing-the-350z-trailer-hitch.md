@@ -10,7 +10,7 @@ categories: [ 350z, Nissan ]
 ---
 So the time finally came, or I finally got around to it, the hitch is now on our 2004 Nissan 350z.
 
-The hitch is a [Curt Hitch for the 350z, available via Amazon](http://www.amazon.com/gp/product/B000BROASA?ie=UTF8&tag=chrishammondc-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000BROASA). I purchased it quite a while ago, but haven't taken the time to get the car apart and install it. Today that all changed.
+The hitch is a [Curt Hitch for the 350z, available via Amazon](https://www.amazon.com/gp/product/B000BROASA?ie=UTF8&tag=chrishammondc-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000BROASA). I purchased it quite a while ago, but haven't taken the time to get the car apart and install it. Today that all changed.
 
 To get the hitch on the car, you first have to remove the rear bumper fascia from the car, that's fairly simple to do, remove the rear tail lights, remove 6 or so screws, 4 clips, and pull. The 350z Service Manual is helpful for this.
 
@@ -26,4 +26,4 @@ So the hitch is on the car, though I don't plan to use it for a good couple of w
 
 Here is a during, and after photo, and stay tuned for the time lapse video of the process later on.
 
-![350z Trailer Hitch Installed](http://static.flickr.com/6021/5968044321_737e3a2f4a_m.jpg) ![Now that @project350z is apart, time to find the hitch in the garage](http://static.flickr.com/6013/5967231711_f7e2b9e4f1_m.jpg)
+![350z Trailer Hitch Installed](https://static.flickr.com/6021/5968044321_737e3a2f4a_m.jpg) ![Now that @project350z is apart, time to find the hitch in the garage](https://static.flickr.com/6013/5967231711_f7e2b9e4f1_m.jpg)

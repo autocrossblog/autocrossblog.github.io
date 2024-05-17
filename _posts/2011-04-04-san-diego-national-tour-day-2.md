@@ -19,4 +19,4 @@ I'll have videos up in the next couple of days, I have some photos uploading at 
 
 <a href="https://www.flickr.com/photos/chammond/sets/72157626299376321/">https://www.flickr.com/photos/chammond/sets/72157626299376321/</a>
 
-<a title="IMG_9328" href="https://www.flickr.com/photos/17726343@N00/5587474265/"><img border="0" alt="Project 350z at San Diego National Tour" src="http://static.flickr.com/5069/5587474265_c1f4f02b0d.jpg" /></a>
+<a title="IMG_9328" href="https://www.flickr.com/photos/17726343@N00/5587474265/"><img border="0" alt="Project 350z at San Diego National Tour" src="https://static.flickr.com/5069/5587474265_c1f4f02b0d.jpg" /></a>
