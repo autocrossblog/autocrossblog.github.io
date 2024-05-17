@@ -117,7 +117,7 @@ featured_image:  something.jpg
                         {% for category in sortedCategories %}
                         
                         <li>
-                            <a class="smoothscroll btn-secondary" href="{{site.baseurl}}/category/{{ category | url_escape | strip | slugify }}">{{ category }}</a>
+                            <a class="smoothscroll btn-secondary" href="{{site.baseurl}}/category/{{ category | url_escape | strip | slugify }}/">{{ category }}</a>
                         </li>
                         {% endfor %}
                     </ul>
