@@ -4,7 +4,14 @@ title: An autocrosser's blog 24 years in the making!
 ---
 
 <section> 
-    <h1 itemprop="headline">Welcome to AutocrossBlog.com</h1>
+    <h1 itemprop="headline">Welcome to AutocrossBlog.com
+        {% if paginator.page %}
+            {% if paginator.page > 1 %}
+                Page {{ paginator.page }} of {{ paginator.total_pages }} - 
+            {% endif %}
+        {% endif %}
+
+    </h1>
     <p>This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.</p>
 </section>
 
