@@ -2,7 +2,7 @@
 # You can change the settings below in order to customize your website.
 name: "AutocrossBlog.com"
 title: "AutocrossBlog.com"
-description: "Documenting autocross, the finest of all motorsports!"
+description: "Explore autocross insights with Chris Hammond’s 24+ years of experience1. Get tips, event recaps, and SCCA schedule updates at AutocrossBlog.com."
 logo: 'assets/GradientLogo.jpg'
 favicon: '/assets/favicon.ico'
 baseurl: ""
@@ -12,6 +12,9 @@ mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
 url: 'https://www.autocrossblog.com'
+
+
+keywords: "Autocross, Chris Hammond, SCCA, driving tips, event recaps, autocross schedule, teen drivers, autocross education,, St. Louis autocross"
 
 templatemessage: 'Forked from <a  href="https://www.chrishammond.com/">Chris Hammond</a>''s <a href="https://www.jekyllexample.com">jekyllexample.com</a>.'
 
