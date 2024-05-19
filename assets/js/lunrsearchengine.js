@@ -12,7 +12,7 @@ var documents = [{
     }, {
     "id": 2,
     "url": "https://www.autocrossblog.com/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:                                                                                                                                                                                                             10 Reasons why your teen driver should Autocross, and you should too                              :               Autocross provides a multifaceted platform that is ideal for teaching teen drivers about the intricacies of safe and skilled driving. Here are ten reasons why. . . :                                                                                                                                                                                         Chris Hammond                                                  10 May 2024                                                                                                                                                                                                                                                                                                                    Recap of the 2024 St. Louis CAM Challenge Autocross                              :               Last week, the thrill of autocross took over the Family Arena in St. Charles, Missouri, with the 2024 St. Louis CAM Challenge event. Competitors in. . . :                                                                                                                                                                                         Chris Hammond                                                  08 May 2024                                                                                                                                                                                                                                                                                                                    From Cones to Camaraderie: Recap of St. Louis's First Autocross of 2024                              :               The first local autocross of the year was officially Event #2 for the St. Louis Region SCCA. Why Event #2 if it was the first?. . . :                                                                                                                                                                                         Chris Hammond                                                  22 Apr 2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      All Posts:                                                                               10 Reasons why your teen driver should Autocross, and you should too              :       Autocross provides a multifaceted platform that is ideal for teaching teen drivers about the intricacies of safe and skilled driving. Here are ten reasons why enrolling your teen in autocross. . . :                                                                                               Chris Hammond                          10 May 2024                                                                                                              Recap of the 2024 St. Louis CAM Challenge Autocross              :       Last week, the thrill of autocross took over the Family Arena in St. Charles, Missouri, with the 2024 St. Louis CAM Challenge event. Competitors in various classes including CAM (Classic. . . :                                                                                               Chris Hammond                          08 May 2024                                                                                                              From Cones to Camaraderie: Recap of St. Louis's First Autocross of 2024              :       The first local autocross of the year was officially Event #2 for the St. Louis Region SCCA. Why Event #2 if it was the first? Event #1 ended up getting. . . :                                                                                               Chris Hammond                          22 Apr 2024                                                                                                              Red Hills National Tour Results              :       Last Thursday I wrote a blog post about the trip down to Moultrie Georgia for the 2024 Red Hills Solo National Tour, this post will serve as the event review. . . :                                                                                               Chris Hammond                          30 Mar 2024                                                                                                              Roadtrip to Moultrie              :       #SOLONATSHASSTARTED Here we go. We are on the road south to Moultrie, Georgia for the 2024 Tire Rack SCCA Red Hills National Tour at Spence Field. I met Dave and. . . :                                                                                               Chris Hammond                          21 Mar 2024                                                                                                              Autocross Trophies, do you need them or want them?              :       Here in the St. Louis region, you used to compete for a trophy at every event you entered. You could stick around after the event, and if you qualified, you. . . :                                                                                               Chris Hammond                          03 Feb 2024                                                                                                              Information about the Vitour Tempesta P1              :       If you’re looking for information on the Vitour Tempesta P1 tire for the sport of autocross you’ve come to the right place! The tire isn’t legal for national level autocross. . . :                                                                                               Chris Hammond                          02 Feb 2024                                                                                                              2024 St. Louis Region SCCA Solo Autocross Schedule              :       The 2024 St. Louis Region SCCA Solo Schedule was released just yesterday! It isn’t even up on their website, but we’ve got it here for you now! 2024 Autocross Schedule. . . :                                                                                               Chris Hammond                          18 Jan 2024                                                                                                              Hello World, AutocrossBlog. com is live!              :       AutocrossBlog. com is a culmination of two decades of autocrossing and way too many different cars and car websites over the years. I’ve tried to consolidate my car blogs into this. . . :                                                                                               Chris Hammond                          16 Jan 2024                                               &laquo; Prev       1        2        3        4        5        6        7        8        9        10        11        12        13        14        15        16        17        18        19        20        21        22        23        24        25        26        27        28        29        30        31        32        33        34        35        36        37        38      Next &raquo; "
     }, {
     "id": 3,
@@ -82,187 +82,187 @@ var documents = [{
     }, {
     "id": 16,
     "url": "https://www.autocrossblog.com/page2/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 17,
     "url": "https://www.autocrossblog.com/page3/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 18,
     "url": "https://www.autocrossblog.com/page4/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 19,
     "url": "https://www.autocrossblog.com/page5/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 20,
     "url": "https://www.autocrossblog.com/page6/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 21,
     "url": "https://www.autocrossblog.com/page7/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 22,
     "url": "https://www.autocrossblog.com/page8/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 23,
     "url": "https://www.autocrossblog.com/page9/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 24,
     "url": "https://www.autocrossblog.com/page10/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 25,
     "url": "https://www.autocrossblog.com/page11/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 26,
     "url": "https://www.autocrossblog.com/page12/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 27,
     "url": "https://www.autocrossblog.com/page13/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 28,
     "url": "https://www.autocrossblog.com/page14/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 29,
     "url": "https://www.autocrossblog.com/page15/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 30,
     "url": "https://www.autocrossblog.com/page16/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 31,
     "url": "https://www.autocrossblog.com/page17/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 32,
     "url": "https://www.autocrossblog.com/page18/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 33,
     "url": "https://www.autocrossblog.com/page19/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 34,
     "url": "https://www.autocrossblog.com/page20/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 35,
     "url": "https://www.autocrossblog.com/page21/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 36,
     "url": "https://www.autocrossblog.com/page22/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 37,
     "url": "https://www.autocrossblog.com/page23/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 38,
     "url": "https://www.autocrossblog.com/page24/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 39,
     "url": "https://www.autocrossblog.com/page25/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 40,
     "url": "https://www.autocrossblog.com/page26/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 41,
     "url": "https://www.autocrossblog.com/page27/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 42,
     "url": "https://www.autocrossblog.com/page28/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 43,
     "url": "https://www.autocrossblog.com/page29/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 44,
     "url": "https://www.autocrossblog.com/page30/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 45,
     "url": "https://www.autocrossblog.com/page31/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 46,
     "url": "https://www.autocrossblog.com/page32/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 47,
     "url": "https://www.autocrossblog.com/page33/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 48,
     "url": "https://www.autocrossblog.com/page34/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 49,
     "url": "https://www.autocrossblog.com/page35/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 50,
     "url": "https://www.autocrossblog.com/page36/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 51,
     "url": "https://www.autocrossblog.com/page37/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 52,
     "url": "https://www.autocrossblog.com/page38/",
-    "title": "AutocrossBlog.com - An autocrosser's blog 24 years in the making!",
+    "title": "An autocrosser's blog 24 years in the making!",
     "body": "{% if page. url == “/” %}   Welcome to AutocrossBlog. com  This site is the culmination of 24+ years of autocross and internet musings of Chris Hammond.       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Posts:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 53,
