@@ -5,7 +5,7 @@ date: '2018-04-13T03:51:32+00:00'
 last_modified_at: '2024-04-26T11:11:43+00:00'
 permalink: autocross-alignment-in-st-louis-missouri
 image: 
-categories: [ Autocross, Scion, FR-S, SSC, Install, Setup  ]
+categories: [ Autocross, Scion, FR-S, SSC, Install, Setup, specfrs  ]
 ---
 With the parts installed on the car, it was time to get wheels and tires mounted/balanced and installed. I also needed to get an alignment on the car as I knew it wasn't close to the autocross specs that Tire Rack had in their recommendations. So I took my car to the only place I trust for an [autocross alignment](https://soloperformance.com/pages/sps-performance-garage-wheel-alignments-tire-installation-and-other-services) in Missouri, [Solo Performance Specialties](https://www.soloperformance.com/).
 
