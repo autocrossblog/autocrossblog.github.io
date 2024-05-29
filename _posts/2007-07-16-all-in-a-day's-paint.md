@@ -9,6 +9,7 @@ image:
 categories:  [ 240z, Datsun, MegaSquirt ]
 redirect_from:
     - all-in-a-day&apos;s-paint
+    - all-in-a-day%27s-paint
 
 ---
 After yesterday's fun, Eric and I spent some time in the garage today. I was awoken this morning around 8:00am by the doorbell; the Dish Network guy showed up right on time. More on that topic tomorrow on [The Mad Blogger](https://themadblogger.com/). After I got the Dish guy going, I sent Eric an SMS to let him know I was out in the garage working.
