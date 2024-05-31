@@ -1473,7 +1473,7 @@ var documents = [{
     "id": 294,
     "url": "https://www.autocrossblog.com/bad-things-oil-and-antifreeze-don-t-mix",
     "title": "Bad things oil and antifreeze don't mix",
-    "body": "2007/08/15 - So I’m in the garage working on the 1973 Datsun 240z. I pulled the drain plug on the motor, out comes antifreeze, then oil… bad things here. This 2. 8L turbo motor is likely a complete loss. "
+    "body": "2007/08/15 - So I’m in the garage working on the 1973 Datsun 240z. I pulled the drain plug on the motor, out comes antifreeze, then oil… bad things here. This 2. 8L turbo motor is likely a complete loss. Protip: You don’t want to find antifreeze and oil mixed together in your engine. "
     }, {
     "id": 295,
     "url": "https://www.autocrossblog.com/post-traumatic-stress-analysis",
