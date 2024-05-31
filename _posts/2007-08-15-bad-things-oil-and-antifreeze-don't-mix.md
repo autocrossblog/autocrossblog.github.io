@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bad things oil and antifreeze don't mix
-description: bad things in the Datsun 240z motor" 
+description: "A blog post about bad things found in the Datsun 240z motor" 
 date: '2007-08-15T05:34:02+00:00'
 last_modified_at: '2024-05-29T13:05:24+23:00'
 permalink: bad-things-oil-and-antifreeze-don-t-mix
@@ -14,10 +14,9 @@ redirect_from:
 ---
 So I'm in the garage working on the 1973 Datsun 240z. 
 
-
 I pulled the drain plug on the motor, out comes antifreeze, then oil... bad things here. 
-
 
 This 2.8L turbo motor is likely a complete loss.
 
 
+Protip: You don't want to find antifreeze and oil mixed together in your engine.
