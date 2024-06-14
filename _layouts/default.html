@@ -21,7 +21,7 @@
             Page {{ paginator.page }} of {{ paginator.total_pages }} - 
         {% endif %}
     {% endif %}
-    {% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}
+    {% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}
 
 </title>
 <link rel="icon" href="{{ site.baseurl }}{{ site.favicon }}">
