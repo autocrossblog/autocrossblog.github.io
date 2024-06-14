@@ -2043,7 +2043,7 @@ var documents = [{
     "id": 408,
     "url": "https://www.autocrossblog.com/prepping-for-pulling-the-motor-out-of-the-datsun-240z",
     "title": "Prepping for pulling the motor out of the Datsun 240z",
-    "body": "2007/01/29 - Spent some time today getting the car prepped for pulling the motor. Still a bit of work left to do. "
+    "body": "2007/01/29 - Spent some time today getting the car prepped for pulling the motor. Still a bit of work left to do. This video shows you some of the preparation work I had to do to get the motor out of the 240z for the first time. This video was early on in our Project240z days experienced inside the smaller garage of our rental house in Manchester Missouri. "
     }, {
     "id": 409,
     "url": "https://www.autocrossblog.com/project-240z-site-begins",
