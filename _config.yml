@@ -23,11 +23,13 @@ authors:
   chris:
     name: Chris Hammond
     display_name: Chris Hammond
+    first_name: Chris
+    last_name: Hammond
     gravatar: bff097b7cc348bebce39ee1c7694d125
-    email: christoc@christoc.com
+    email: autocross@christoc.com
     web: https://www.chrishammond.com
     twitter: https://twitter.com/christoc
-    description: "Chris Hammond has autocrossed for 24 years, racing in a variety of vehicles from a 1994 VW Golf to a 1999 Z-28, a 2003 350z, a 2004 ZO6 and a 2016 FRS. He is the founder of AutocrossBlog.com and created the ultimate autocross forum, SOLO2.ORG, years ago . Read more at <a href=\"https://www.chrishammond.com\" target=_blank>ChrisHammond.com</a>" 
+    description: "<a href=\"https://www.chrishammond.com\"Chris Hammond</> has autocrossed for 24 years, racing in a variety of vehicles from a 1994 VW Golf to a 1999 Z-28, a 2003 350z, a 2004 ZO6 and a 2016 FRS. He is the founder of AutocrossBlog.com and created the ultimate autocross forum, SOLO2.ORG, years ago." 
 
 # Plugins
 plugins:
