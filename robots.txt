@@ -1,0 +1,3 @@
+Sitemap: https://www.autocrossblog.com/sitemap.xml
+User-agent: *
+Disallow:
