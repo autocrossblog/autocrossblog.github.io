@@ -7,9 +7,7 @@ permalink: for-sale-4-18x10-38-enkei-rpf1-w-710s
 image:
 categories: [ 350z, Nissan, Wheels, For Sale, Parts ]
 redirect_from:
-    - for-sale-4-18x10%22-38-enkei-rpf1-w/-710s
-    - for-sale-4-18x10"-38-enkei-rpf1-w/-710s
-    
+    - for-sale-4-18x10%22-38-enkei-rpf1-w/-710s    
 ---
 Asking **$1600** local (delivery extra, I have small vehicles so transport is a pain). Currently located in Half Moon Bay, California, just south of San Francisco.
 
