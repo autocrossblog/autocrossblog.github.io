@@ -59,7 +59,10 @@
 		/>
 		<meta name="twitter:image" content="https://www.autocrossblog.com" />
 
-		<meta name="keywords" content="" />
+		<meta
+			name="keywords"
+			content="autocross, blog, scca, racing, automotive, car, speed, cone, pylon, parking lot racing"
+		/>
 		<link rel="canonical" href="https://www.autocrossblog.com/page5/" />
 
 		<link
@@ -82,7 +85,7 @@
 				"url": "https://www.autocrossblog.com/page5/",
 				"name": "An autocross blog 24 years in the making!",
 				"headline": "An autocross blog 24 years in the making!",
-				"keywords": "",
+				"keywords": "autocross, blog, scca, racing, automotive, car, speed, cone, pylon, parking lot racing",
 				"description": "",
 				"articleBody": " \r\n    Welcome to {{ site.title }} \r\n        {% if paginator.page %}\r\n            {% if paginator.page > 1 %}\r\n                - Page {{ paginator.page }} of {{ paginator.total_pages }} \r\n            {% endif %}\r\n        {% endif %}\r\n\r\n    \r\n    {{ site.description }} \r\n\r\n\r\n{% if page.url == \"/\" %}\r\n\r\n\r\n\r\n    \r\n        Featured\r\n    \r\n    \r\n\r\n    {% for post in site.posts %}\r\n\r\n        {% if post.featured == true %}\r\n\r\n            {% include featuredbox.html %}\r\n\r\n        {% endif %}\r\n\r\n    {% endfor %}\r\n\r\n    \r\n\r\n\r\n{% endif %}\r\n\r\n\r\n\r\n\r\n    \r\n\r\n        All Posts\r\n\r\n    \r\n\r\n    \r\n\r\n        {% for post in paginator.posts %}\r\n\r\n        {% include postbox.html %}\r\n\r\n        {% endfor %}\r\n\r\n    \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    {% include pagination.html %}\r\n\r\n\r\n\r\n",
 				"datePublished": null,
