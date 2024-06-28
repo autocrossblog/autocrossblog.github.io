@@ -8,3 +8,4 @@ categories: [ 240z, Datsun ]
 ---
 I created a photos page last week, and didn't put any up there! Now they're pulling from the Project240z.com Flickr Group and posting on the Project240z.com Photos page for all to see. Nothing too interesting yet though.
 
+[Autocross Blog Photos](/photos)
