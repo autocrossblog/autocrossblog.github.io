@@ -1903,7 +1903,7 @@ var documents = [{
     "id": 380,
     "url": "https://www.autocrossblog.com/project240zcom-photos",
     "title": "Project240Z.com Photos",
-    "body": "2007/03/12 - I created a photos page last week, and didn’t put any up there! Now they’re pulling from the Project240z. com Flickr Group and posting on the Project240z. com Photos page for all to see. Nothing too interesting yet though. "
+    "body": "2007/03/12 - I created a photos page last week, and didn’t put any up there! Now they’re pulling from the Project240z. com Flickr Group and posting on the Project240z. com Photos page for all to see. Nothing too interesting yet though. Autocross Blog Photos "
     }, {
     "id": 381,
     "url": "https://www.autocrossblog.com/240z-the-journey-home",
