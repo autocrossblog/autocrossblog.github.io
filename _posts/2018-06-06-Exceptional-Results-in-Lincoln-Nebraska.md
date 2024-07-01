@@ -8,7 +8,7 @@ permalink: exceptional-results-in-lincoln-nebraska
 image:
 categories: [ Autocross, Toyota, FR-S, SSC, Setup, specfrs ]
 ---
-Wow, what a week! Last Wednesday I loaded up the SpecFRS onto a borrowed trailer and left St. Louis the following morning to drive to Lincoln Nebraska for spring Nationals, 4 days of racing. The drive out was uneventful, spent it trying to listen to old “The Forward" podcasts, I'm not a huge podcast guy, even though I used to have my own back in the day, but I've been trying to listen to Armstrong's podcast from the beginning, long drives are about the only time I can actually listen to it.
+Wow, what a week! Last Wednesday I loaded up the SpecFRS onto a borrowed trailer and left St. Louis the following morning to drive to Lincoln Nebraska for spring Nationals, 4 days of racing. The drive out was uneventful, spent it trying to listen to old â€œThe Forward" podcasts, I'm not a huge podcast guy, even though I used to have my own back in the day, but I've been trying to listen to Armstrong's podcast from the beginning, long drives are about the only time I can actually listen to it.
 
 [![SpecFRS loaded up for travel](https://farm1.staticflickr.com/878/40667948930_9690c26601.jpg)](https://www.flickr.com/photos/chammond/40667948930/in/dateposted/)
 

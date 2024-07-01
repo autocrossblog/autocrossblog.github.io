@@ -10,7 +10,7 @@ categories: [ 350z, Nissan, Setup ]
 
 So today I did some testing with UStream and the FM Audio Broadcast at the El Toro ProSolo. I think I managed to come up with a way to broadcast the announce stream out on the internet (audio only) using UStream.
 
-I setup a new “Channel" for the ProSolo on Ustream, we'll see how it works out tomorrow, but if you want, give it a listen by going to (only active during competition, and if it works)
+I setup a new â€œChannel" for the ProSolo on Ustream, we'll see how it works out tomorrow, but if you want, give it a listen by going to (only active during competition, and if it works)
 
 (ustream link removed)
 

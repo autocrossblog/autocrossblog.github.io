@@ -13,7 +13,7 @@ Part of the wiring problem I've had is that I needed to get a fuse block to star
 
 I'm not going to deal with a key for the car, this car long run isn't going to be something someone will be able to walk up and start anyways.
 
-So we'll see how far I get, I may also have to go look at this on Saturday…. (link to welder removed)
+So we'll see how far I get, I may also have to go look at this on Saturdayâ€¦. (link to welder removed)
 
 
 

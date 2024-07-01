@@ -3,7 +3,7 @@ layout: post
 title: Roadtrip to Moultrie
 date: '2024-03-21T09:00:15+00:00'
 permalink: roadtrip-to-moultrie
-description: "Explore Chris Hammond’s autocross journey to the 2024 SCCA Red Hills National Tour in Moultrie, GA, and stay tuned for event updates and photos"
+description: "Explore Chris Hammondâ€™s autocross journey to the 2024 SCCA Red Hills National Tour in Moultrie, GA, and stay tuned for event updates and photos"
 image: 2024/March/Moultrie/MustangVinyl-1.jpg
 categories: [ Autocross, National Tour, SCCA, Mustang, Friends ]
 featured: false

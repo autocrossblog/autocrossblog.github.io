@@ -13,7 +13,7 @@ Much better luck tonight! I got V 1.1.5 upgraded without any trouble. I wasn't s
 
 We'll see if the batteries (2 of them) last the trip, I doubt it, but we'll see. I have the camera set for shooting every 5 seconds and plan to mount it facing out the windshield.
 
-Thanks for all of you who “like" [Project350z on Facebook](https://facebook.com/project350z)! We've seen some good growth the past couple of days!
+Thanks for all of you who â€œlike" [Project350z on Facebook](https://facebook.com/project350z)! We've seen some good growth the past couple of days!
 
 
 

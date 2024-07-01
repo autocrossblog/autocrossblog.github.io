@@ -9,7 +9,7 @@ categories:  [ 240z, Datsun, Video, Engine, Motor ]
 ---
 A HUGE thanks to Terec for coming over today and helping me with the car. We spent a couple hours this morning and were able to get the engine and transmission into the car, it all worked out pretty well with the only hitch being that all the transmission fluid I put in, came back out :D
 
-After that we hooked up the drive shaft, clutch line, and the speedo cable (which last time the car ran didn't work anyways). We took a break to go get a rental car for my trip to Indianapolis in the morning. After returning home I drained the fuel cell of the gas that unfortunately has been in there since August 2007 when the car last ran. I barely had enough gas cans to drain it fully, though I did have to put some of the cans into the rental car… I figured out how to safely burn off old fuel though :D
+After that we hooked up the drive shaft, clutch line, and the speedo cable (which last time the car ran didn't work anyways). We took a break to go get a rental car for my trip to Indianapolis in the morning. After returning home I drained the fuel cell of the gas that unfortunately has been in there since August 2007 when the car last ran. I barely had enough gas cans to drain it fully, though I did have to put some of the cans into the rental carâ€¦ I figured out how to safely burn off old fuel though :D
 
 Here are some pictures
 

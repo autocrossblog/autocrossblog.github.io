@@ -11,7 +11,7 @@ So I didn't figure I was going to have time to do the alignment on the 350z over
 
 So today I took the car to the local Firestone dealer to get an alignment done today. Here's what I told them.
 
-“I want to know what the specs are, and I want the toe to be within factory specifications."
+â€œI want to know what the specs are, and I want the toe to be within factory specifications."
 
 No problem they said, then they upsold me on the lifetime alignment. I told them, oh that won't work for me, I'm gonna be making lots of changes, you guys won't honor it. He assured me that they would, and even double checked with the manager. We'll see how it works out, but I'm hoping they will honor it going forward! Really I will just want to use them here or there to verify that what I do when I make adjustments and try to align it myself.
 
