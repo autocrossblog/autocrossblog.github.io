@@ -20,4 +20,3 @@ L28E motor
 
 I will try to do a full inventory, or at least a more detailed inventory later on.
 
-Update: 4/30/2024, I was not serious, I didn't sell it for another 10+ months 

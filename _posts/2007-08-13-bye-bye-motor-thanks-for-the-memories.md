@@ -12,4 +12,3 @@ On the Project240z's maiden autocross voyage today the motor decide to depart th
 
 
 
-Update April 30, 2024: An LS1 didn't happen... 

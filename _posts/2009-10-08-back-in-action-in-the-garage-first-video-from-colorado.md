@@ -17,4 +17,3 @@ I picked up a few fuse blocks from Napa a week or so ago, and yesterday started 
 
 The video isn't all that entertaining, but I did come up with a cool angle towards the end of the video. I ended up not having the equipment I needed. I ordered more stuff last night and should have it tomorrow, so I can get working on the car this weekend. Now, check out the video!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E-yBMqf5nR8?si=nvJG_CfZIwB_KcaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

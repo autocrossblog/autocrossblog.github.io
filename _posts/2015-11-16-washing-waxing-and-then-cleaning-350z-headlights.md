@@ -30,4 +30,3 @@ Step 2) The instructions for the product don't tell you much about this, but Ste
 
 I must admit, I was not thrilled about scratching up the headlights even more to use this kit, but the end results was most definitely worth it!
 
-{% picture PublishThumbnails/Windows-Live-Writer/1c3584c943ab_12BEC/Headlight-progress_4.jpg %}

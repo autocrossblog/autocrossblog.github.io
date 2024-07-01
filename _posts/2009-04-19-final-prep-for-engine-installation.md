@@ -20,4 +20,3 @@ So I didn't get a whole lot of progress made today, but I hope to tomorrow as Te
 
 Here's the video from today, not much
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L96tsQ4J5QI?si=oR_qDJ2oFGheIbtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -21,4 +21,3 @@ I need to come up with some sort of exhaust for the car, as Atlanta has noise re
 
 Wiring up the MegaSquirt (this will be the biggest step and my biggest fear, as I have no electronics experience)
 
-Who's down for some help? Anyone? PLEASE? 

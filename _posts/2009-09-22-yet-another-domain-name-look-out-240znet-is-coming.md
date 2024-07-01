@@ -15,4 +15,3 @@ Woot!
 Stay tuned as <a href="https://www.240z.net">https://www.240z.net</a> gets built over the coming months. No sneak peeks right now as to what I plan to do with it. It will not just become a replacement for Project240z.com, I don't plan on this site going away.
  
 
-Update 2024: Nothing came of this :D 

@@ -21,4 +21,3 @@ Tomorrow night, or Thursday I plan to finish up the passenger side brackets and 
 
 I say tomorrow or Thursday, because I'm not sure I'll get any work done tomorrow (Wednesday) because I may head off and play roller hockey with some guys I used to work with at The Sporting News, they are in the process of relocating the "online" side of TSN to North Carolina and I think Wednesday night is the last night for Ray Slover at the pickup hockey games that have been going on for the past 5-6 years now.
 
-More later this week!

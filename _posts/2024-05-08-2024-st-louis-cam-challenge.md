@@ -69,4 +69,3 @@ Here is Dave Whitworth's fastest clean run for the weekend, also Sunday morning:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O6D6v2-ldEo?si=hePmrggWv9XH153L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 And another camera angle of those two runs, placed side by side:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1fuaENeLagg?si=QVu8zC0MDYNIYbEL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

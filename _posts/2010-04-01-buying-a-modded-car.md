@@ -9,4 +9,3 @@ categories: [ 350z, Nissan, Setup ]
 ---
 Don't do it! Unless you buy it from a friend and know exactly what they did!
 
-The 350z failed the smog test tonight. Time to find some OEM cats to put on the car and hope that it helps to make it pass!

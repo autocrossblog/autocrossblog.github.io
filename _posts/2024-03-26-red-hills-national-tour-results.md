@@ -51,4 +51,3 @@ Promptly after third runs were done I started packing things up for the trip hom
 
 Overall I was pleased with how I did for my first real event in almost a year, and first time driving the Mustang since September 2021. I look forward to getting more adjusted to the ride and seeing how else the rest of the year goes!
 
-What's next? A local event on the 21st of April, then the CAM Challenge in St. Charles, MO the first weekend of May.

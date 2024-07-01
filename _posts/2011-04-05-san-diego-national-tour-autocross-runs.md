@@ -51,4 +51,3 @@ On run 2 I went out and tried to throw down a good time, I was pretty frustrated
 
 Finally, a run I could be happy with, the first one all weekend. This run ended up putting me into 6th place in BSP and 1st in our own little ZSP class we had going internally in BSP.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GXltNILjtpY?si=BueApRs92dpwa83b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

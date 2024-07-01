@@ -25,4 +25,3 @@ and here's the removed bushings (sans some of the burned out rubber):
 
 and here's a video of the process over the past two days:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4iCU_LXcA98?si=6XVbPbbe14R5Eie0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

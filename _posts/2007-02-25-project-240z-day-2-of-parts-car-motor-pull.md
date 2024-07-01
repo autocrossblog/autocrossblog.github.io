@@ -9,4 +9,3 @@ categories: [ 240z, Datsun, 280z, Engine, Motor, 2.8L, Parts, Video ]
 ---
 Thanks to Terec for coming over today and helping me get the motor pulled out of the 78 280Z 2+2 parts car today!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1iXI_6gU88s?si=Bu9MgaC6NAY50s8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

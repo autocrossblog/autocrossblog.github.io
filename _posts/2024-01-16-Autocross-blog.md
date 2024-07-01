@@ -15,4 +15,3 @@ I've tried to consolidate my car blogs into this one location, I am sure there's
 
 I'll be blogging here going forward for all my automotive autocross adventures. 
 
-For 2024 I'll be back racing in St. Louis and around the Midwest with my good friend Dave Whitworth from [Solo Performance Specialties](https://soloperformance.com/).

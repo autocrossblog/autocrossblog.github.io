@@ -14,4 +14,3 @@ So the last starter started off working, but after a few days just started spinn
 
 So now was the time, time to hookup the laptop and get the video camera out and record the car actually running! Well I am proud to say it was successful, here's the video below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDbK33E7Tfw?si=DW8IZjHJCV4TLyrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

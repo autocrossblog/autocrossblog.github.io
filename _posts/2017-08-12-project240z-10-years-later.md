@@ -19,4 +19,3 @@ The poor car didn't even get to finish it's first run, blowing a hole in the blo
 
 Lesson learned from the day: Don't get anxious and compete in a car before it is complete. I hadn't tuned the car properly, and likely ran it to lean (also didn't record any of the data, yet again, too anxious). 
 
-2 years later, we moved the car to Colorado with us, it drove under its own power at that point, but was sold shortly thereafter as we moved again on to the state of California, where we knew we wouldn't have the resources to keep/maintain the car.

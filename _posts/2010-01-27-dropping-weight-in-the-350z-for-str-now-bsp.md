@@ -23,4 +23,3 @@ Things I will be looking at:
 - Lighter battery
 - Lightweight flywheel
 - Suspension mods
-- More to come

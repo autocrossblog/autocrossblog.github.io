@@ -12,4 +12,3 @@ Here's some video of me trying to start the car tonight. Today was a day of grea
 Notice at the end that one of the vacuum caps on the tube between the turbo and the throttle body pops off, it landed in my lap.
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/d3ERiZtYITI?si=iOT8tl7njAdYUZl9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
- 

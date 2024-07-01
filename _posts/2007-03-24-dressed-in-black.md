@@ -12,4 +12,3 @@ Hitting the Junkyard to locate parts I still need for the megasquirt setup, incl
 
 I'll also be hitting the parts store for some new break and clutch lines, installing the clutch line, and hopefully starting to put the transmission onto the turbo motor. 
 
-Photos tomorrow.

@@ -13,4 +13,3 @@ I spent the morning with Dave and Terec helping to finish buttoning up items on 
 
 Here's the video from today's work.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Plj8ZyVgPuQ?si=ieXPDSVPwx6zQFeO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

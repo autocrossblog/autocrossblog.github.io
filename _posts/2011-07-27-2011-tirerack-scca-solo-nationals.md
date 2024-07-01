@@ -6,4 +6,3 @@ permalink: 2011-tirerack-scca-solo-nationals
 image:
 categories: [ 350z, Nissan ]
 ---
-Anyone going to the TireRack SCCA Solo Nationals that is looking to split hotel costs? I'm flexible on arrival dates and locations, may even be willing to split costs on a rental car.

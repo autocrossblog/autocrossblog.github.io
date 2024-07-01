@@ -14,4 +14,3 @@ I also put the throttlebody and the intake to the turbo back on the car. I put t
 
 I'll probably do a few more of these minor buttoning up items tomorrow and Thursday night, leaving for tasks like the radiator and coolant, along with other minor things, for Saturday when Dave and possibly Terec are over to assist.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Ke7FK0CLHg?si=Dn3OqYTMwrk_4wqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

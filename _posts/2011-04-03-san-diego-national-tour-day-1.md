@@ -26,4 +26,3 @@ I don't have the videos from today squared away yet, but you can watch the time 
 
 Well in the time it look to post this, I got one video up, from Run 1
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SjEFwHh5Kvo?si=RkKkPlrn8PY4lIN_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
