@@ -6,7 +6,7 @@ permalink: st-louis-autocross-event-2-2024
 description: Event summary from the 2nd (but really first) event of the 2024 St. Louis Region SCCA Season
 image: 2024/April/StLouis/Event2-1.jpg
 categories: [ Autocross, SCCA, Mustang, Friends, St. Louis, Local ]
-featured: true
+featured: false
 comments: true
 ---
 The first local autocross of the year was officially Event #2 for the St. Louis Region SCCA. Why Event #2 if it was the first? Event #1 ended up getting scrapped due to lot availability issues and the committee just left the original titles of the events the same. 
