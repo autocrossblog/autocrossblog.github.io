@@ -11,9 +11,9 @@ featured: true
 comments: true
 # last_modified_at: '2024-07-08T16:50:08+00:00'
 ---
-[View Photos from the Weekend!](https://photos.rainbowmarks.com/2024/Autocross/Grissom-National-Tour)
-
 We are what, less than 4 weeks from the 2024 Solo National Championships? I decided I better get back to an event and get some practice in. And boy am I glad I did, I sucked, I need to get some more reps!
+
+[View Photos from the Weekend!](https://photos.rainbowmarks.com/2024/Autocross/Grissom-National-Tour)
 
 This weekend was the Grissom National Tour, held just outside of Grissom Air Reserve Base in Bunker Hill, Indiana, where I lived and went to high school for my sophemore year back in the day. I headed up from St. Louis on Friday morning, taking a few work calls along the way and while I was on site. 
 
