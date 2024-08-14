@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024 SPS Pick The Winners Contest"
+title: "2024 Grissom National Tour"
 date: '2024-08-13T20:00:15+00:00'
 permalink: 2024-grissom-national-tour
 description: "Event review from the 2024 Tire Rack SCCA Grissom Solo National Tour"
