@@ -21,7 +21,7 @@ I got there just in time to take a couple of practice runs. The practice course 
 
 I ended up sitting in 4th on Saturday after the first day of runs, way off the pace of the leaders in CAM-C, including Dave the car owner. I was pretty miserable at the experience. The only bright side of Saturday, okay there were two bright sides: I got to announce for the first time in quite some time, that felt good and I got complements on the effort from a variety of folks. The other bright side was the weather, couldn't have asked for a better weekend of weather in Mid-August!
 
-Here are both Dave and my best runs from Saturday
+Here are both Dave and my best runs from Saturday:
 
 ## Chris Hammond Run 3 53.922 +1
 
@@ -29,7 +29,6 @@ Here are both Dave and my best runs from Saturday
 
 ## Dave Whitworth Run 3 53.278
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4WOd7Plz-gk?si=n20_T3qsIxqeDEEH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 Sunday was a little better, though Dave wasn't as close to the leader in CAM-C as he was on Saturday, I was happy to be closer to Dave and further up on the Index for the day (somwhere around 35 vs 76 the day before, 51 with both days combined). The course was actually ran in the same direction as Saturday, with a few of the turns modified to not be quite so restrictive, knocking off 5-6 seconds off the times.
 
