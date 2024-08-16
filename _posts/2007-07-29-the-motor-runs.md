@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Motor Runs in the Project240z!
-description: "Video of the 240z engine running for the first time in many years"
+description: "Video of the 240z engine running for the first time in many years. Video was taken by a cell phone, back in 2007, so quality lacks a bit."
 date: '2007-07-29T00:51:21+00:00'
 last_modified_at: '2024-04-26T08:05:43+23:00'
 permalink: the-motor-runs
