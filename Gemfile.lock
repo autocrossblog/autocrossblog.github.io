@@ -28,7 +28,7 @@ GEM
       fiber-storage
     fiber-storage (1.0.0)
     forwardable-extended (2.6.0)
-    google-protobuf (4.28.1)
+    google-protobuf (4.28.2)
       bigdecimal
       rake (>= 13)
     hashery (2.1.2)
@@ -118,13 +118,13 @@ GEM
     rb-inotify (0.11.1)
       ffi (~> 1.0)
     rexml (3.3.7)
-    rouge (4.3.0)
+    rouge (4.4.0)
     ruby-rc4 (0.1.5)
     ruby-vips (2.2.2)
       ffi (~> 1.12)
       logger
     safe_yaml (1.0.5)
-    sass-embedded (1.78.0)
+    sass-embedded (1.79.1)
       google-protobuf (~> 4.27)
       rake (>= 13)
     terminal-table (3.0.2)
