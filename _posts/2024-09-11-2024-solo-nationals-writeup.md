@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2024 Solo National Championships Writeup"
-date: '2024-09-20T16:00:15+00:00'
+date: '2024-09-25T16:00:15+00:00'
 permalink: 2024-solo-nationals
 description: "Let's talk about a week in Lincoln Nebraska"
 keywords: "scca, lincoln, national championships, solo nationals"
