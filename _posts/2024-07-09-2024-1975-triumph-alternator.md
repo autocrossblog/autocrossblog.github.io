@@ -7,7 +7,7 @@ description: "A little documentation on some of the struggles I had with the alt
 keywords: "triumph, tr6, alternator, british, sports car, 13107N"
 image: 2024/July/TR6Alternator/TR6Alternator-1.jpg
 categories: [ triumph, tr6 ]
-featured: true
+featured: false
 comments: true
 # last_modified_at: '2024-07-08T16:50:08+00:00'
 ---
