@@ -5,7 +5,7 @@ date: '2009-08-24T00:59:55+00:00'
 last_modified_at: '2024-04-30T11:05:33+23:00'
 permalink: organizing-the-garage-and-guess-what-i-found
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 So we've barely been in the house three weeks and I already lost and found something! <a href="/out-goes-the-dash">So in my last blog post I complained</a> that I thought I left the fiberglass dashboard for the 240Z in St. Louis. Well I was wrong! Tonight while trying to get things moved around in the garage to make room for our two primary vehicles I was up on the loft moving things and came across the dashboard!

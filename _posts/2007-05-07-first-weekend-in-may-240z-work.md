@@ -5,7 +5,7 @@ date: '2007-05-07T00:44:12+00:00'
 last_modified_at: '2024-04-21T11:07:00+00:00'
 permalink: first-weekend-in-may-240z-work
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Dad and I got a bit done on the car this weekend. I've created two videos, one from Saturday, one from Sunday.

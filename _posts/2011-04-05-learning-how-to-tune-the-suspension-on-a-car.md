@@ -5,7 +5,7 @@ date: '2011-04-05T22:41:13+00:00'
 last_modified_at: '2024-04-29T16:05:24+23:00'
 permalink: learning-how-to-tune-the-suspension-on-a-car
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 Have you ever wanted to learn how to tune the suspension on a car?
 

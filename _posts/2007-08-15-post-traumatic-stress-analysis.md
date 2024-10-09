@@ -4,7 +4,7 @@ title: Post Traumatic Stress Analysis
 date: '2007-08-15T00:35:01+00:00'
 permalink: post-traumatic-stress-analysis
 image: 
-categories:  [ 240z, Datsun, Motor ]
+categories: [ 240z, datsun, motor ]
 
 ---
 

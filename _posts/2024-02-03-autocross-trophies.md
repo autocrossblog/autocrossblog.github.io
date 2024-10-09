@@ -5,7 +5,7 @@ date: '2024-02-03T13:00:15+00:00'
 permalink: autocross-trophies
 description: Where have they gone?
 image: 2024/February/AutocrossTrophies/AutocrossTrophies-1.jpg
-categories: [ Autocross, trophies, regions ]
+categories: [ autocross, trophies, regions ]
 featured: false
 comments: true
 ---

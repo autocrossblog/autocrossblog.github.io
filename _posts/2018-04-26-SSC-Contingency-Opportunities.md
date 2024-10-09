@@ -6,7 +6,7 @@ date: '2018-04-26T02:58:53+00:00'
 last_modified_at: '2024-04-26T11:10:43+00:00'
 permalink: ssc-contingency-opportunities
 image: 
-categories: [ Autocross, Toyota, Scion, FR-S, SSC  ]
+categories: [ autocross, toyota, scion, fr-s, ssc ]
 ---
 So one of the ways to help supplement the cost of autocross at a National level with the SCCA is to participate in their contingency programs. There are a variety of contingency options available, depending on:
 - What make of car you drive

@@ -5,7 +5,7 @@ date: '2010-11-14T01:50:22+00:00'
 last_modified_at: '2024-05-07T23:31:05+00:00'
 permalink: the-240z-lives-and-it-looks-great
 image: green.jpg
-categories: [ Datsun, 240z, Colorado ]
+categories: [ datsun, 240z, colorado ]
 ---
 So it's been a while since I've blogged here on Project240z.com, reason being that I sold the car quite a while ago. Back this summer I got an email from a guy telling me he was the new owner, having purchased it from the guy that I sold it to.
 

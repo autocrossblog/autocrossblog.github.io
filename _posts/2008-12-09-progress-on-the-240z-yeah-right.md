@@ -5,7 +5,7 @@ date: '2008-12-09T03:12:31+00:00'
 last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: progress-on-the-240z-yeah-right
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Not much progress has been made on the car lately. Since I lasted work on the car I've been pretty much working on work and school stuff non stop, no car work. I was in Vegas at a conference for a week, I started working on my book (work related) and then I've been finishing up a econ paper that I was supposed to do this past summer, and am just now getting finished up.

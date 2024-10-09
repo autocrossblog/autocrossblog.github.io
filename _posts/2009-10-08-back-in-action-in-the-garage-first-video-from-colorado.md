@@ -5,7 +5,7 @@ date: '2009-10-08T18:05:00+00:00'
 last_modified_at: '2024-05-07T23:55:25+23:00'
 permalink: back-in-action-in-the-garage-first-video-from-colorado
 image: 
-categories: [ Video, 240z, Datsun ]
+categories: [ video, 240z, datsun ]
 ---
 So it's been a while since I actually created a video of working on the car, that's not to say I haven't worked on the car, I ripped the dash out completely! That would have made a cool video, apologies for not being proactive enough to setup the camera.
 

@@ -5,7 +5,7 @@ date: '2011-05-07T04:00:29+00:00'
 last_modified_at: '2024-05-07T23:21:05+00:00'
 permalink: color-for-the-wrap-has-been-decided
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 A week ago I posted a â€œquestion" on Facebook to see what color we should wrap the 350z in. 
 

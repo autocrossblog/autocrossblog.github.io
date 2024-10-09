@@ -5,7 +5,7 @@ date: '2009-05-09T17:42:24+00:00'
 last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: it-runs-again
 image: 
-categories:  [ 240z, Datsun, Engine, Motor ]
+categories: [ 240z, datsun, engine, motor ]
 
 ---
 So today we had a garage sale, nothing that resides in the garage was actually sold, but we did sell a lot of stuff that we wanted to get rid of before the move. Post sale the 240Z got some love. Here's the timeline, without times.

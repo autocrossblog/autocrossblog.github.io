@@ -5,7 +5,7 @@ date: '2007-07-15T08:25:28+00:00'
 last_modified_at: '2024-04-26T08:05:24+23:00'
 permalink: here-little-birdy-birdy
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Well, I got absolutely nothing done on the car today. I did manage to buy a few necessary items, but work on the car was not had.

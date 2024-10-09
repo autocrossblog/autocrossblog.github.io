@@ -5,7 +5,7 @@ date: '2008-01-09T02:53:27+00:00'
 last_modified_at: '2024-04-25T22:05:19+00:00'
 permalink: in-search-of-a-piston
 image: 
-categories: [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 redirect_from: 
     - "category/videos-itemid-55-in-search-of-a-piston/"
 ---

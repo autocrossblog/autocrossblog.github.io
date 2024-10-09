@@ -6,7 +6,7 @@ last_modified_at: '2024-04-25T21:05:11+00:00'
 description: A blog post about my Harley weekend with Kevin Dietz
 permalink: harley-weekend
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Well, tomorrow night I'm hitting the road. Actually a buddy of mine Kevin and I are renting Harleys for Friday night/Saturday. We'll be heading out tomorrow afternoon towards Chester on IL-3, coming back up the MO after a seafood buffet stop down there.

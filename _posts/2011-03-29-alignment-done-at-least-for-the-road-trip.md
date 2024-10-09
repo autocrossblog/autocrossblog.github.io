@@ -5,7 +5,7 @@ date: '2011-03-29T01:37:22+00:00'
 last_modified_at: '2024-05-07T23:21:05+00:00'
 permalink: alignment-done-at-least-for-the-road-trip
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 So I didn't figure I was going to have time to do the alignment on the 350z over the next couple of days, and I wasn't sure that I really wanted to do an alignment myself after just lowering the car. I mean, I want to do it, but driving down to San Diego on Thursday isn't the time I need to press my alignment skills.
 

@@ -6,7 +6,7 @@ keywords: Autocross, FR-S, SSC, Setup, Accident, Supplies, Gear, St. Louis, SPS,
 date: '2023-01-24T10:00:15+00:00'
 permalink: race-gear-in-st-louis
 image: 01-24-2023/racegear-1.jpg
-categories: [ Autocross, FR-S, SSC, Setup, Accident, Supplies, Gear, St. Louis ]
+categories: [ autocross, fr-s, ssc, setup, accident, supplies, gear, st.louis ]
 featured: false
 ---
 

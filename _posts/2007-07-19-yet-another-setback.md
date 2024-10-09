@@ -5,7 +5,7 @@ date: '2007-07-19T09:14:00+00:00'
 last_modified_at: '2024-04-26T08:05:24+23:00'
 permalink: yet-another-setback
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Tonight Natalie and I went and looked at a house, it's got ~5 acres, a 2 stall barn, a hay shed, and an oversized two car garage. That covers the basics. While looking around in the garage I found a circuit breaker, sweet, setup just for the garage. It's even got a section marked "Welder"! score, 220 already wired in the garage. Where do I sign?

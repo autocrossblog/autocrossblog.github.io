@@ -4,7 +4,7 @@ title: The suspension is on!
 date: '2011-03-27T02:09:42+00:00'
 permalink: the-suspension-is-on
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 
 So after a week of farting around with things the suspension is finally on the car!

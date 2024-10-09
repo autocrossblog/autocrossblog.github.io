@@ -6,7 +6,7 @@ last_modified_at: '2024-04-25T21:05:21+00:00'
 description: "More power tool fun for the 240z!"
 permalink: fun-power-tools-and-more-240z-progress
 image: 
-categories:  [ 240z, Datsun, Tools ]
+categories: [ 240z, datsun, tools ]
 
 ---
 Last night I returned the Vertical sander that I had purchased from Sears that was broken when I removed it from the box. I got a replacement sander and brought it home to install. I setup the webcam on the wall, right above the work bench, and got to work assembling the sander.

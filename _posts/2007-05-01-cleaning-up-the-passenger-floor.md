@@ -4,7 +4,7 @@ title: Cleaning up the Passenger Floor
 date: '2007-05-01T00:00:00+00:00'
 permalink: cleaning-up-the-passenger-floor
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

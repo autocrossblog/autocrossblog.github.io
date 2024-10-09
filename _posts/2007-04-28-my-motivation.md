@@ -4,7 +4,7 @@ title: My Motivation
 date: '2007-04-28T08:36:49+00:00'
 permalink: my-motivation
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

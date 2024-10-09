@@ -5,7 +5,7 @@ date: '2010-03-08T01:24:46+00:00'
 last_modified_at: '2024-04-30T12:06:13+23:00'
 permalink: always-good-after-a-wash-and-a-wax
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 It has been quite a while, over a year, since I really spent some time washing a waxing a vehicle. My how time has flown, last year we spent time prepping for, and moving to Colorado, during that time I was without a "fun" car, having sold the [Corvette](https://www.corvettez06.org) back in October 2008.
 

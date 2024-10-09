@@ -5,7 +5,7 @@ date: '2010-01-27T23:45:20+00:00'
 last_modified_at: '2024-04-30T12:05:13+23:00'
 permalink: wheels-for-a-350z-in-str
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 So I'm slowly starting to figure out what I need to do to get the car ready for the 2010 Autocross season. I've been looking around, reading the 2010 SCCA Solo rules, covering the details of the class. I've got some more research to do, but for now I'm starting to figure out which wheels I am going to run on the car.
 

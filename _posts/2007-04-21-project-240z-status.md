@@ -4,7 +4,7 @@ title: Project 240Z status?
 date: '2007-04-21T08:34:44+00:00'
 permalink: project-240z-status
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

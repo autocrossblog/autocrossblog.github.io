@@ -5,7 +5,7 @@ date: '2011-02-09T01:06:57+00:00'
 last_modified_at: '2024-04-30T12:21:05+00:00'
 permalink: 350z-tire-wheel-fitment-18x10-inch-305-v710s
 image: 350z/rpf1s.jpg
-categories: [ 350z, Nissan, Setup, Wheels ]
+categories: [ 350z, nissan, setup, wheels ]
 redirect_from:
   - 350z-tire/wheel-fitment-18x10-inch-305-v710s
 ---

@@ -6,7 +6,7 @@ date: '2009-05-29T00:50:32+00:00'
 last_modified_at: '2024-04-26T08:04:33+23:00'
 permalink: a-little-success-found-1-of-3-missing-screws-and-the-car-started-twice
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 ---
 So last night after work I came home with the intention of trying to figure out why the car wouldn't start. My intentions were to check the positioning of the 36-1 wheel for the VR sensor that drives the Megasquirt/EDIS setup. After checking the positioning of the sensor I was going to do a compression check on the motor. Well I threw those intentions out of the window, I wanted to see if after charging the battery the night before things would be better as the changes from the night before were not completely tested due to the drained battery.
 

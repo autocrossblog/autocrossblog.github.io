@@ -4,7 +4,7 @@ title: A space heater and gasoline...
 date: '2008-03-09T04:52:43+00:00'
 permalink: a-space-heater-and-gasoline
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

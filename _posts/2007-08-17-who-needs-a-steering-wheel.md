@@ -4,7 +4,7 @@ title: Who needs a steering wheel?
 date: '2007-08-17T19:46:11+00:00'
 permalink: who-needs-a-steering-wheel
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Over the time working on the 240Z we had various problems getting the steering wheel mounted in the car properly. The steering column threads wouldn't allow the Nut that I had to thread onto the column so mounting the wheel was an issue.

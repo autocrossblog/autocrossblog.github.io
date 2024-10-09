@@ -5,7 +5,7 @@ date: '2011-03-21T01:57:49+00:00'
 last_modified_at: '2024-04-29T15:05:19+00:00'
 permalink: suspension-fail
 image:
-categories: [ 350z, Nissan, Setup, Suspension ]
+categories: [ 350z, nissan, setup, suspension ]
 ---
 No, the suspension didn't break, but man did Murphy show up in full force today.
 

@@ -5,7 +5,7 @@ description: "I get some of the most random emails from this website."
 date: '2008-03-12T00:58:20+00:00'
 permalink: random-emails
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 I get some of the most random emails from this website.

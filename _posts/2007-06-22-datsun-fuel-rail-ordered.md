@@ -4,7 +4,7 @@ title: Datsun Fuel Rail Ordered!
 date: '2007-06-22T02:16:37+00:00'
 permalink: datsun-fuel-rail-ordered
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

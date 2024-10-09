@@ -4,7 +4,7 @@ title: Dressed in black
 date: '2007-03-24T08:23:21+00:00'
 permalink: dressed-in-black
 image: 
-categories: [ 240z, Datsun, MegaSquirt ]
+categories: [ 240z, datsun, megasquirt ]
 ---
 Well the engine bay of the Project 240Z has a nice coat of black paint. I'll be touching up a few areas tomorrow, as well as doing the following.
 

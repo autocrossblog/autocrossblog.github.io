@@ -4,7 +4,7 @@ title: Gas Tank update, seat fitting this weekend, harbor freight sucks
 date: '2007-04-25T09:01:28+00:00'
 permalink: gas-tank-update-seat-fitting-this-weekend-harbor-freight-sucks
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 I ended up not getting another gas tank this past weekend. I had planned on picking one up in Hillsboro but the guy ended up sounding way too sketchy for me. First the tank was perfect, then it had two holes he was going to repair, then there was a gash that needed repair, then, and then, and then. So I ended up deciding not to go get the tank. Back to looking for a Fuel Cell again, unless anyone has a source on a complete, leak free, 240Z Gas tank?

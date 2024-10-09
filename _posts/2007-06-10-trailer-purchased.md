@@ -6,7 +6,7 @@ last_modified_at: '2024-04-25T21:05:19+00:00'
 description: "I purchased a trailer!"
 permalink: trailer-purchased
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
  Well I went out and got myself a trailer today, pics tomorrow. I didn't get anything else done on the car, though I did get the drill press put together today. Then we spent the day cleaning the house for a small party we had tonight some old school chums. 

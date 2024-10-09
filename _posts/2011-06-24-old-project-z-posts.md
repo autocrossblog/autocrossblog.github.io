@@ -4,7 +4,7 @@ title: Old Project Z posts
 date: '2011-06-24T01:35:12+00:00'
 permalink: old-project-z-posts
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 I've been doing some work on SOLO2.ORG the past two evenings, working on restoring a bunch of my old blog posts from over there from the early days of the site. There was a lot of content that went missing over the various conversions of the site the past 4-5 years.
 

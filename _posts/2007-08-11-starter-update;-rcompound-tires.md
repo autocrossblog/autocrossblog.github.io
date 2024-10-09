@@ -5,7 +5,7 @@ date: '2007-08-11T01:06:39+00:00'
 last_modified_at: '2024-04-29T15:05:24+23:00'
 permalink: starter-update;-rcompound-tires
 image: 
-categories:  [ 240z, Datsun, Tires ]
+categories: [ 240z, datsun, tires ]
 
 ---
 I pulled the starter out of the car last night and will be putting a new one back in the car tonight. Dad and I will also be working on the idle screw to see if we can't get the car to idle properly.

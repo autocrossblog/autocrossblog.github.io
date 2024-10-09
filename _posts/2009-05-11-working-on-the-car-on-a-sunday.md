@@ -5,7 +5,7 @@ date: '2009-05-11T00:19:41+00:00'
 last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: working-on-the-car-on-a-sunday
 image: 
-categories:  [ 240z, Datsun, Video ]
+categories: [ 240z, datsun, video ]
 
 ---
 Working on the car today. Rewired the VR sensor and installed the radiator. Worked on front air dam, and put the exhaust on. Tried to start it, need to rewire the VR sensor again :( 

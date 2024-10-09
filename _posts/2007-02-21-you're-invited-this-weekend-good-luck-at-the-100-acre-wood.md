@@ -4,7 +4,7 @@ title: You're invited this weekend. Good luck at the 100 Acre Wood
 date: '2007-02-21T11:45:51+00:00'
 permalink: you-re-invited-this-weekend-good-luck-at-the-100-acre-wood
 image: 
-categories: [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 ---
  Alright, this coming weekend is the time. I'm going to pull the motor out of the parts car this weekend, as well as the transmission, and any other parts I can salvage. If anyone is interested in helping out, I'll provide all the food and beer you desire while over here. What all do we have to do? The parts car is a 1978 280Z 2+2. I need the transmission for the 240Z, and probably will end up needing the motor for when the Turbo motor has problems! 
  Other than that, I want to remove whatever I can save/sell before I scrap the rest of it so I can bring the 240Z back home. 

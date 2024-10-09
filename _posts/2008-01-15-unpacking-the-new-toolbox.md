@@ -4,7 +4,7 @@ title: Unpacking the new toolbox.
 date: '2008-01-15T17:05:10+00:00'
 permalink: unpacking-the-new-toolbox
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Checkout the video (with a few new dancing moves for entertainment) of the assembly of the new toolbox to try to help me get the garage organized!

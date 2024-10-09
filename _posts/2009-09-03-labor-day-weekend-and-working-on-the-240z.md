@@ -5,7 +5,7 @@ date: '2009-09-03T22:26:45+00:00'
 last_modified_at: '2024-05-07T23:55:25+23:00'
 permalink: labor-day-weekend-and-working-on-the-240z
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 So the Labor Day holiday weekend is coming up, and my brother is coming to town. I'm planning on putting him to work on the car. I'm not sure what the goal for the weekend is, but I do want to at least get something done on the car! 

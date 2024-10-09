@@ -6,7 +6,7 @@ date: '2007-07-20T10:33:29+00:00'
 last_modified_at: '2024-04-26T08:05:03+13:00'
 permalink: engine-insertion-take-2
 image: 
-categories:  [ 240z, Datsun, Engine, Motor ]
+categories: [ 240z, datsun, engine, motor ]
 
 ---
 Russ and Eric helped me get things ready and put the motor back in the car last night. The video is LARGE, but fairly entertaining. To watch the video you need to download it, right click on the following link and save it to your machine. It's 165mb so it will take a while to download. (This video has been uploaded to YouTube, no longer a link to download )

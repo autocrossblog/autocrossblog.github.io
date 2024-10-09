@@ -5,7 +5,7 @@ date: '2011-04-09T00:44:21+00:00'
 last_modified_at: '2024-04-29T16:05:24+23:00'
 permalink: listen-to-the-el-toro-prosolo-live
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 
 So today I did some testing with UStream and the FM Audio Broadcast at the El Toro ProSolo. I think I managed to come up with a way to broadcast the announce stream out on the internet (audio only) using UStream.

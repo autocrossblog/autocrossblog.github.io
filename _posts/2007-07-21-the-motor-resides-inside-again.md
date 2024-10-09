@@ -6,7 +6,7 @@ date: '2007-07-21T00:30:00+00:00'
 last_modified_at: '2024-04-26T08:05:03+03:00'
 permalink: the-motor-resides-inside-again
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 ---
 After work last night I got to work on the car. Eric and Russ came over to lend their assistance as well. Russ got started on the leaking wheel cylinder, Eric started putting the Intake/exhaust/turbo back onto the motor, while I worked on fabricating a bracket to mount the VR sensor onto the side of the motor.
 

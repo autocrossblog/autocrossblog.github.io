@@ -5,7 +5,7 @@ date: '2007-08-13T19:27:56+00:00'
 last_modified_at: '2024-04-25T22:05:19+00:00'
 permalink: 240z-first-autocross-run-last-autocross-run-of-2007
 image: 
-categories:  [ 240z, Datsun, Autocross, Fail ]
+categories: [ 240z, datsun, autocross, fail ]
 
 ---
 So I got up bright and early this morning, well it wasn't bright, the sun wasn't up yet. Headed out to Gateway Raceway in Madison Illinois for Event 7 of the St. Louis Region SCCA Solo Series. My parents came out in their large 

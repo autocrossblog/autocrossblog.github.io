@@ -6,7 +6,7 @@ date: '2011-02-12T01:52:45+00:00'
 last_modified_at: '2024-04-25T16:21:05+00:00'
 permalink: prepping-for-the-350z-stud-install
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 I was going to do a blog post on ChrisHammond.com tonight with a video embedded that I took at the NASA Ames Research Center tweetup, but unfortunately the video I produced came out at 800mb and between youtube and my connection it doesn't look like that video is going to be ready for the public to view tonight.
 

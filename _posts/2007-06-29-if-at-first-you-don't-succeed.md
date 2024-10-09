@@ -6,7 +6,7 @@ last_modified_at: '2024-05-29T13:05:21+00:00'
 description: "So tonight didn't go to well. First off, I marked the tabs on the seat mounts for drilling"
 permalink: if-at-first-you-don-t-succeed
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 redirect_from:
     - if-at-first-you-don&apos;t-succeed
     - if-at-first-you-don%27t-succeed

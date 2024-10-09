@@ -6,7 +6,7 @@ date: '2007-01-29T00:00:00+00:00'
 last_modified_at: '2024-04-21T11:07:00+00:00'
 permalink: prepping-for-pulling-the-motor-out-of-the-datsun-240z
 image: 
-categories: [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 last_modified_at: '2024-07-12T11:00:08+00:00'
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mfdQASxI0Mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

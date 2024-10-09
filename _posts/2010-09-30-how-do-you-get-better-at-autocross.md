@@ -5,7 +5,7 @@ date: '2010-09-30T14:35:12+00:00'
 last_modified_at: '2024-05-07T23:31:05+00:00'
 permalink: how-do-you-get-better-at-autocross
 image:
-categories: [ 350z, Nissan, Setup, Autocross, Instruction ]
+categories: [ 350z, nissan, setup, autocross, instruction ]
 ---
 ![Project350z Autocrossing](https://farm5.static.flickr.com/4091/5028275443_f27b042640_m.jpg)
 This is often a question that people will ask when they first start autocrossing, or in my case, when they resume autocrossing after two years of not competing. Additional questions about autocross include: How do I get better? Do I really suck this bad? Why am I so slow? How do I get faster?

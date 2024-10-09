@@ -6,7 +6,7 @@ last_modified_at: '2024-04-25T21:05:11+00:00'
 description: A blog post cutting up the J-Pipe
 permalink: cutting-up-the-jpipe
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 ---
 
 I got some work done on the car, I think I figured out one of the biggest holdups I've had.

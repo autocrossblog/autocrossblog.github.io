@@ -6,7 +6,7 @@ date: '2011-04-03T00:27:44+00:00'
 last_modified_at: '2024-05-17T12:01:05+00:00'
 permalink: san-diego-national-tour-day-1
 image:
-categories: [ 350z, Nissan, Setup, SCCA, Video, National Tour ]
+categories: [ 350z, nissan, setup, scca, video, nationaltour ]
 ---
 I'm worn out, so this will likely not be as long as it should be, but here's a quick summary of the day today.
 

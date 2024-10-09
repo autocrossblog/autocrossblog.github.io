@@ -5,7 +5,7 @@ date: '2016-03-07T00:13:53+00:00'
 last_modified_at: '2024-04-29T16:05:24+23:00'
 permalink: weekend-progress-on-the-350z
 image:
-categories: [ 350z, Nissan, Corvette ]
+categories: [ 350z, nissan, corvette ]
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W_L9OQWg1vE?si=Yeplfbtnr_ntK6UL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

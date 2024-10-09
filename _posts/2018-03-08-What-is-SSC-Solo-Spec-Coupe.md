@@ -4,7 +4,7 @@ title: What is SSC? Solo Spec Coupe
 date: '2018-03-08T03:46:20+00:00'
 permalink: what-is-ssc-solo-spec-coupe
 image: 
-categories: [ Autocross, Toyota, Scion, FR-S, Subaru, BRZ, SSC ]
+categories: [ autocross, toyota, scion, fr-s, subaru, brz, ssc ]
 ---
 Solo Spec Coupe. SSC. The next big thing in SCCA Autocross.
 

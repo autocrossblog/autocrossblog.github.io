@@ -5,7 +5,7 @@ date: '2018-03-27T03:32:58+00:00'
 last_modified_at: '2024-04-26T11:11:44+00:00'
 permalink: new-ride-for-2018-my-2016-scion-frs
 image: 
-categories: [ Toyota, Scion, FR-S  ]
+categories: [ toyota, scion, fr-s ]
 ---
 I have been scouring the interwebs for a good month or so looking for the perfect FR-S for my SSC build, and came across the one via Autotrader. I reached out to the dealership via Autotrader, and also via TrueCar.com to see what kind of deal I could get on the car. The asking price was $18,499, via the TrueCar inquiry they immediately dropped $125 from the price, though the TrueCar quote was adjusted to include a $598 dealer documentation fee, for a total price of $18,972.
 

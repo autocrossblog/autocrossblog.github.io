@@ -5,7 +5,7 @@ date: '2009-04-12T00:01:26+00:00'
 last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: getting-the-engine-ready-to-put-back-in-the-car
 image: 
-categories:  [ 240z, Datsun, Video, Motor ]
+categories: [ 240z, datsun, video, motor ]
 
 ---
 So I spent most of the day today in the garage, the first time I've done that in probably 20 months, it was nice! Thanks to Dave for coming over and helping me out for a bit, if he hadn't come over I wouldn't have gotten all that I did, done.

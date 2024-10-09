@@ -5,7 +5,7 @@ date: '2009-10-08T18:22:16+00:00'
 last_modified_at: '2024-05-07T23:55:25+23:00'
 permalink: should-i-make-the-240z-electric
 image: 
-categories: [ Electric ]
+categories: [ electric ]
 ---
 Today, while I was hard at work, a buddy of mine sent me a link to a car on Ebay, it was a 1984 Rabbit GTI with 517 original miles. I was looking at the car in amazement, seeing it was in St. Louis, and more so in Creve Couer, near where we used to live.
  

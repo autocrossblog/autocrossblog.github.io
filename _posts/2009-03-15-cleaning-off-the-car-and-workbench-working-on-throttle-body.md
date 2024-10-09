@@ -5,7 +5,7 @@ date: '2009-03-15T14:42:10+00:00'
 last_modified_at: '2024-04-30T10:05:24+23:00'
 permalink: cleaning-off-the-car-and-workbench-working-on-throttle-body
 image: 
-categories:  [ 240z, Datsun, Parts, Video ]
+categories: [ 240z, datsun, parts, video ]
 
 ---
 Spent an hour or two yesterday, working in the garage. Cleaned off the hood of the car, which was buried. After that I spent some time cleaning off the workbench, which was also buried. Lots of junk thrown away, and other junk organized.

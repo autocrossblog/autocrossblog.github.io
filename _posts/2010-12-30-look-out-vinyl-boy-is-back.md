@@ -5,7 +5,7 @@ date: '2010-12-30T14:00:01+00:00'
 last_modified_at: '2024-05-07T23:55:25+23:00'
 permalink: look-out-vinyl-boy-is-back
 image:
-categories: [ 350z, Nissan, Setup, Vinyl ]
+categories: [ 350z, nissan, setup, vinyl ]
 ---
 So it has been over 2 years since I've had vinyl on a car, that will be changing in 2011. Look out for the upcoming transformation of the Project 350z! Early in the year I will be doing a minor overhaul, with the goal of doing a full wrap on the car later in the year.
 

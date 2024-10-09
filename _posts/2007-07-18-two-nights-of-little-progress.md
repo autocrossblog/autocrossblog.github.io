@@ -5,7 +5,7 @@ date: '2007-07-18T09:32:53+00:00'
 last_modified_at: '2024-04-26T08:05:24+23:00'
 permalink: two-nights-of-little-progress
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Monday night I didn't get crap done on the project! I started to work on the oil filter/block attachment only to realize after driving around for 2 hours that I wasn't going to find any easy way to block off the oil cooler attachments for the 83 L28ET motor. By the time I got home from that, it was well after 9, and I needed to spend some time with my wife.

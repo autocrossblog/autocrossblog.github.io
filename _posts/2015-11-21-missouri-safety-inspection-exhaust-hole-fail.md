@@ -5,7 +5,7 @@ date: '2015-11-21T00:14:28+00:00'
 last_modified_at: '2024-04-29T21:05:43+00:00'
 permalink: missouri-safety-inspection-exhaust-hole-fail
 image: PublishThumbnails/Windows-Live-Writer/Missouri-Safety-inspection-exhaust-hole-_14613/image_2.png
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 Follow up to the failed emissions and safety test earlier this week.  Last night I got under the car again and checked for leaks, found that one of the gaskets I hadn't touched was leaking, so I tried to cover that up with some exhaust tape.
 

@@ -5,7 +5,7 @@ date: '2015-11-16T00:57:03+00:00'
 last_modified_at: '2024-04-29T21:05:43+00:00'
 permalink: washing-waxing-and-then-cleaning-350z-headlights
 image: PublishThumbnails/Windows-Live-Writer/1c3584c943ab_12BEC/Headlight-progress_2.jpg
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 
 This weekend, being what is likely the last warm weekend of 2015, I decided it was time to wash/claybar/wax the 350z. The weather was beautiful, I spent most of Saturday afternoon performing the first two steps, washing and clay bar'ng the car. The car was pretty clean, but there were some decent cone marks/residue on the side skirts from the previous owner, most of the time spent with the clay bar was there, though there were various other locations on the car that needed attention as well.

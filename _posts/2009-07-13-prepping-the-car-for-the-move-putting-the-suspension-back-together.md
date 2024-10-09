@@ -4,7 +4,7 @@ title: Prepping the car for the move, putting the suspension back together
 date: '2009-07-13T23:19:25+00:00'
 permalink: prepping-the-car-for-the-move-putting-the-suspension-back-together
 image: 
-categories:  [ 240z, Datsun, Suspension ]
+categories: [ 240z, datsun, suspension ]
 
 ---
 Tonight I came home and started putting the suspension back together. Fortunately I hadn't gotten too far with taking it apart, so I didn't have too much to put back together. I decided since we only have a couple of weeks left I won't try getting the other suspension under the car, I'll just worry about getting it together and secured for the trailer ride to Colorado (<going2colorado.com) later this month.

@@ -4,7 +4,7 @@ title: P240Z two new videos
 date: '2007-04-29T21:17:31+00:00'
 permalink: p240z-two-new-videos
 image: 
-categories: [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 ---
 I've posted two new videos for the 240Z. Yesterday I spent some time finishing up the work bench and organizing the garage a bit.
 

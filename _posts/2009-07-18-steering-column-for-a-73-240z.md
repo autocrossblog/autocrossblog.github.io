@@ -5,7 +5,7 @@ date: '2009-07-18T19:51:31+00:00'
 last_modified_at: '2024-04-30T11:05:25+23:00'
 permalink: steering-column-for-a-73-240z
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 So just an FYI so others don't waste money like I did. The steering column off a 1978 280Z will NOT fit on a 1973 240Z. I contacted the ebay seller to check before hand and was assured it would, unfortunately upon reciept and attempt at putting it in the car it does not fit :(

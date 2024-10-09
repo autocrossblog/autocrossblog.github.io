@@ -5,7 +5,7 @@ date: '2009-04-22T00:07:16+00:00'
 last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: working-on-the-240z-on-a-weeknight
 image: 
-categories:  [ 240z, Datsun, Video ]
+categories: [ 240z, datsun, video ]
 
 ---
 I can't say I've really put any effort into the Datsun on a weeknight in probably the past 20-22 months, tonight I spent a couple of hours in the garage working on a few things to get the motor ready to attempt to start it this weekend. I didn't get a lot done, but the things I did will save the time I would have had to spend on Saturday doing them. I've mostly got the fan in place now, with 4 more bolts to put it onto the clutch. I put the single belt in place, and also hooked up the EDIS trigger on the 36-1 wheel for the megasquirt setup.

@@ -6,7 +6,7 @@ permalink: why-your-teen-should-autocross
 description: "Explore the benefits of autocross for teen drivers. Learn how this safe, educational motorsport teaches valuable driving skills, enhances vehicle control, and builds confidence in a controlled environment."
 keywords: "autocross, teen drivers, safe driving, vehicle control, driving skills, recovery techniques, disciplined driving, stress relief, affordable motorsport, driving community"
 image: 2024/May/teenautocross.jpg
-categories: [ Autocross, Family, Education, Teens ]
+categories: [ autocross, family, education, teens ]
 featured: false
 comments: true
 ---

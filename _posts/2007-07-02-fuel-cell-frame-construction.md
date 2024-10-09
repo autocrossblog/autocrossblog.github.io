@@ -6,7 +6,7 @@ date: '2007-07-02T08:50:36+00:00'
 last_modified_at: '2024-04-26T08:05:03+00:00'
 permalink: fuel-cell-frame-construction
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 ---
 This morning I set out into the garage to tackle a fairly large task, at least in my mind. My goal was to build a frame that will secure my 15 gallon fuel cell to the Project 240Z. In case you don't want to read the rest of this post, I was successful!
 

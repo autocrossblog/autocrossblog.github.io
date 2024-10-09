@@ -4,7 +4,7 @@ title: 2020 Topeka ProSolo Results
 date: '2020-07-01T16:01:15+00:00'
 permalink: 2020-topeka-prosolo-results
 image: TopekaProSoloTrophy.jpg
-categories: [ Autocross, FR-S, SSC, Setup, Results, specfrs  ]
+categories: [ autocross, fr-s, ssc, setup, results, specfrs ]
 featured: false
 ---
 [![Conference calls before practice starts](https://live.staticflickr.com/65535/50063439002_ae51b1e02e_m.jpg)](https://www.flickr.com/photos/chammond/50063439002/in/dateposted/ "Conference calls before practice starts")

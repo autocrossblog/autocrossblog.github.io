@@ -4,7 +4,7 @@ title: High Definition 240Z Engine Removal
 date: '2007-06-19T20:52:53+00:00'
 permalink: high-definition-240z-engine-removal
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 I finally got the video working from my new camera. I installed Windows Vista again last night on my home Machine (after 4 months of running on XP again) and with Vista the camera works great!

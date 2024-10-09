@@ -4,7 +4,7 @@ title: 240Z Intake Manifold Bolts...
 date: '2007-06-15T01:37:36+00:00'
 permalink: 240z-intake-manifold-bolts
 image: 
-categories:  [ 240z, Datsun, Video ]
+categories: [ 240z, datsun, video ]
 
 ---
 I spent tonight removing 3 bolts off the turbo (of 4) and one intake manifold bold, as well as two heat shield bolts and the destruction of another heat shield bolt. This weekend the motor comes out again...

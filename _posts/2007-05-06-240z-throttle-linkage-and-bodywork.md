@@ -4,7 +4,7 @@ title: 240Z Throttle Linkage and Bodywork
 date: '2007-05-06T00:00:00+00:00'
 permalink: 240z-throttle-linkage-and-bodywork
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

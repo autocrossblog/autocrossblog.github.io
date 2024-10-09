@@ -4,7 +4,7 @@ title: P240Z Passenger Seat!
 date: '2007-06-30T22:42:00+00:00'
 permalink: p240z-passenger-seat
 image: 
-categories:  [ 240z, Datsun, Seat ]
+categories: [ 240z, datsun, seat ]
 ---
 Well, after figuring out that the seat mounts I had made earlier in the week wouldn't fit I went back out to work on the 240Z this morning with a bitter taste in my mouth.
 

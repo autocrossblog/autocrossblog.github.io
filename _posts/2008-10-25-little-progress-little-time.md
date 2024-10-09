@@ -5,7 +5,7 @@ date: '2008-10-25T19:24:26+00:00'
 last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: little-progress-little-time
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 So my weekend of working on the 240Z started off quite slowly today. I ended up sleeping until almost noon this morning, it was nice to catch up on some much lost rest from the travelling the past few months.

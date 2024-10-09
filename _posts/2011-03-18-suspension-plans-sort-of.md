@@ -4,7 +4,7 @@ title: Suspension plans, sort of
 date: '2011-03-18T00:40:55+00:00'
 permalink: suspension-plans-sort-of
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 So I wasn't able to find a part that would make the SPL Upper Control Arms legal for BSP yet, though I am still looking.
 

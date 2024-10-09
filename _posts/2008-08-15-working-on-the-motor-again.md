@@ -5,7 +5,7 @@ date: '2008-08-15T00:41:05+00:00'
 last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: working-on-the-motor-again
 image: 
-categories:  [ 240z, Datsun, Video ]
+categories: [ 240z, datsun, video ]
 
 ---
 Tonight I spent some good time working on the motor for the 240Z again. Here's the YouTube video!

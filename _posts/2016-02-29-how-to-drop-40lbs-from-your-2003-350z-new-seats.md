@@ -5,7 +5,7 @@ date: '2016-02-29T23:14:25+00:00'
 last_modified_at: '2024-04-29T16:05:24+23:00'
 permalink: how-to-drop-40lbs-from-your-2003-350z-new-seats
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 This weekend I spent some quality time finally working on the 350z before the upcoming autocross season (Dixie Champ Tour is coming up quickly).
 

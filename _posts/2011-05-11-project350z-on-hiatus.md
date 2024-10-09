@@ -5,7 +5,7 @@ date: '2011-05-11T00:51:44+00:00'
 last_modified_at: '2024-05-07T23:21:05+00:00'
 permalink: project350z-on-hiatus
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 So things have slowed down for the Project350z, at least for a month or two. After running quite a few events in February, March and April, I haven't run an event since the El Toro ProSolo on 4/10.
 

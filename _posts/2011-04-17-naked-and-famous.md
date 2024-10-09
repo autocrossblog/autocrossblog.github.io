@@ -5,7 +5,7 @@ date: '2011-04-17T23:52:43+00:00'
 last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: naked-and-famous
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 So the car is naked, well about as naked as it can be.
 

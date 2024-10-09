@@ -6,7 +6,7 @@ last_modified_at: '2024-04-25T21:05:21+00:00'
 description: "Tonight was a semi productive night on the 240Z, which is always a good thing when some productivity happens during the week"
 permalink: p240z-fabricating-a-seat-bracket
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Tonight was a semi productive night on the 240Z, which is always a good thing when some productivity happens during the week, it's hard enough being productive on the weekends. More on tonight in a bit. Summit Racing kindly sent me all of the fuel part oddities I had ordered last week. I had a 12x12 box sitting at the office when I returned from lunch today. I was dissapointed to find such a small box, after spending so much money! But I guess I did order "small" parts.

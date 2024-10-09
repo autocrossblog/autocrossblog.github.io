@@ -6,7 +6,7 @@ date: '2007-07-27T09:53:11+00:00'
 last_modified_at: '2024-04-26T08:05:03+03:00'
 permalink: wednesday-night-progress
 image: 
-categories:  [ 240z, Datsun, Fuel ]
+categories: [ 240z, datsun, fuel ]
 redirect_from: 
     - /finding-the-leaks
 ---

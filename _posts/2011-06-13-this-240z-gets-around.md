@@ -5,7 +5,7 @@ date: '2011-06-13T17:20:26+00:00'
 last_modified_at: '2024-05-07T23:21:05+00:00'
 permalink: this-240z-gets-around
 image: 
-categories:
+categories: [ 240z, datsun ]
 ---
 Apparently that's the word on the 240z. I sold it in January 2010 (or somewhere close to there) and since then it has apparently changed owners twice (possibly more).
 

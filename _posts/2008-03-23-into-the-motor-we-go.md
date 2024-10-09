@@ -5,7 +5,7 @@ date: '2008-03-23T03:40:45+00:00'
 last_modified_at: '2024-04-26T08:05:24+23:00'
 permalink: into-the-motor-we-go
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 So my parents are in town for a few days. Dad and I spent some time working on the motor for the 240Z today. I'll try to take some pictures tomorrow.

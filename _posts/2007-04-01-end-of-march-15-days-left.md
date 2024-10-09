@@ -4,7 +4,7 @@ title: End of March, 15 days left
 date: '2007-04-01T08:50:08+00:00'
 permalink: end-of-march-15-days-left
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

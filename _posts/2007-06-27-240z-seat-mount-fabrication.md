@@ -6,7 +6,7 @@ last_modified_at: '2024-04-25T21:05:21+00:00'
 description: "Video with my fabricating a seat mount"
 permalink: 240z-seat-mount-fabrication
 image: 
-categories:  [ 240z, Datsun, Seat, Welding, Tools ]
+categories: [ 240z, datsun, seat, welding, tools ]
 
 ---
 

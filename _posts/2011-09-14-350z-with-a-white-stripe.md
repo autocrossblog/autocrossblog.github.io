@@ -5,7 +5,7 @@ date: '2011-09-14T01:10:33+00:00'
 last_modified_at: '2024-04-28T20:34:44+00:00'
 permalink: 350z-with-a-white-stripe
 image: 2024/April/350zWhiteStripe/350zWhiteStripe-1.jpg
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 
 ## Updated 4/28/2024:

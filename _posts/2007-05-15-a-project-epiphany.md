@@ -5,7 +5,7 @@ date: '2007-05-15T16:23:46+00:00'
 last_modified_at: '2024-04-21T11:07:00+00:00'
 permalink: a-project-epiphany
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Last night I spent a few hours sitting in the car. I had decided over the weekend I needed to take out all of the interior, or at least most of it, and clean up the inside of the car. I can always get the outside painted later, but the inside, if I'm going to be in it, needs to be cleaned up, and painted. It's orange, or red, I can't tell which, and though most of the interior items cover the orange there are gaps that show through.

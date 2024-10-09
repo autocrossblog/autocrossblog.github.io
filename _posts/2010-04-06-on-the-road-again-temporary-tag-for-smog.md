@@ -5,7 +5,7 @@ date: '2010-04-06T09:32:07+00:00'
 last_modified_at: '2024-04-30T12:08:13+23:00'
 permalink: on-the-road-again-temporary-tag-for-smog
 image:
-categories: [ 350z, Nissan, Setup, California ]
+categories: [ 350z, nissan, setup, california ]
 ---
 So this weekend while my beautiful wife was in town (haven't seen her for three weeks!) I rented a car for the weekend? Why? Well, to be honest, the 350z wasn't legal to be driving around on the roads of California! The temporary tags expired on the 1st, and I had planned to hit the DMV up on the 2nd, only to figure out that California had state employees on furlough so the DMV is closed the first three Fridays in April. Welcome to California!
 

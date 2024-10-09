@@ -5,7 +5,7 @@ date: '2024-04-22T10:00:15+00:00'
 permalink: st-louis-autocross-event-2-2024
 description: Event summary from the 2nd (but really first) event of the 2024 St. Louis Region SCCA Season
 image: 2024/April/StLouis/Event2-1.jpg
-categories: [ Autocross, SCCA, Mustang, Friends, St. Louis, Local ]
+categories: [ autocross, scca, mustang, friends, st.louis, local ]
 featured: false
 comments: true
 ---

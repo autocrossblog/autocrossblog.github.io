@@ -6,7 +6,7 @@ date: '2007-07-29T00:51:21+00:00'
 last_modified_at: '2024-04-26T08:05:43+23:00'
 permalink: the-motor-runs
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 redirect_from:
     - /the-car-runs
 

@@ -4,7 +4,7 @@ title: Fuel Cell time
 date: '2007-04-07T08:43:17+00:00'
 permalink: fuel-cell-time
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

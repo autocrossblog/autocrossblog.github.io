@@ -5,7 +5,7 @@ date: '2009-11-28T02:17:21+00:00'
 last_modified_at: '2024-05-07T23:31:05+00:00'
 permalink: 2011-autocross-schedule
 image:
-categories: [ Schedule, 350z ]
+categories: [ schedule, 350z ]
 ---
 **Tentative Schedule**
 

@@ -4,7 +4,7 @@ title: The suspension is here! Now to fix it
 date: '2011-03-10T02:18:56+00:00'
 permalink: the-suspension-is-here-now-to-fix-it
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 My birthday gift (early) from my wife showed up today (I have the best wife ever!), a new suspension (well new to me) for the 350z. There's only one problem (and not her fault, as I ordered it) the control arms that came aren't legal for the class the car is being built for.
 

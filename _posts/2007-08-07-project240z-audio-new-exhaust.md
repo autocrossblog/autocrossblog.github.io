@@ -5,7 +5,7 @@ date: '2007-08-07T06:51:57+00:00'
 last_modified_at: '2024-04-29T15:05:24+23:00'
 permalink: project240z-audio-new-exhaust
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Tonight I told myself I wouldn't start the car, I would get ready for my trip to Chicago tomorrow (going up there to give two days of DotNetNuke training classes).

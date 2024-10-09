@@ -5,7 +5,7 @@ date: '2009-08-18T00:56:52+00:00'
 last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: out-goes-the-dash
 image: 240z/sansdash.jpg
-categories:  [ 240z, Datsun, Interior ]
+categories: [ 240z, datsun, interior ]
 
 ---
 So tonight after work I got the 240Z off the trailer, both of which had been parked in the Garage since we moved to Colorado a few weeks ago. I had lined up a storage lot for the trailer and wanted to get it out of the garage. Well the 240Z wasn't easy to start, took a good 5+ minutes of attempts before it finally started up. Later in the day I realized the MAP hose wasn't hooked up to the Megasquirt, that would explain the difficulty in starting! whoops.

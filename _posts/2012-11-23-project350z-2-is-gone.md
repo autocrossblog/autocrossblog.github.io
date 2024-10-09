@@ -4,7 +4,7 @@ title: 'Project350z #2 is gone'
 date: '2012-11-23T22:46:22+00:00'
 permalink: project350z-2-is-gone
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 Well, the car was in my hands for almost three years (2 months shy), that is longer than I've owned any car since the first Project350z left my hands in September 2006.
 

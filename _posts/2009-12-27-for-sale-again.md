@@ -6,7 +6,7 @@ date: '2009-12-27T01:10:09+00:00'
 last_modified_at: '2024-08-16T11:31:05+00:00'
 permalink: for-sale-again
 image: 
-categories: [ 240z, For Sale, Datsun ]
+categories: [ 240z, forsale, datsun ]
 ---
 For any of you who follow the website regularly you'll notice that I haven't "put" the car and website up for a sale in a while. Well, it's your lucky day.
 

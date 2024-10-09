@@ -5,7 +5,7 @@ date: '2011-03-02T23:05:49+00:00'
 last_modified_at: '2024-05-07T23:55:25+23:00'
 permalink: 350z-traction-control-and-square-tires
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 So I experienced something while driving the 350z yesterday that I haven't experienced in quite a while. Typically the 350z comes with a staggered tire setup, meaning that the front tires are usually a smaller size than the rears. A week or two ago I got some new street tires put on the car, the new tires are â€œsquare" meaning the fronts are the same size as the rear.
 

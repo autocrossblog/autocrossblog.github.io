@@ -5,7 +5,7 @@ date: '2011-06-30T02:16:05+00:00'
 last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: autocrossing-this-sunday-in-marina-ca
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 Alright, it's time to get back into the swing of things. The 2011 TireRack SCCA Solo Nationals are in two months, I need to try to get as much seat time as I can between now and then!
 

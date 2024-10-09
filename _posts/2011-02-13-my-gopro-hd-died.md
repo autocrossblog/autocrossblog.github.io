@@ -6,7 +6,7 @@ date: '2011-02-13T01:16:19+00:00'
 last_modified_at: '2024-04-25T16:21:15+00:00'
 permalink: my-gopro-hd-died
 image:
-categories: [ 350z, Nissan, Setup, Video, GoPro ]
+categories: [ 350z, nissan, setup, video, gopro ]
 ---
 So I ran into a few issues today with my GoPro HD. I was working on the car, and was going to do another time lapse, even picked up a second battery last night so that I was sure I would get as much as possible.
 

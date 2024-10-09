@@ -6,7 +6,7 @@ permalink: 20-years-ago-today
 description: The day I got the car
 keywords: 350z, 20 years, 
 image: April2003/April2003-1.jpg
-categories:
+categories: [ 350z ]
 featured: false
 ---
 20 Years.

@@ -6,7 +6,7 @@ date: '2019-08-28T03:26:48+00:00'
 last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: 2019-specfrscom-season-up-to-nationals
 image: 
-categories: [ Autocross, FR-S, SSC, Setup, specfrs ]
+categories: [ autocross, fr-s, ssc, setup, specfrs ]
 ---
 [![Instagram Post](https://www.instagram.com/p/BwS-GexFfU8/)](https://www.instagram.com/p/BwS-GexFfU8/ "View this post on Instagram")
 

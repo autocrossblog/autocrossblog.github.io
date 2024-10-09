@@ -4,7 +4,7 @@ title: Weighing the 350z at the Divisional
 date: '2011-02-21T00:09:56+00:00'
 permalink: weighing-the-350z-at-the-divisional
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 So there's been much debate (or really just many people telling me I am crazy) over on SCCAForums in the thread I started to discuss the proposed move of the 350z from BSP to ESP in SCCA Autocross classing.
 

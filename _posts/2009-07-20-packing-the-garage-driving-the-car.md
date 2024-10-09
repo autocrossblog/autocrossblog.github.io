@@ -5,7 +5,7 @@ date: '2009-07-20T01:20:10+00:00'
 last_modified_at: '2024-04-30T11:05:28+23:00'
 permalink: packing-the-garage-driving-the-car
 image: 
-categories:  [ 240z, Datsun, Video ]
+categories: [ 240z, datsun, video ]
 
 ---
 So today was spent packing the garage. While getting things packed up made it a productive day, the real joy was with the car. I drove it today!!!!!!!!!!!!!!!!!!!!!! It has been over 23 months since the car last moved under it's own power, so getting it out of the driveway (harder than it sounds) and driving it around the circle made for a great day.

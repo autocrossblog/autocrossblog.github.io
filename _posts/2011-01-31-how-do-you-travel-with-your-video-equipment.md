@@ -6,7 +6,7 @@ date: '2011-01-31T19:42:27+00:00'
 last_modified_at: '2024-04-25T16:21:00+00:00'
 permalink: how-do-you-travel-with-your-video-equipment
 image:
-categories: [ 350z, Nissan, Setup, Photos, Photography, Camera, GoPro ]
+categories: [ 350z, nissan, setup, photos, photography, camera, gopro ]
 ---
 So this isn't the blog post I had intended to write today, but I think it's a useful one nonetheless.
 

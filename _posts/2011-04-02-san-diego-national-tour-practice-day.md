@@ -6,7 +6,7 @@ date: '2011-04-02T00:49:20+00:00'
 last_modified_at: '2024-05-07T23:21:05+00:00'
 permalink: san-diego-national-tour-practice-day
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 Today was a practice day at the San Diego National Tour. This morning I took part in the Evolution School advantage program, basically you get a ton of seat time in the morning before the practice course opens up for the rest of the entrants for the National Tour. My r-comps were on a truck on the way to the tour, so I ran my street tires for the morning session. I also had the car set at full soft (bump/rebound), most definitely not the configuration needed, and my evo instructor Brian let me know.
 

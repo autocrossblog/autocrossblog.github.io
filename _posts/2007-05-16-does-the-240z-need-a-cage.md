@@ -6,7 +6,7 @@ last_modified_at: '2024-04-25T21:05:10+00:00'
 description: A blog post questioning if the 1973 Datsun 240z needs a roll cage
 permalink: does-the-240z-need-a-cage
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Since I've decided to change classes, and not bother with most of the interior items, should I go ahead and put a cage in the car? I'll be going to XP, which I don't believe requires a cage, but I'd also like to do some time trials/hpde in the car.

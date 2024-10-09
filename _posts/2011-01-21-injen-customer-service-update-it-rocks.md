@@ -5,7 +5,7 @@ date: '2011-01-21T00:40:31+00:00'
 last_modified_at: '2024-04-30T11:05:25+23:00'
 permalink: injen-customer-service-update-it-rocks
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 
 [So a while back now I complained](/unable-to-get-any-customer-service-from-injen-systems) that I wasn't able to get any customer service from Injen Systems on the Super SES exhaust that was on my 350z when I purchased it.

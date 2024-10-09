@@ -4,7 +4,7 @@ title: Project 240Z Rally Bug Welder Arrives
 date: '2007-05-01T00:00:00+00:00'
 permalink: project-240z-rally-bug-welder-arrives
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

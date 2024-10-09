@@ -5,7 +5,7 @@ date: '2008-09-30T23:47:03+00:00'
 last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: fall-2008-it-begins-again
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 So it's been a while since I've made any real progress on the 240Z, but come the end of October I hope my weekends will finally slow down enough that I can start working on the car again with the intention of getting it running before Christmas!

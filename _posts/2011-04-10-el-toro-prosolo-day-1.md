@@ -4,7 +4,7 @@ title: El Toro ProSolo Day 1
 date: '2011-04-10T01:01:13+00:00'
 permalink: el-toro-prosolo-day-1
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 I just don't have the energy to do a full writeup for the ProSolo today, and to be honest, it won't happen Sunday, and likely not Monday either <img style="border-bottom-style: none; border-right-style: none; border-top-style: none; border-left-style: none" class="wlEmoticon wlEmoticon-openmouthedsmile" alt="Open-mouthed smile" src="/assets/images/PublishThumbnails/Windows-Live-Writer/086ec53de232_13331/wlEmoticon-openmouthedsmile_2.png" />
 

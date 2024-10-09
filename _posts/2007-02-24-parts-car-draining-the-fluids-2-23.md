@@ -4,7 +4,7 @@ title: Parts Car draining the fluids 2-23
 date: '2007-02-24T00:00:00+00:00'
 permalink: parts-car-draining-the-fluids-2-23
 image: 
-categories: [ 240z, Datsun, 280z ]
+categories: [ 240z, datsun, 280z ]
 ---
 In prepping the parts car for engine and transmission removal I needed to drain fluids!
 

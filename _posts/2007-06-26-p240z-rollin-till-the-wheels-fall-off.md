@@ -6,7 +6,7 @@ date: '2007-06-26T10:39:06+00:00'
 last_modified_at: '2024-08-16T12:05:33+23:00'
 permalink: p240z-rollin-till-the-wheels-fall-off
 image: 
-categories:  [ 240z, Datsun, Friends ]
+categories: [ 240z, datsun, friends ]
 redirect_from:
     - p240z-rollin-until-the-wheels-fall-off
 

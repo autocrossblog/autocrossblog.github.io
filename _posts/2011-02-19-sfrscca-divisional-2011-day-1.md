@@ -4,7 +4,7 @@ title: SFRSCCA Divisional 2011 Day 1
 date: '2011-02-19T21:42:29+00:00'
 permalink: sfrscca-divisional-2011-day-1
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 
 How was today?

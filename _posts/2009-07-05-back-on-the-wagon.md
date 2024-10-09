@@ -5,7 +5,7 @@ date: '2009-07-05T23:52:31+00:00'
 last_modified_at: '2024-05-07T23:55:25+23:00'
 permalink: back-on-the-wagon
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 ---
 So I finally got some more time on the Datsun over the past few days. Friday I went down to my boss' house and used his bead blaster to clean up some of the suspension pieces (photos of those later this week).
 

@@ -6,7 +6,7 @@ last_modified_at: '2024-05-29T13:05:19+00:00'
 description: "So I seriously think I have spent more money on tools than I have spent on the car or parts for the car!"
 permalink: what-s-more-expensive
 image: 
-categories:  [ 240z, Datsun, Tools ]
+categories: [ 240z, datsun, tools ]
 redirect_from:
     - what%27s-more-expensive
 

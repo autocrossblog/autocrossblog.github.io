@@ -4,7 +4,7 @@ title: Our first California Autocross, with video and photos
 date: '2010-09-27T01:48:39+00:00'
 permalink: our-first-california-autocross-with-video-and-photos
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 So today was the first time I've ever autocrossed in California, and the first time the car has seen an event since our runs at the Colorado event in January. I left San Carlos early in the morning and headed off to pick up <a href="https://www.willstrohl.com" >Will Strohl</a>. We headed down to Marina California for the Northern California United Five-Ten Owners Club 
 

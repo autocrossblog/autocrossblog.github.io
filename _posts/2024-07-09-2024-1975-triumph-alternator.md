@@ -6,7 +6,7 @@ permalink: triumph-tr6-alternator-replacement
 description: "A little documentation on some of the struggles I had with the alternator in my Dad's 1975 TR6"
 keywords: "triumph, tr6, alternator, british, sports car, 13107N"
 image: 2024/July/TR6Alternator/TR6Alternator-1.jpg
-categories: [ Triumph, TR6 ]
+categories: [ triumph, tr6 ]
 featured: true
 comments: true
 # last_modified_at: '2024-07-08T16:50:08+00:00'

@@ -5,7 +5,7 @@ date: '2007-10-12T15:43:38+00:00'
 description: "Photo of the piston that blew up in the motor"
 permalink: missing-piston-alert
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Can you spot the problem in this photo?

@@ -4,7 +4,7 @@ title: Time to start
 date: '2007-11-28T10:27:12+00:00'
 permalink: time-to-start
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

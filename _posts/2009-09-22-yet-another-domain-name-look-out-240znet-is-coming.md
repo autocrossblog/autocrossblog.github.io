@@ -5,7 +5,7 @@ date: '2009-09-22T23:14:50+00:00'
 last_modified_at: '2024-05-07T23:55:25+23:00'
 permalink: yet-another-domain-name-look-out-240znet-is-coming
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 So for a month or so I've been waiting for <a href="https://www.240z.net">www.240z.net</a> to go through the expiration process as the previous owner decided to let it expire. Well today it finally came through and guess who got it! 

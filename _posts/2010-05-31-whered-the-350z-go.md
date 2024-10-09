@@ -5,7 +5,7 @@ date: '2010-05-31T02:07:15+00:00'
 last_modified_at: '2024-04-30T12:10:13+23:00'
 permalink: whered-the-350z-go
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 So it's been a while since I've done any updates here on Project350z.com, so here's a quick update.
 

@@ -6,7 +6,7 @@ date: '2007-07-16T09:14:37+00:00'
 last_modified_at: '2024-05-29T13:05:24+23:00'
 permalink: all-in-a-day-s-paint
 image: 
-categories:  [ 240z, Datsun, MegaSquirt ]
+categories: [ 240z, datsun, megasquirt ]
 redirect_from:
     - all-in-a-day&apos;s-paint
     - all-in-a-day%27s-paint

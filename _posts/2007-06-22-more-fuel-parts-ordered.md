@@ -4,7 +4,7 @@ title: More Fuel Parts Ordered
 date: '2007-06-22T22:18:43+00:00'
 permalink: more-fuel-parts-ordered
 image: 
-categories:  [ 240z, Datsun, Fuel ]
+categories: [ 240z, datsun, fuel ]
 
 ---
 I just placed another order with Summit Racing dot com today. I ordered the following, which I think will finish up what I need for the fuel system for the 240z.

@@ -5,7 +5,7 @@ date: '2008-03-31T03:38:03+00:00'
 last_modified_at: '2024-04-26T08:05:24+23:00'
 permalink: paint-and-assembly-working-on-the-new-motor
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 ## Last Week's Progress with Dad and Today's Motor Work

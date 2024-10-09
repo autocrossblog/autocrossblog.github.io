@@ -5,7 +5,7 @@ date: '2011-03-22T01:15:21+00:00'
 last_modified_at: '2024-04-30T12:21:05+00:00'
 permalink: oem-bushing-update
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 Today I went to a machine shop (twice as he wasn't open the first time) to try to have the bushings pressed out of the OEM upper control arms. Unfortunately the didn't think he was going to be able to press them out due to the way the oem bushings are shaped.
 

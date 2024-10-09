@@ -5,7 +5,7 @@ date: '2011-07-02T19:07:16+00:00'
 last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: the-missing-helmet-natalie-found-it
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 Over a year ago I realized that my Bell Helmet was missing. Somewhere on the move from Colorado to California it went off into its own world.
 

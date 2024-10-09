@@ -4,7 +4,7 @@ title: Site Redesign
 date: '2009-02-28T01:12:22+00:00'
 permalink: site-redesign
 image: 
-categories:  [ 240z, Datsun, Site ]
+categories: [ 240z, datsun, site ]
 
 ---
 So I should have been working on the book tonight, and I did get some done, but I took the evening to finally reskin www.project240z.com.

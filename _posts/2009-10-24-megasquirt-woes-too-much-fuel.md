@@ -5,7 +5,7 @@ date: '2009-10-24T19:15:52+00:00'
 last_modified_at: '2024-05-07T23:55:25+23:00'
 permalink: megasquirt-woes-too-much-fuel
 image: 
-categories: [ MegaSquirt, 240z, Datsun ]
+categories: [ megasquirt, 240z, datsun ]
 ---
 So I will start this post off staying this: I know nothing, I am a noob when it comes to the megasquirt, and tuning a fuel injection car (or a carb'd car for that matter). 
 

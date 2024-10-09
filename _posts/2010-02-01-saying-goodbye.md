@@ -5,7 +5,7 @@ date: '2010-02-01T00:02:26+00:00'
 last_modified_at: '2024-05-07T23:31:05+00:00'
 permalink: saying-goodbye
 image: 
-categories: [ Friends, 240z, Datsun, Colorado, California ]
+categories: [ friends, 240z, datsun, colorado, california ]
 ---
 (Idea blatantly stolen from [James Nelson's Saying Goodbye post](https://mywifeisfaster.blogspot.com/2010/01/saying-goodbye.html))
 

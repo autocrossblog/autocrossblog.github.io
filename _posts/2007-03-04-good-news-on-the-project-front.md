@@ -4,7 +4,7 @@ title: Good news on the Project front!
 date: '2007-03-04T08:16:23+00:00'
 permalink: good-news-on-the-project-front
 image: 
-categories: [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 ---
 Today I spent a short time working on the parts car, working on removing the interior. [You can check out the video here](/parts-car-interior-removal-day-1). Notice the flannel pants, and sweatshirt. I really didn't want to do any work today, but I forced myself to at least do a little.
 After doing that little work I started trying to figure out how I can get rid of the parts car. I drove over to Hall Street, and found no one over there to take it. So I headed to Illinois and Speedway said they would take it. So next weekend it's making a trip to Illinois for it's final resting place.

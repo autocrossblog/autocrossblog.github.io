@@ -5,7 +5,7 @@ date: '2011-07-04T02:56:30+00:00'
 last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: back-in-the-saddle-again
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 This morning I took off from our house around 6:10am and headed south on Highway 1. I was on the road to Marina, CA. The trip was nice and uneventful, traffic was great, but I'm sure that had to do with the fact that it was so early on a Sunday morning of a three day weekend.
 

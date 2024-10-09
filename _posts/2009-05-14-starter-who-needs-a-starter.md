@@ -5,7 +5,7 @@ date: '2009-05-14T01:21:01+00:00'
 last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: starter-who-needs-a-starter
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

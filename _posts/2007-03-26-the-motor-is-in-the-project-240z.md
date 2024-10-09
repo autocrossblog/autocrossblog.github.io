@@ -4,7 +4,7 @@ title: The motor is in the Project 240z!
 date: '2007-03-26T10:26:27+00:00'
 permalink: the-motor-is-in-the-project-240z
 image: 
-categories:  [ 240z, Datsun, MegaSquirt ]
+categories: [ 240z, datsun, megasquirt ]
 
 ---
 Look out Jeffs, the motor is in the Project 240z! Dad and I spent all day today working on the car, and I even swung by one of Jeef's old employer's to pickup some parts today as well.

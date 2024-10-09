@@ -4,7 +4,7 @@ title: A day late, dollar short? LS1?
 date: '2007-08-29T18:51:02+00:00'
 permalink: a-day-late-dollar-short-ls1
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Well, I was excited when I got up this morning. I thought i was going to go look at a LS1 motor for the 240z... But as of a few minutes ago I think the motor won't be there when I go to look at lunch today.

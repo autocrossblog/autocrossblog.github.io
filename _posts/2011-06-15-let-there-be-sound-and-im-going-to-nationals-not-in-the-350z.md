@@ -5,7 +5,7 @@ date: '2011-06-15T00:58:01+00:00'
 last_modified_at: '2024-08-16T11:05:43+00:00'
 permalink: let-there-be-sound-and-im-going-to-nationals-not-in-the-350z
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 So I finally had it with listening to my Motorola Droid (Google Music and Pandora) for my commute. Why don't I have a stereo? Well back in February I ripped it all out. Not exactly the best choice, but hey, I was in the heat of the moment thinking I was prepping the car for a fully competitive 2011 season. That has changed, (more on that later).
 

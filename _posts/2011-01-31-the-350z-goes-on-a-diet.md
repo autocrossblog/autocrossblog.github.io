@@ -6,7 +6,7 @@ date: '2011-01-31T00:49:00+00:00'
 last_modified_at: '2024-04-25T16:21:05+00:00'
 permalink: the-350z-goes-on-a-diet
 image:
-categories: [ 350z, Nissan, Setup, Weight ]
+categories: [ 350z, nissan, setup, weight ]
 ---
 On Saturday the 350z went on a diet, losing (rough guess here) about 3% of it's total weight.
 

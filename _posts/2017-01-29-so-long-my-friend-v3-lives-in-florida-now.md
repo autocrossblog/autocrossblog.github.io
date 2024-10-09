@@ -5,7 +5,7 @@ date: '2017-01-29T15:37:08+00:00'
 last_modified_at: '2024-04-29T21:05:43+00:00'
 permalink: so-long-my-friend-v3-lives-in-florida-now
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 Haven't kept the site up to date, but the 350z has shipped off to Florida to the new owner who has already ordered a bunch of parts to finish up the STU prep!
 

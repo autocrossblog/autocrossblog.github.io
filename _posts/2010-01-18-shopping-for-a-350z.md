@@ -4,7 +4,7 @@ title: Shopping for a 350z
 date: '2010-01-18T01:26:31+00:00'
 permalink: shopping-for-a-350z
 image:
-categories: [350z]
+categories: [ 350z ]
 ---
 So the 2010 Autocross season is starting up soon, and here in Colorado the winter series is running strong. I had a little incident with the #projectquattro a few weeks ago, which also has spurred along the motivation to get a 350z.
 

@@ -5,7 +5,7 @@ date: '2009-05-04T00:15:41+00:00'
 last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: updates-from-the-weekend
 image: 
-categories:  [ 240z, Datsun, MegaSquirt, Engine, Friends ]
+categories: [ 240z, datsun, megasquirt, engine, friends ]
 
 ---
 So I spoke with my Megasquirt Guru last week a few times, and again this weekend, and even had him show up in my driveway to help wrench on the car today! 

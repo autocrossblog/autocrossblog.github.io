@@ -6,7 +6,7 @@ permalink: 2024-national-championship-photos
 description: "Special photo package available for the 2024 Solo National Championships"
 keywords: "scca, lincoln, national championships, solo nationals"
 image: 2024/August/SoloNats-1.jpg
-categories: [ scca, solo nationals, lincoln ]
+categories: [ scca, solonationals, lincoln ]
 featured: true
 comments: true
 # last_modified_at: '2024-07-08T16:50:08+00:00'

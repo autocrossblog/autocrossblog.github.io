@@ -4,7 +4,7 @@ title: February 17th, Garage Cleanup/Organization
 date: '2007-02-18T11:00:00+00:00'
 permalink: february-17th-garage-cleanup-organization
 image: 
-categories: [ 240z, 280z, Datsun ]
+categories: [ 240z, 280z, datsun ]
 ---
 I spent a few hours on the 17th getting the garage cleaned up so that I can begin pulling the motor out of the parts car. I hope to begin that process today. Checkout yesterday's video, though I warn you, it isn't all that exciting!
 

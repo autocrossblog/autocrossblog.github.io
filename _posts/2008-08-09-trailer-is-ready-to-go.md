@@ -4,7 +4,7 @@ title: Trailer is ready to go
 date: '2008-08-09T06:24:26+00:00'
 permalink: trailer-is-ready-to-go
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

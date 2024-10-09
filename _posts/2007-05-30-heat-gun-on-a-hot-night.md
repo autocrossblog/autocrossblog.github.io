@@ -6,7 +6,7 @@ last_modified_at: '2024-04-25T21:05:13+00:00'
 description: A blog post about a Heat Gun on a Hot Night... and inline skating.
 permalink: heat-gun-on-a-hot-night
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

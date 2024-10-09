@@ -4,7 +4,7 @@ title: New Garage Organization 2-17
 date: '2007-02-18T00:00:00+00:00'
 permalink: new-garage-organization-2-17
 image: 
-categories: [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 ---
 Video of me working organizing the new garage. 
 

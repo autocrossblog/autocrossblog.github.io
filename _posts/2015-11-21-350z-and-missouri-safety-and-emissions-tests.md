@@ -5,7 +5,7 @@ date: '2015-11-21T00:06:29+00:00'
 last_modified_at: '2024-04-29T21:05:43+00:00'
 permalink: 350z-and-missouri-safety-and-emissions-tests
 image: PublishThumbnails/Windows-Live-Writer/dfc33fa77b34_14347/image_thumb.png
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 The car failed Missouri safety and emissions testing today. When I pulled out of the driveway this morning something happened up front, on the brakes, one of the wheels locked up, "SLIP" and "VDC" lights came on and wouldn't shut off. Restarted the car, got out, checked for anything noticeable and drove down the road to the gas station. At the station I decided to plug the OBDII scanner in and sure enough, it was throwing an ABS code.
 

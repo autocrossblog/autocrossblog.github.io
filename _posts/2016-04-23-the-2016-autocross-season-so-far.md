@@ -5,7 +5,7 @@ date: '2016-04-23T00:21:33+00:00'
 last_modified_at: '2024-04-29T21:05:43+00:00'
 permalink: the-2016-autocross-season-so-far
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 So it has been a while since I've had the time to get a blog post up here, so let's get started.
 

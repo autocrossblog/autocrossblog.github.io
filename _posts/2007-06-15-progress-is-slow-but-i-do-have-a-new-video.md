@@ -4,7 +4,7 @@ title: Progress is slow, but I do have a new video!
 date: '2007-06-15T09:47:38+00:00'
 permalink: progress-is-slow-but-i-do-have-a-new-video
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 So I spent some time tonight working on trying to remove the intake manifold from the car. Long story short, I didn't get very far and I'm going to pull the motor back out of the car on Saturday. Getting parts removed off the motor is a huge pain in the rear with it in the car, so I'm just going to disconnect the driveshaft, motor mount and transmission mount and pull the thing back out for now.

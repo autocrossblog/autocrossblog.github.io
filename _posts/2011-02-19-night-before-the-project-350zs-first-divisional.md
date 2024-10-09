@@ -5,7 +5,7 @@ description: "So today was a busy day, I had a lot to catch up on at work, train
 date: '2011-02-19T00:52:11+00:00'
 permalink: night-before-the-project-350zs-first-divisional
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 
 So today was a busy day, I had a lot to catch up on at work, training to provide internally, and a final to take this afternoon. After that I ran home and grabbed the set of Falken Azenis RT-615s that were sitting in the garage and ran to Les Schwab ([the same place I bitched about a few weeks ago](/race-tire-mounting-in-the-san-francisco-bay-area-peninsula)) to get them mounted.

@@ -6,7 +6,7 @@ date: '2008-01-09T11:35:34+00:00'
 last_modified_at: '2024-05-29T13:01:19+00:00'
 permalink: say-it-isn-t-so-we-ve-found-the-piston
 image: 
-categories: [ 240z, Datsun, Motor, Pictures, Photos ]
+categories: [ 240z, datsun, motor, pictures, photos ]
 redirect_from:
     - say-it-isn't-so-we've-found-the-piston
     - say-it-isn%27t-so-we%27ve-found-the-piston

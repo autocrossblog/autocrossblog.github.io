@@ -5,7 +5,7 @@ date: '2009-05-27T00:42:38+00:00'
 last_modified_at: '2024-04-30T11:05:25+23:00'
 permalink: another-night-with-not-much-success
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 So tonight I came home from work and decided it was time to work on the Datsun a bit, after over a week of barely even looking at it when walking in and out of the garage to and fro. Terec came over and helped me out for a bit as well.

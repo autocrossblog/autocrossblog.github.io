@@ -4,7 +4,7 @@ title: SpecFRS at the 2018 ProSolo Finale
 date: '2019-01-31T04:02:09+00:00'
 permalink: specfrs-at-the-2018-prosolo-finale
 image: 
-categories: [ Autocross, Toyota, FR-S, SSC  ]
+categories: [ autocross, toyota, fr-s, ssc ]
 ---
 This post is coming 6 months (maybe more?) too late, but at least it is coming. The 2018 ProSolo Finale and Solo National Championships was a week of ups and downs for the team. The results were mixed across the board in terms of performance with some highlights and some down times as well.
 

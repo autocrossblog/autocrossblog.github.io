@@ -5,7 +5,7 @@ date: '2011-01-19T01:48:43+00:00'
 last_modified_at: '2024-04-30T11:05:25+23:00'
 permalink: decking-out-the-project350z-in-dotnetnuke
 image:
-categories: [ 350z, Nissan, Vinyl ]
+categories: [ 350z, nissan, vinyl ]
 ---
 
 I don't have an Autocross event coming up for a couple weeks, but I couldn't wait, I had to do something to the car.

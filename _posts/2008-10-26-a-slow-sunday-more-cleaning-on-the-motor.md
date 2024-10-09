@@ -5,7 +5,7 @@ date: '2008-10-26T20:44:15+00:00'
 last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: a-slow-sunday-more-cleaning-on-the-motor
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 So I woke up this morning, [earlier than yesterday](/little-progress-little-time), but still not as early as one would have liked. First things first I ran to Radio Shack to get an AC power source for my Chase Cam so that I could use it to record video today.

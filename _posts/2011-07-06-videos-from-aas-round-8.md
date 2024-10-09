@@ -5,7 +5,7 @@ date: '2011-07-06T00:49:51+00:00'
 last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: videos-from-aas-round-8
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 Here are the photos from the American Autocross Series Round 8 from 7/3/2011. The car is of course our 2004 Nissan 350z in half prep for B Street Prepared.
 

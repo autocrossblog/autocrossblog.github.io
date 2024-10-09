@@ -4,7 +4,7 @@ title: P240z Time to start again
 date: '2007-04-24T22:22:44+00:00'
 permalink: p240z-time-to-start-again
 image: 
-categories:  [ 240z, Datsun, MegaSquirt ]
+categories: [ 240z, datsun, megasquirt ]
 
 ---
 

@@ -5,7 +5,7 @@ date: '2007-05-09T09:41:34+00:00'
 last_modified_at: '2024-04-21T11:07:00+00:00'
 permalink: 240z-downpipe-arrived
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 Well today a key component of my project arrived, the downpipe for the Turbo showed up. At first I flipped out thinking it was the wrong downpipe.

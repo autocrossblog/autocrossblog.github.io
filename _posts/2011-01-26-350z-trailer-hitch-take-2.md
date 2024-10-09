@@ -5,7 +5,7 @@ date: '2011-01-26T01:09:16+00:00'
 last_modified_at: '2024-04-25T16:21:00+00:00'
 permalink: 350z-trailer-hitch-take-2
 image:
-categories: [ 350z, Nissan, Setup, Towing ]
+categories: [ 350z, nissan, setup, towing ]
 ---
 So for my 2003 350z I had a custom trailer hitch built by a friend in St. Louis. It was hefty, mounting with ubolts through the bottom of the bumper and then a bar running forward to the differential. It weighed quite a bit, but was somewhat easy to remove at autocross events if I was concerned about the weight. 
 

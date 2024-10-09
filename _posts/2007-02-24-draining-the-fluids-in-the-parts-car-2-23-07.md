@@ -4,7 +4,7 @@ title: Draining the fluids in the parts car, 2-23-07
 date: '2007-02-24T10:25:56+00:00'
 permalink: draining-the-fluids-in-the-parts-car-2-23-07
 image: 
-categories: [ 240z, 280z, Datsun ]
+categories: [ 240z, 280z, datsun ]
 ---
 I spent a bit of time this evening working on the 280Z.  [Here's the video!](/draining-the-fluids-in-the-parts-car-2-23-07)
 

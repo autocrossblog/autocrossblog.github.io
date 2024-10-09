@@ -4,7 +4,7 @@ title: Bondo cleanup and Gas tank removal
 date: '2007-04-02T09:33:22+00:00'
 permalink: bondo-cleanup-and-gas-tank-removal
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

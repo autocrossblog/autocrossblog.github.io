@@ -4,7 +4,7 @@ title: More interior scrubbing and grinding!
 date: '2007-07-10T09:14:41+00:00'
 permalink: more-interior-scrubbing-and-grinding
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 I spent some time this evening working on the interior of the car again. I went through one wire wheel and halfway through another on the passenger side of the car tonight.

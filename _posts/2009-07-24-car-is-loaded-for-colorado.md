@@ -5,7 +5,7 @@ date: '2009-07-24T02:10:37+00:00'
 last_modified_at: '2024-04-30T11:05:29+23:00'
 permalink: car-is-loaded-for-colorado
 image: 
-categories:  [ 240z, Datsun, Trailer ]
+categories: [ 240z, datsun, trailer ]
 
 ---
 

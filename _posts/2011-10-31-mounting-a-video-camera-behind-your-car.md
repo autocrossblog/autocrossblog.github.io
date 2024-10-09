@@ -4,7 +4,7 @@ title: Mounting a video camera behind your car
 date: '2011-10-31T00:46:54+00:00'
 permalink: mounting-a-video-camera-behind-your-car
 image: gopro-behind.jpg
-categories: [ 350z, Nissan, GoPro, Video, Camera ]
+categories: [ 350z, nissan, gopro, video, camera ]
 ---
 Today was the first event in the San Francisco Region's slush series. I decided to head out and try to dust some of the rust off, and last night decided to build a camera mount for the car. After seeing the GoPro HD Hero2 launch video, I decided it was time to try to start getting more interesting video.
 

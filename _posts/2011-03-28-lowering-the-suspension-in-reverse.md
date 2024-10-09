@@ -5,7 +5,7 @@ date: '2011-03-28T01:07:14+00:00'
 last_modified_at: '2024-05-07T23:21:05+00:00'
 permalink: lowering-the-suspension-in-reverse
 image:
-categories: [ 350z, Nissan, Setup, Suspension, Video ]
+categories: [ 350z, nissan, setup, suspension, video ]
 ---
 So today I went back at the suspension of the car.
 

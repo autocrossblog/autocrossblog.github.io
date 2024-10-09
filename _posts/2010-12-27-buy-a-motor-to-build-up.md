@@ -5,7 +5,7 @@ date: '2010-12-27T02:00:48+00:00'
 last_modified_at: '2024-05-07T23:55:25+23:00'
 permalink: buy-a-motor-to-build-up
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 So I am not sure where the 350z is ultimately headed. I think SSM in SCCA Autocross could be fun, though that will take some time and a lot of money to do.
 

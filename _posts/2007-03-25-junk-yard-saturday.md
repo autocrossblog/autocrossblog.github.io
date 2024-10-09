@@ -4,7 +4,7 @@ title: Junk Yard Saturday
 date: '2007-03-25T10:05:27+00:00'
 permalink: junk-yard-saturday
 image: 
-categories: [ 240z, Datsun, MegaSquirt ]
+categories: [ 240z, datsun, megasquirt ]
 ---
 Today, well yesterday now, it's 1am, Dad and I went to Speedway salvage over in Madison Illinois. 3-4 hours later we walked out of there with $120 worth of parts for the Project 240Z. I didn't realize you could spend that much on junk?
 

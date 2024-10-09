@@ -5,7 +5,7 @@ date: '2009-04-19T01:40:36+00:00'
 last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: final-prep-for-engine-installation
 image: 
-categories:  [ 240z, Datsun, Motor, Engine, Video ]
+categories: [ 240z, datsun, motor, engine, video ]
 
 ---
 So I had hoped to get the engine installed into the car today but got sidetracked trying to get a final few items finished up before doing so.

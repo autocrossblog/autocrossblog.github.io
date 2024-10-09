@@ -5,7 +5,7 @@ date: '2009-04-19T18:28:16+00:00'
 permalink: ahhhh-the-engine-is-in-place-again
 last_modified_at: '2024-04-30T11:05:24+23:00'
 image: 240z/engineinplace.jpg
-categories:  [ 240z, Datsun, Video, Engine, Motor ]
+categories: [ 240z, datsun, video, engine, motor ]
 ---
 A HUGE thanks to Terec for coming over today and helping me with the car. We spent a couple hours this morning and were able to get the engine and transmission into the car, it all worked out pretty well with the only hitch being that all the transmission fluid I put in, came back out :D
 

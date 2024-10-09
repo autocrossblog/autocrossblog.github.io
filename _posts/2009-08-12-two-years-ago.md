@@ -4,7 +4,7 @@ title: Two years ago
 date: '2009-08-12T23:00:10+00:00'
 permalink: two-years-ago
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 ---
 Two years ago today was the day that the Datsun toasted Motor #1 on it's first autocross run! Here's a shot of that first competition run.
 

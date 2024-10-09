@@ -5,7 +5,7 @@ description: "So Nick came over this morning and helped me get the motor off the
 date: '2008-03-10T08:53:36+00:00'
 permalink: taking-apart-the-new-motor
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 So Nick came over this morning and helped me get the motor off the ground and onto the engine stand so I could begin tearing it apart. After breaking a bolt off in the head trying to get one of the mounts setup for the cherry picker we managed to get the motor up and off the ground, though it took a couple of tries because we tried to get by with "the wrong" parts, meaning bolts in the chain that were too small for what we were doing.

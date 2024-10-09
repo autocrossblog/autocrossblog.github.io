@@ -4,7 +4,7 @@ title: Monday night update
 date: '2007-04-03T08:53:33+00:00'
 permalink: monday-night-update
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

@@ -5,7 +5,7 @@ date: '2024-03-30T15:00:15+00:00'
 permalink: red-hills-national-tour
 description: 
 image: 2024/March/Moultrie/RedHillsNationalTour-6.jpg
-categories: [ Autocross, National Tour, SCCA, Mustang, Friends ]
+categories: [ autocross, nationaltour, scca, mustang, friends ]
 featured: false
 comments: true
 ---

@@ -6,7 +6,7 @@ permalink: st-louis-race-gear
 description: Racing gear in St. Louis Missouri can be found at Solo Performance Specialties
 keywords: race, gear, st louis, saint, louis, saint louis, helmets, numbers, safety, suits, shoes, gloves, trophies, decals, graphics, autocross, solo, performance, specialties, SPS, Solo Performance Specialties
 image: SPS-1.jpg
-categories:
+categories: [ gear, supplies ]
 featured: false
 ---
 If you're looking for race gear in St. Louis Missouri, you should be looking at [Solo Performance Specialties](https://www.soloperformance.com/).

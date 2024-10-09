@@ -4,7 +4,7 @@ title: 2018 Blytheville ProSolo Results for SSC
 date: '2018-05-03T01:52:44+00:00'
 permalink: 2018-blytheville-prosolo-results-for-ssc
 image: 
-categories: [ Autocross, Toyota, Scion, FR-S, SSC, Setup, specfrs ]
+categories: [ autocross, toyota, scion, fr-s, ssc, setup, specfrs ]
 ---
 [![SSC Cars in Impound waiting for the Challenges](https://farm1.staticflickr.com/906/26990079767_9da6e5a1e9.jpg)](https://www.flickr.com/photos/chammond/26990079767/in/album-72157690612809440/)
 

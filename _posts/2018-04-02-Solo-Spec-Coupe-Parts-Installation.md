@@ -5,7 +5,7 @@ date: '2018-04-02T06:26:11+00:00'
 last_modified_at: '2024-04-26T11:11:43+00:00'
 permalink: solo-spec-coupe-parts-installation
 image: 
-categories: [ Autocross, Toyota, FR-S, SSC, Install, Setup, specfrs  ]
+categories: [ autocross, toyota, fr-s, ssc, install, setup, specfrs ]
 ---
 
 After a long couple of days working on the FR-S, interspersed with family events and other activities, I finally have the suspension components installed on the FR-S.

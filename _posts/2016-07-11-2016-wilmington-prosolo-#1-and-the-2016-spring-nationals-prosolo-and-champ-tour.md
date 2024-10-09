@@ -5,7 +5,7 @@ date: '2016-07-11T00:44:14+00:00'
 last_modified_at: '2024-04-30T10:05:43+00:00'
 permalink: 2016-wilmington-prosolo-1-and-the-2016-spring-nationals-prosolo-and-champ-tour
 image:
-categories: [ 350z, Nissan, ProSolo, Ohio, Peru, Indiana, Grissom ]
+categories: [ 350z, nissan, prosolo, ohio, peru, indiana, grissom ]
 redirect_from: 
     - "2016-wilmington-prosolo-"
 ---

@@ -4,7 +4,7 @@ title: 240Z, the Journey home
 date: '2007-03-12T05:11:11+00:00'
 permalink: 240z-the-journey-home
 image: 
-categories: [ 240z, Datsun, 280z ]
+categories: [ 240z, datsun, 280z ]
 ---
 So this morning I got up and finished up what I could get done on the project car, a 1978 280Z 2+2, courtesy of our very own Lynn Wilson, Thanks Lynn!!!
 

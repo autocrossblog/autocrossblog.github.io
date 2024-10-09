@@ -6,7 +6,7 @@ last_modified_at: '2024-04-25T21:05:21+00:00'
 description: "I spent another hour or so tonight working on the passenger seat mounts I hope to get some bolts tomorrow"
 permalink: p240z-passenger-seat-mount-nearly-done
 image: 
-categories:  [ 240z, Datsun, Seats ]
+categories: [ 240z, datsun, seats ]
 
 ---
 

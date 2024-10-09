@@ -4,7 +4,7 @@ title: Cleaning out the 350Z Parts
 date: '2007-03-02T09:39:04+00:00'
 permalink: cleaning-out-the-350z-parts
 image: 
-categories: [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 ---
 It was time to get rid of all the parts I still have taking up space in the garage from the 350z! They're all on ebay (were, ebay links no longer work). 
 

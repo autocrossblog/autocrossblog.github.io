@@ -5,7 +5,7 @@ date: '2011-12-28T00:36:14+00:00'
 last_modified_at: '2024-04-30T10:05:43+00:00'
 permalink: for-sale-4-18x10-38-enkei-rpf1-w-710s
 image:
-categories: [ 350z, Nissan, Wheels, For Sale, Parts ]
+categories: [ 350z, nissan, wheels, forsale, parts ]
 redirect_from:
     - for-sale-4-18x10%22-38-enkei-rpf1-w/-710s    
 ---

@@ -4,7 +4,7 @@ title: 2004 Nissan 350z Enthusiast model for sale, Half Moon Bay, CA (SOLD)
 date: '2012-11-02T14:24:16+00:00'
 permalink: 2004-nissan-350z-enthusiast-model-for-sale-half-moon-bay-ca-sold
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 (SOLD) The time is nearing for when the 350z must be sold, so if you are interested hit me up 2004 350z Enthusiast, &lt;75k miles, currently sits stock other than a K&amp;N CAI and a Plenum spacer, and a grounding kit (installed by previous owner).
 

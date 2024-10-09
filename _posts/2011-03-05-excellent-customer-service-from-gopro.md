@@ -4,7 +4,7 @@ title: Excellent customer service from GoPro
 date: '2011-03-05T23:02:50+00:00'
 permalink: excellent-customer-service-from-gopro
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 
 The night before an autocross, and I'm stoked for tomorrow, even if it rains (as forecasted). I got a replacement GoPro HD camera today in the mail.

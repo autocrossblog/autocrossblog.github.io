@@ -4,7 +4,7 @@ title: It's for sale again
 date: '2009-01-21T03:54:20+00:00'
 permalink: it's-for-sale-again
 image: 
-categories:  [ 240z, Datsun, MegaSquirt, For Sale ]
+categories: [ 240z, datsun, megasquirt, forsale ]
 
 ---
 So this time, I think, I am serious about selling the Datsun. With moving sometime in the next 5-6 months I need to start preparing for the move, and with my work/school/book schedule there is no way I will have time to work on the Datsun in the coming months.

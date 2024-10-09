@@ -6,7 +6,7 @@ date: '2011-02-13T23:58:50+00:00'
 last_modified_at: '2024-04-26T08:05:00+00:00'
 permalink: san-francisco-region-scca-boondoggle-2011-results
 image:
-categories: [ 350z, Nissan, Setup, Results ]
+categories: [ 350z, nissan, setup, results ]
 ---
 So today was the first day for a few things
 - It was my first time running an autocross with the San Francisco Region of the SCCA. I must say things went fairly well, even with of the normal first event hiccups.

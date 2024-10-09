@@ -5,7 +5,7 @@ date: '2007-07-28T10:10:17+00:00'
 last_modified_at: '2024-04-26T08:05:24+23:00'
 permalink: today-was-a-good-day
 image: 
-categories: [ 240z, Datsun, MegaSquirt ]
+categories: [ 240z, datsun, megasquirt ]
 ---
 This morning I woke up with a little hope in my eye, hope that I would make some good progress today.
 

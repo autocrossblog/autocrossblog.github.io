@@ -5,7 +5,7 @@ date: '2016-02-29T00:00:41+00:00'
 last_modified_at: '2024-04-29T16:05:24+23:00'
 permalink: 350z-setup-and-modifications-for-scca-autocross-stu-class
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 We'll try to keep this list updated with current modifications, and a list of past modifications as well as we build and compete our 350z in the SCCA STU autocross class.
 

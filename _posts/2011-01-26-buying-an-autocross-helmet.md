@@ -6,7 +6,7 @@ date: '2011-01-26T20:34:42+00:00'
 last_modified_at: '2024-04-25T16:21:00+00:00'
 permalink: buying-an-autocross-helmet
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 If you're looking to buy an [Autocross Helmet](https://soloperformance.com/collections/helmets-and-accessories) you should check out [SoloPerformance.com](https://www.soloperformance.com)
 

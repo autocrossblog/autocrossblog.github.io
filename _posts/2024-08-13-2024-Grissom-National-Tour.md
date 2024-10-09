@@ -6,7 +6,7 @@ permalink: 2024-grissom-national-tour
 description: "Event review from the 2024 Tire Rack SCCA Grissom Solo National Tour"
 keywords: "scca, national tour, indiana, grissom"
 image: 2024/August/CSM-1.jpg
-categories: [ scca, national tour, grissom, indiana ]
+categories: [ scca, nationaltour, grissom, indiana ]
 featured: true
 comments: true
 # last_modified_at: '2024-07-08T16:50:08+00:00'

@@ -5,7 +5,7 @@ date: '2011-03-25T02:10:52+00:00'
 last_modified_at: '2024-05-07T23:21:05+00:00'
 permalink: success-the-bushings-are-removed-from-the-upper-control-arms
 image:
-categories: [ 350z, Nissan, Setup, Suspension, Video ]
+categories: [ 350z, nissan, setup, suspension, video ]
 ---
 Well, it just goes to show you. Having the right tool for a job is the key to getting the job done right.
 

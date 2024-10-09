@@ -4,7 +4,7 @@ title: SPL control arms in BSP
 date: '2011-04-15T01:25:23+00:00'
 permalink: spl-control-arms-in-bsp
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 So I finally heard back from SPL Parts regarding an email I sent a few weeks ago. I emailed them to ask if they could provide me the information on what the arms are configured for in terms of the heim joints.
 

@@ -4,7 +4,7 @@ title: A small victory (updated)
 date: '2007-06-18T05:53:58+00:00'
 permalink: a-small-victory-updated
 image: 
-categories:  [ 240z, Engine, Motor, Video, Datsun ]
+categories: [ 240z, engine, motor, video, datsun ]
 
 ---
 

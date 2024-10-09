@@ -5,7 +5,7 @@ date: '2009-06-10T01:37:25+00:00'
 last_modified_at: '2024-04-30T11:05:25+23:00'
 permalink: it-runs-twice-and-theres-audio-video-proof
 image: 
-categories: [ 240z, Datsun, Video ]
+categories: [ 240z, datsun, video ]
 ---
 
 So tonight after work I came home to get the starter out of the car and took it back to Autozone, fortunately the lifetime warranty was honored! Though I did have to run off to the Autozone Hub to get the replacement starter. The guy at the hub was kind of lost, but he eventually got everything worked out and I headed home with the new (remanufactured) starter.

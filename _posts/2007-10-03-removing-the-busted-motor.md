@@ -4,7 +4,7 @@ title: Removing the busted motor
 date: '2007-10-03T10:55:31+00:00'
 permalink: removing-the-busted-motor
 image: 
-categories:  [ 240z, Datsun, Motor, Engine ]
+categories: [ 240z, datsun, motor, engine ]
 
 ---
 

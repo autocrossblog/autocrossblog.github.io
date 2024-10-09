@@ -6,7 +6,7 @@ date: '2007-07-06T00:24:52+00:00'
 last_modified_at: '2024-05-29T13:06:03+23:00'
 permalink: project-240z-what-s-next
 image: 
-categories:  [ 240z, Datsun, MegaSquirt ]
+categories: [ 240z, datsun, megasquirt ]
 redirect_from:
   - project-240z-what&apos;s-next
   - project-240z-what%27s-next

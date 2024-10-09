@@ -6,7 +6,7 @@ date: '2007-08-15T05:34:02+00:00'
 last_modified_at: '2024-05-29T13:05:24+23:00'
 permalink: bad-things-oil-and-antifreeze-don-t-mix
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 redirect_from:
     - bad-things-oil-and-antifreeze-don&apos;t-mix
     - bad-things-oil-and-antifreeze-don%27t-mix

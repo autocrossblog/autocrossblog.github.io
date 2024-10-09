@@ -4,7 +4,7 @@ title: I'm selling it, I'm not selling it, I'm selling it, I'm not selling it?
 date: '2009-02-21T15:29:17+00:00'
 permalink: im-selling-it-im-not-selling-it-im-selling-it-im-not-selling-it
 image: 
-categories:  [ 240z, Datsun, For Sale ]
+categories: [ 240z, datsun, forsale ]
 
 ---
 I don't know what I'm doing with the Datsun just yet. I should sell it, but I couldn't sleep the other night because I was thinking about what fun it would be to spend a few weekends in March working on the 240Z.

@@ -5,7 +5,7 @@ date: '2015-09-06T20:52:21+00:00'
 last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: project350z-v3-coming-soon
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 So the time has come, I am currently car shopping again. I've been threatening it for a while now, but with the 2015 Solo National Championships going on this week, and a few other life things figured out, it is time to make the 2016 autocross season happen!
 

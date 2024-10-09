@@ -4,7 +4,7 @@ title: P240Z update, broken Craftsmen power tools
 date: '2007-06-12T08:54:32+00:00'
 permalink: p240z-update-broken-craftsmen-power-tools
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
  

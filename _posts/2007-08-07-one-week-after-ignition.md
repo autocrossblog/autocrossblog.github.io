@@ -5,7 +5,7 @@ date: '2007-08-07T01:20:24+00:00'
 last_modified_at: '2024-04-29T15:05:24+23:00'
 permalink: one-week-after-ignition
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 So it's been over a week now since I drove the 240Z for the first time. What have I gotten done in that timeframe? Not much!

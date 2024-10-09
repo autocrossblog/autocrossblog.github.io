@@ -5,7 +5,7 @@ date: '2007-05-01T09:54:16+00:00'
 last_modified_at: '2024-04-26T08:05:24+23:00'
 permalink: mark-stops-by-with-a-welder
 image: 
-categories: [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 ---
 
 Some of you have kept up with my blog posts, first [Scott](https://www.izzyscustomcages.com/) got on me about using [Bondo on the Project 240z](/bondo-and-gas-tank-removal), so he said to have someone come over and weld on the car instead of using bondo. So I started looking for a welder, might as well do it myself right? Well I didn't have much luck in the price range I was looking for. I had originally ordered something from Harbor Freight, but they suck and I cancelled the order because it ended up being on backorder.

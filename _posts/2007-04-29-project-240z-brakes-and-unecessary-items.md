@@ -4,7 +4,7 @@ title: Project 240Z Brakes and Unecessary items
 date: '2007-04-29T00:00:00+00:00'
 permalink: project-240z-brakes-and-unecessary-items
 image: 
-categories:  [ 240z, Datsun ]
+categories: [ 240z, datsun ]
 
 ---
 

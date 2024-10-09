@@ -6,7 +6,7 @@ date: '2010-12-31T03:00:36+00:00'
 last_modified_at: '2024-05-08T00:15:25+23:00'
 permalink: 350z-koni-shock-install
 image: ProjectZ/KoniInstall/350Z-Koni-Install-1.jpg
-categories: [ 350z, Nissan, Setup, Suspension, Koni, Install, Tutorial ]
+categories: [ 350z, nissan, setup, suspension, koni, install, tutorial ]
 ---
 *This post was originally posted on Solo2.org in **June of 2004**, but the site has gone away (it might come back) so the post was lost. I think I've corrected all the links and am posting it here. I will be doing the same with other old posts.*
 

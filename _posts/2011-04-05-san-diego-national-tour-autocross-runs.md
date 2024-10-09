@@ -5,7 +5,7 @@ date: '2011-04-05T00:52:19+00:00'
 last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: san-diego-national-tour-autocross-runs
 image:
-categories: [ 350z, Nissan, Setup, National Tour, SCCA, Video ]
+categories: [ 350z, nissan, setup, nationaltour, scca, video ]
 ---
 So here we are, one day after the tour and I have all 6 of my runs squared away on video. Now to get them blogged about, in order of course.
 

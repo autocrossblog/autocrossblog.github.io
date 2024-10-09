@@ -4,7 +4,7 @@ title: One Year Later
 date: '2022-06-27T10:00:15+00:00'
 permalink: one-year-later
 image: 6-27-2022/LightPole-1.jpg
-categories: [ Autocross, FR-S, SSC, Setup, Accident ]
+categories: [ autocross, fr-s, ssc, setup, accident ]
 featured: false
 ---
 

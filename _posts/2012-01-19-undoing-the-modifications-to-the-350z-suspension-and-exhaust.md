@@ -4,7 +4,7 @@ title: Undoing the modifications to the 350z, suspension and exhaust
 date: '2012-01-19T02:00:07+00:00'
 permalink: undoing-the-modifications-to-the-350z-suspension-and-exhaust
 image:
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 
 <img style="width: 200px" alt="Project350z Garage Work" align="right" src="https://i4.ytimg.com/vi/C5CMvuvCwac/0.jpg" />

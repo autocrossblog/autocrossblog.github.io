@@ -5,7 +5,7 @@ date: '2011-01-16T04:18:45+00:00'
 last_modified_at: '2024-05-07T23:55:25+23:00'
 permalink: race-tire-mounting-in-the-san-francisco-bay-area-peninsula
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 So as I try to get ready for the 2011 autocross season I stopped into a tire shop the other day, the Les Schwab on El Camino in San Carlos, California.
 

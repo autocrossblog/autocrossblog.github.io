@@ -5,7 +5,7 @@ date: '2011-03-31T01:07:16+00:00'
 last_modified_at: '2024-05-07T23:21:05+00:00'
 permalink: gopro-firmware-upgrade
 image:
-categories: [ 350z, Nissan, Setup, GoPro ]
+categories: [ 350z, nissan, setup, gopro ]
 ---
 So if you read my postings a month or two ago you know I had trouble with the GoPro firmware last time around. Ended up bricking the camera and having to send it in.
 

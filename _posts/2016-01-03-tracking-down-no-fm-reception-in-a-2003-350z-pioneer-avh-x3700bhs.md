@@ -5,7 +5,7 @@ date: '2016-01-03T23:41:23+00:00'
 last_modified_at: '2024-04-29T21:05:43+00:00'
 permalink: tracking-down-no-fm-reception-in-a-2003-350z-pioneer-avh-x3700bhs
 image: PublishThumbnails/Open-Live-Writer/Tracking-down-no-FM-reception-in-a-2003-_13A5C/image_2.png
-categories: [ 350z, Nissan ]
+categories: [ 350z, nissan ]
 ---
 When I picked up the 350z in Chattanooga back in November, I figured out that the radio wasn't great, the sound was weak, and it didn't appear to pick up any FM signals whatsoever. Over the Xmas weekend I decided it was time to rip into the car to remove the stock Bose amp and subwoofer (behind the driver's seat) as well as try to tack down why the FM reception was non-existent.
 

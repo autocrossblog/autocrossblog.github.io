@@ -5,7 +5,7 @@ date: '2009-06-10T22:17:08+00:00'
 last_modified_at: '2024-04-26T08:05:43+23:00'
 permalink: starting-on-the-suspension
 image: 
-categories:  [ 240z, Datsun, Suspension ]
+categories: [ 240z, datsun, suspension ]
 
 ---
 With the [success last night](/it-runs-twice-and-theres-audio-video-proof) I decided I had to work on the car this evening a bit. The first thing I did was get it up on all four jack stands so that they were under the frame and not under control arms of the car. This would allow me to begin working on the suspension pieces. 

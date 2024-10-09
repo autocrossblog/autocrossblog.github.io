@@ -5,7 +5,7 @@ date: '2011-02-05T23:07:21+00:00'
 last_modified_at: '2024-04-25T16:21:05+00:00'
 permalink: wheels-for-a-bsp-350z-arp-studs-sway-bars
 image:
-categories: [ 350z, Nissan, Setup ]
+categories: [ 350z, nissan, setup ]
 ---
 So now that wheels and tires (used) are taken care of, at least for part of the season, I need to locate some longer/stronger wheel studs for the 350z.
 
