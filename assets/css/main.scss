@@ -8,8 +8,6 @@
 	display:inline;
 }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-	"syntax",
-    "starsnonscss"
-;
+// Import partials from `sass_dir` (defaults to `_sass`) changed to @use 11-6-2024
+@use "syntax";
+@use "starsnonscss";
