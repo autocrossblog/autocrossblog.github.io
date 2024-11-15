@@ -3,11 +3,11 @@ layout: post
 title: Project350z 20 Years Ago Today
 date: '2023-04-18T10:00:20+00:00'
 permalink: 20-years-ago-today
-description: The day I got the car
 keywords: 350z, 20 years, 
 image: April2003/April2003-1.jpg
 categories: [ 350z ]
 featured: false
+description: "Join us on a nostalgic journey revisiting the purchase of a 350z 20 years ago, paired with vivid photos and memories."
 ---
 20 Years.
 
@@ -26,7 +26,3 @@ The last photo is of the 99 Z-28 that I traded in that day for the 350Z.
 {% picture April2003/April2003-5.jpg %}
 {% picture April2003/April2003-6.jpg %}
 {% picture April2003/April2003-7.jpg %}
-
-
-
-
