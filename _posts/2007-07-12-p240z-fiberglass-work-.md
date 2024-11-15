@@ -8,7 +8,9 @@ image:
 categories: [ 240z, datsun ]
 redirect_from:
     - p240z-fiberglass-work-
+description: Follow along as this blogger shares their experience repairing car floorboards using fiberglass, offering before and after photos.
 ---
+
 Tonight I spent some time working with fiberglass in the car. I was hoping to repair a few of the holes in the floorboards.
 
 I made quite a mess, but learned quite a bit. Here are some before photos.
@@ -39,3 +41,4 @@ On the driver's side, I used minimal fiberglass matting and mainly used resin. T
 ![Driver's Side Glassed](https://farm2.static.flickr.com/1083/782326631_1c5ecf4a8d_s.jpg)
 
 I'll spend some time Thursday and Friday night working on the floor. I hope to try to paint the interior this weekend. The interior may have to wait though as I hope to finish up a few other things this weekend, mainly the fuel lines and getting the motor back into the car.
+

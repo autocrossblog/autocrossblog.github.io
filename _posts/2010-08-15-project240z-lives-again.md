@@ -6,10 +6,13 @@ last_modified_at: '2024-04-30T12:08:13+23:00'
 permalink: project240z-lives-again
 image: 
 categories: [ 240z, videogames ]
+description: Explore the thrilling rebirth of Project240z in a web-based video game. Experience automotive legend online!
 ---
+
 Yes, it's true folks, the Project240z lives again! Check out the latest incarnation!
 
 (image removed as it no longer works)
 
 So what if it is in a web based video game.
+
 

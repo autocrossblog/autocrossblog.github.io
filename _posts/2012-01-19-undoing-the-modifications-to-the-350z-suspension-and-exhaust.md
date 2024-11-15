@@ -5,7 +5,9 @@ date: '2012-01-19T02:00:07+00:00'
 permalink: undoing-the-modifications-to-the-350z-suspension-and-exhaust
 image:
 categories: [ 350z, nissan ]
+description: Discover the process of restoring a 350z back to stock, battling stubborn parts, breaking tools, and eventually triumphing in this car repair journey.
 ---
+
 
 <img style="width: 200px" alt="Project350z Garage Work" align="right" src="https://i4.ytimg.com/vi/C5CMvuvCwac/0.jpg" />
 So what did you do this weekend? Did you spend two days under your car? I basically did, well more like 1 day, but it was broken up over an afternoon/evening and then the following morning after I ran to get a new â€œnut" that I needed to finish things up.
@@ -16,4 +18,5 @@ I of course time lapsed the whole affair, using my trusty [GoPro Camera HD HERO2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C5CMvuvCwac?si=zDDA6RBFgcajnLL-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Are you interested in buying any of the parts I've removed from the car? Stay tuned for a full blog post with pictures next week of everything I have for sale, but in the mean time if you want to get the jump on the next guy, head on  over to the About page and fill out the contact form to make an offer.
+
 

@@ -6,7 +6,9 @@ last_modified_at: '2024-05-07T23:55:25+23:00'
 permalink: buy-a-motor-to-build-up
 image:
 categories: [ 350z, nissan, setup ]
+description: Delve into the world of car modifications with this post exploring the possibilities for a 350z motor build for SCCA Autocross.
 ---
+
 So I am not sure where the 350z is ultimately headed. I think SSM in SCCA Autocross could be fun, though that will take some time and a lot of money to do.
 
 I was thinking, perhaps a motor build up would be a place to start. And rather than build up a turbo motor from what I currently have, keep it as is and find another motor to build up.
@@ -16,5 +18,6 @@ There's a guy selling one on My350z that is somewhat local, could be an interest
 <a href="https://my350z.com/forum/norcal-marketplace/467754-fs-rev-up-motor-w-spun-bearing.html">my350z.com/forum/norcal-marketplace/467754-fs-rev-up-motor-w-spun-bearing.html</a>
 
 I may email him and tell him I'll give him $150, see where that goes.
+
 
 

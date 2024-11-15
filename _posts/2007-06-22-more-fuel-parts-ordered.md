@@ -5,8 +5,9 @@ date: '2007-06-22T22:18:43+00:00'
 permalink: more-fuel-parts-ordered
 image: 
 categories: [ 240z, datsun, fuel ]
-
+description: This blog post shares about a recent order from Summit Racing, completing the fuel system setup for a 240z, with a detailed list of parts.
 ---
+
 I just placed another order with Summit Racing dot com today. I ordered the following, which I think will finish up what I need for the fuel system for the 240z.
 
     - AEI-13109  FUEL REGULATOR
@@ -20,4 +21,5 @@ I just placed another order with Summit Racing dot com today. I ordered the foll
     - SUM-220844  -08-06 AN MALE ADAPTER
     - SUM-220887  -08 90 SWIVEL HOSE END
     - SUM-220890  8AN HOSE END STRAIGHT  
+
 

@@ -6,9 +6,11 @@ last_modified_at: '2024-04-29T15:05:24+23:00'
 permalink: tuesday-goal-start-the-car
 image: 
 categories: [ 240z, datsun ]
-
+description: Join us as we embark on the exciting journey of getting an old car running again tonight.
 ---
+
 As of right now, the goal for tonight is to attempt to start the car!
+
 
 
 

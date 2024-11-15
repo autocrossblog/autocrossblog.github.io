@@ -6,8 +6,9 @@ last_modified_at: '2024-04-30T11:05:25+23:00'
 permalink: another-night-with-not-much-success
 image: 
 categories: [ 240z, datsun ]
-
+description: Follow along on a hands-on journey of troubleshooting and repairing a classic Datsun car. Includes diagnosing starter issues, rewiring sensors, and mo...
 ---
+
 So tonight I came home from work and decided it was time to work on the Datsun a bit, after over a week of barely even looking at it when walking in and out of the garage to and fro. Terec came over and helped me out for a bit as well.
 
 The first thing I checked was to see what the starter looked like, I was worried based on the noises that I've been hearing that the newly installed starter was bad. Well I pulled it out, it looked fine, as did the flywheel itself, so there went that theory. I put the started back on the car and connected the wires. From there I attempted to start the car again. The grinding happened a bit, but I swear it doesn't last, and even got less frequent as the night wore on.
@@ -17,3 +18,4 @@ Terec showed up as i was attempting to start the car. We spent most of the eveni
 The last attempt at starting the car seemed to only get 100rpm from the starter, so we assume that the battery was drained a bit too much. Because of that we threw it on the charger and called it a night.
 
 Another thing that just struck me, I need to check the compression on the motor tomorrow, that hasn't been done :(
+

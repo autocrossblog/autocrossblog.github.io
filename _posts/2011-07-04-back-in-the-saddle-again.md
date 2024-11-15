@@ -6,7 +6,9 @@ last_modified_at: '2024-04-26T11:05:43+00:00'
 permalink: back-in-the-saddle-again
 image:
 categories: [ 350z, nissan ]
+description: Discover the cherished Bell Helmet's adventure from Colorado to California, lost during a move, and its unexpected reunion with the owner.
 ---
+
 This morning I took off from our house around 6:10am and headed south on Highway 1. I was on the road to Marina, CA. The trip was nice and uneventful, traffic was great, but I'm sure that had to do with the fact that it was so early on a Sunday morning of a three day weekend.
 
 I got out to the event, registered, and signed up for my work assignment, then began the dirty work. Changing the tires on the car. It's a fairly painless job, though I really drag it out most times, I could probably get it done in under 5 minutes, but typically it takes me 15-20 as I fart around doing it.
@@ -29,3 +31,4 @@ Settings:
 - Tire psi: 25/23 f/r
 - Shocks: Front 7 clicks compression 1 full turn rebound
 - Rear 3 clicks rebound
+

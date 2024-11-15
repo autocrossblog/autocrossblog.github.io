@@ -5,7 +5,9 @@ date: '2018-05-03T01:52:44+00:00'
 permalink: 2018-blytheville-prosolo-results-for-ssc
 image: 
 categories: [ autocross, toyota, scion, fr-s, ssc, setup, specfrs ]
+description: Follow the author's journey of realizing a purchasing error on car wheels, his hassle to get them replaced, and prepping for an upcoming local autocro...
 ---
+
 [![SSC Cars in Impound waiting for the Challenges](https://farm1.staticflickr.com/906/26990079767_9da6e5a1e9.jpg)](https://www.flickr.com/photos/chammond/26990079767/in/album-72157690612809440/)
 
 In short, WOW. What an amazing weekend.
@@ -50,3 +52,4 @@ Here's the video from on top of the car of Kevin's Super Challenge win.
 **Rear Tire Pressure:** 32 psi
 
 [![Challenge Winners](https://farm1.staticflickr.com/869/26990122027_c44c9d1814.jpg)](https://www.flickr.com/photos/chammond/26990122027/in/album-72157690612809440/)
+

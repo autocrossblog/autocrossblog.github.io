@@ -6,7 +6,9 @@ last_modified_at: '2024-04-29T16:05:24+23:00'
 permalink: how-to-drop-40lbs-from-your-2003-350z-new-seats
 image:
 categories: [ 350z, nissan ]
+description: Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest.
 ---
+
 This weekend I spent some quality time finally working on the 350z before the upcoming autocross season (Dixie Champ Tour is coming up quickly).
 
 In prep for STU, I want to see what kind of weight I can get out of the car. I really don't know if this car (2003 Touring) can come anywhere close to what my first one (2003 Enthusiast, 3075lbs) weighed, or even the second one (2004 enthusiast, 3062). I have yet to get it up on the scales, but I assume going into this that the car is heavier than both of them. The power, heated, leather seats that came with the car, along with the potential extra stereo equipment, and electronics for the VDC mean the car likely weighs a good bit heavier than the previous cars.
@@ -58,4 +60,5 @@ The one thing I didn't test, is how the seats will do with a helmet on. I have a
 
 [Check out some of the installation photos with close up shots of the various weights of the seats.](https://www.flickr.com/photos/chammond/albums/72157664702657730)
 ![Project 350z NRG FRP-310 Seat Installation](https://farm2.staticflickr.com/1674/25027042309_6251a7a052_q.jpg)
+
 

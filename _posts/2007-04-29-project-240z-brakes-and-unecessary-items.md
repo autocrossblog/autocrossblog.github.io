@@ -5,8 +5,10 @@ date: '2007-04-29T00:00:00+00:00'
 permalink: project-240z-brakes-and-unecessary-items
 image: 
 categories: [ 240z, datsun ]
-
+description: "Dive into our detailed account of car updates including brake removal, and the creation of blockoff plates for emission lines."
 ---
 
+
 Russ helped me yesterday afternoon and last night with quite a few things on the car. We removed all of the brakes so I can get those turned. Then we started fabricating blockoff plates for the various vacuum and emission lines that will be removed from the car.
+
 

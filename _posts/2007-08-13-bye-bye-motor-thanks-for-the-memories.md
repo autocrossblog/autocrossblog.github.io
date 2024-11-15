@@ -6,9 +6,11 @@ last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: bye-bye-motor-thanks-for-the-memories
 image: 
 categories: [ 240z, datsun ]
-
+description: Follow Project240z's exciting yet challenging first autocross experience, leading to an unexpected engine overhaul with an LS1.
 ---
+
 On the Project240z's maiden autocross voyage today the motor decide to depart the living world. More to come, but it looks like another winter project may involve and LS1....
+
 
 
 

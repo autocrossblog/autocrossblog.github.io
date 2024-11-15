@@ -6,7 +6,9 @@ last_modified_at: '2024-04-29T16:05:24+23:00'
 permalink: 350z-setup-and-modifications-for-scca-autocross-stu-class
 image:
 categories: [ 350z, nissan, setup ]
+description: Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest.
 ---
+
 We'll try to keep this list updated with current modifications, and a list of past modifications as well as we build and compete our 350z in the SCCA STU autocross class.
 
 ### Vehicle
@@ -49,3 +51,4 @@ The interior is the Frost interior, originally with the leather, heated, electri
 - **Shift boot**: Alcantara one from eBay
 - **Glass Tint**: medium (approx 35%)
 - **Seats**: NRG FRP 300
+

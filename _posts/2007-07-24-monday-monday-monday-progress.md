@@ -6,8 +6,9 @@ last_modified_at: '2024-04-29T15:05:24+23:00'
 permalink: monday-monday-monday-progress
 image: 
 categories: [ 240z, datsun, megasquirt ]
-
+description: Follow our progress as we repair a car, wiring the engine bay and initializing the power system. We’re on track for a startup this week!
 ---
+
 Today was a good day! Progress was made! First things first, at lunch myself, Henry, and Eric headed down to High Ridge to SCPRacingparts.com again to get a cap for my Fuel cell, I realized yesterday that I was only using 3 of the 4 fitting points for the fuel cell, and I had better get something to cover the fourth one up.
 
 After work my Henry (one of my bosses) and his mechanic buddy Ronnie came over to the house, after we made a quick pitstop at Gateway Electronics again to get more wiring items (I also spotted the Rally Bug builders on their way home from work). Ronnie runs a shop down south near where he and Henry both live, so he was an EXCELLENT resource to have working on the car tonight. He and Henry got nearly every wire in the engine bay connected and placed in the appropriate areas, leaving just a few things for me to do in the bay.
@@ -21,3 +22,4 @@ Ronnie was able to get the power from the new battery hooked up to the starter, 
 So I've got more work to do tomorrow night. I'll try to finish up the wiring that is left in the engine bay, as well as wire up the fuse panel and try to mount the Megasquirt tomorrow night.
 
 Right now my goal is to try and start the car either Wednesday, or Thursday night! Though, I'm seriously thinking I won't be going to Topeka, though I'm still hoping to at least take the car to the local autox this Sunday.
+

@@ -6,7 +6,9 @@ last_modified_at: '2024-05-07T23:21:05+00:00'
 permalink: success-the-bushings-are-removed-from-the-upper-control-arms
 image:
 categories: [ 350z, nissan, setup, suspension, video ]
+description: Explore this blog post about the importance of having the right tools, using a home repair task as an example. See images and video of the process.
 ---
+
 Well, it just goes to show you. Having the right tool for a job is the key to getting the job done right.
 
 Last night I spent some time trying to get the bushings out again, I didn't have any luck. I then ran to Home Depot and picked up a 6" vise.
@@ -24,4 +26,5 @@ and here's the removed bushings (sans some of the burned out rubber):
 [![remnants of the front bushings](https://static.flickr.com/5014/5557378579_bf4def4f27.jpg)](https://www.flickr.com/photos/17726343@N00/5557378579/)
 
 and here's a video of the process over the past two days:
+
 

@@ -8,7 +8,9 @@ image:
 categories: [ 350z, nissan, prosolo, ohio, peru, indiana, grissom ]
 redirect_from: 
     - "2016-wilmington-prosolo-"
+description: Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest.
 ---
+
 
 So here we are, another month has gone by since the last blog post, time for an update here on the status of Project350z.
 
@@ -35,3 +37,4 @@ After the ProSolo they held the National Tour (Champ tour). I finished better ov
 After the poor showings in the National events I decided it was time to tear the car apart and see if change is what I need. I decided it was time to put the â€œold" suspension back on the car. What is the old suspension you might ask, well you can [read about it here](/bsp-350z-suspension-parts-and-exhaust-for-sale), I never did sell the suspension off the old car, so I decided it was time to try that out. The car has been up on jack stands for a month now, I finally got around to getting everything finished up today.
 
 One additional thing I installed, there was a little issue with the potential legality of the previous camber arms on the rear end of the car. The arms came on the car when I purchased it, but I decided I didn't want to run the risk of them being challenged with a protest at a future event. So I ordered the Kinetix Racing Rear Camber/Traction package
+

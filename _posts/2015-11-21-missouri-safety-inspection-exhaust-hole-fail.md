@@ -6,7 +6,9 @@ last_modified_at: '2024-04-29T21:05:43+00:00'
 permalink: missouri-safety-inspection-exhaust-hole-fail
 image: PublishThumbnails/Windows-Live-Writer/Missouri-Safety-inspection-exhaust-hole-_14613/image_2.png
 categories: [ 350z, nissan ]
+description: Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest.
 ---
+
 Follow up to the failed emissions and safety test earlier this week.  Last night I got under the car again and checked for leaks, found that one of the gaskets I hadn't touched was leaking, so I tried to cover that up with some exhaust tape.
 
 I also wrapped some of the tape around the hole in the pipe, then let the car run for 20 minutes at idle to try to get it to set in.
@@ -24,3 +26,4 @@ This morning I took the car back to Dobbs to get the safety and emissions inspec
 So, next weekend I'll head down to Solo Performance Specialtiesâ€‹ and weld something onto the pipe to close up the exhaust.
 
 This winter I will replace the exhaust entirely, but for now I just need to pass the darn safety inspection.
+

@@ -6,7 +6,9 @@ permalink: 2020-topeka-prosolo-results
 image: TopekaProSoloTrophy.jpg
 categories: [ autocross, fr-s, ssc, setup, results, specfrs ]
 featured: false
+description: Follow the revival journey of Project 350z as we scout for a lower mileage, manual transmission model, closest to St. Louis.
 ---
+
 [![Conference calls before practice starts](https://live.staticflickr.com/65535/50063439002_ae51b1e02e_m.jpg)](https://www.flickr.com/photos/chammond/50063439002/in/dateposted/ "Conference calls before practice starts")
 Well that was a productive weekend! I left for Topeka Kansas on Friday morning after working for a few hours and stopped on the drive out for a few more phone calls that I needed to have. I stopped and went into two locations on the drive down, a QuikTrip in Wentzville Missouri, and a Chick-Fil-A in Blue Springs. The QT had no workers or customers (besides myself) wearing a mask. The Chick-Fil-A was still closed for indoor service and all staff were wearing masks while working the drive through lines.
 
@@ -60,3 +62,4 @@ Check out additional photos from the weekend.
 **Rear Konis:** 1.5 turns from soft  
 **Front Tire Pressure:** 30 psi  
 **Rear Tire Pressure:** 29 psi
+

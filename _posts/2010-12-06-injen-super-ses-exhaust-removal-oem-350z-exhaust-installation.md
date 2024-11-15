@@ -6,7 +6,9 @@ last_modified_at: '2024-05-07T23:31:05+00:00'
 permalink: injen-super-ses-exhaust-removal-oem-350z-exhaust-installation
 image:
 categories: [ 350z, nissan, setup, video ]
+description: Join us in recounting a thrilling day of autocross racing in California, including course walk-throughs, heat runs, and personal insights.
 ---
+
 If you've followed my struggles here on Project350z.com, you know by now that my 2004 350z came (when I purchased it in January 2010) with an Injen Super SES exhaust system. This system was a true dual exhaust setup from the cats back.
 
 You might also remember I've complained a few times about it leaking. Well, I finally gave in. Injen wasn't helpful in getting me a replacement part to repair the leaking section (at the welds) so I went and purchased an OEM exhaust from a local guy off of My350z.com.
@@ -24,3 +26,4 @@ I need to see if anyone makes a trailer hitch for a 350z so that I can haul whee
 I've yet to decide what I'll do with the Injen system. I may try to sell it, I may take it somewhere for scrap.
 
 Injen, if you're reading this, I'm still open to putting the SuperSES system back on the car, but I need your help replacing the midpipes to do that! I'm even willing to pay, but I need you guys to respond to basic customer service emails.
+

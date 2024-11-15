@@ -5,7 +5,9 @@ date: '2009-08-12T23:00:10+00:00'
 permalink: two-years-ago
 image: 
 categories: [ 240z, datsun ]
+description: Relive the journey of a Datsun 240z that toasted its first motor in autocross, its revival, and the ongoing journey in car restoration.
 ---
+
 Two years ago today was the day that the Datsun toasted Motor #1 on it's first autocross run! Here's a shot of that first competition run.
 
 <img title="" alt="240z at Autocross." src="https://farm2.static.flickr.com/1046/1099890831_dece40264a.jpg" width="500" height="333" />
@@ -32,5 +34,6 @@ I sold the Corvette.
 We moved to Colorado. <a href="https://www.going2colorado.com">www.going2colorado.com</a>
 
 In the next few weeks I hope to get more of the 240 back together, starting to work on the electrical system and such. Then during the first week of September the car goes to www.hanksvillehotrods.com for a new exhaust, maybe I can talk them into a cage too ;)
+
 
 

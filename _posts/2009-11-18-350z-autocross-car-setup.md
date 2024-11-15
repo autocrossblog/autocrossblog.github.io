@@ -6,7 +6,9 @@ last_modified_at: '2024-05-07T23:55:25+23:00'
 permalink: 350z-autocross-car-setup
 image:
 categories: [ 350z ]
+description: Explore the specific setup details of a 2003 Nissan 350Z Enthusiast for B-Stock racing, including options, wheels, tires, and alignment.
 ---
+
 Running in BS (B-Stock) for three years, I learned a lot about the 350Z and the setup for the car. While I don't currently still have that car, I will go ahead and create a post about the setup of the car for BS.
 
 **Car:** 2003 Nissan 350Z Enthusiast
@@ -36,3 +38,4 @@ Running in BS (B-Stock) for three years, I learned a lot about the 350Z and the 
   - RR 0.03 degrees
 
 Some of these values might be off, it has been three years since I owned the car ;) I'm working on trying to get all my old information together about the car.
+

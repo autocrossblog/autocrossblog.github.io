@@ -5,8 +5,9 @@ date: '2008-03-09T04:52:43+00:00'
 permalink: a-space-heater-and-gasoline
 image: 
 categories: [ 240z, datsun ]
-
+description: Follow our adventure as we source parts for a 240Z restoration, build a rolling stool, and encounter a close call with a garage fire hazard.
 ---
+
 
 Today Nick and I ran around town, getting some metal for his 240Z, then around to find a few other supplies that he needed.
 
@@ -25,3 +26,4 @@ Talk about getting your heart rate going, I jumped, grabbed the space heater and
 Thankfully nothing caught fire! That would of sucked! More work tomorrow, I'm going to try and get the motor up on an engine stand so I can replace the rear main seal which leaks, and try to check everything over before I put it all back together.
 
 I could "possibly" have this motor running by the end of the month in the car. But I know how lazy and busy I am, so I have no doubts that there is no way I'll get all that done :) More info and pictures tomorrow, possibly even a new 240Z video!
+

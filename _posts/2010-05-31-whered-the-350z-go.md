@@ -6,7 +6,9 @@ last_modified_at: '2024-04-30T12:10:13+23:00'
 permalink: whered-the-350z-go
 image:
 categories: [ 350z, nissan, setup ]
+description: Get an update on Project350z.com, our journey to make a 350z road-ready while balancing garage space issues, and exploring alternatives like the Nissa...
 ---
+
 So it's been a while since I've done any updates here on Project350z.com, so here's a quick update.
 
 The car has been doing well the past few months but at this point has been relegated to strictly commuter duty, and it will likely be that way for a while now. Though I do hope to hit an event or two here in the coming months, hopefully on towards the end of June and another 2 or 3 in July.
@@ -16,4 +18,5 @@ I'm still trying to get the car ready to pass smog, and am hoping to pick up a s
 I've also been cheating on the 350z a little bit. I put money down on a commuter replacement, by registering during the preregistration period for the Nissan Leaf, I even setup a site for it, no not projectleaf, but leafowner.com. I don't intend to get rid of the 350z, but if I do get a Leaf the Z will see far less street usage!
 
 More updates coming soon! I might even video the work tomorrow.
+
 

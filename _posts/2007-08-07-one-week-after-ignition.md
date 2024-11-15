@@ -6,8 +6,9 @@ last_modified_at: '2024-04-29T15:05:24+23:00'
 permalink: one-week-after-ignition
 image: 
 categories: [ 240z, datsun ]
-
+description: Follow an automotive enthusiast as they navigate through a week of hands-on modifications to a 240Z, sharing insights on wiring, engine bays, and reso...
 ---
+
 So it's been over a week now since I drove the 240Z for the first time. What have I gotten done in that timeframe? Not much!
 
 I basically didn't touch the car until Thursday, and all I did then was take a few minutes to inaccurately measure the requirements for the flange on the downpipe. Friday I picked up a header collector flange from my buddy Russ' place. Sunday morning I went to work on that flange, it needed some help to make it fit.
@@ -32,3 +33,4 @@ I'm still aiming to ~~compete~~ drive the car at the Autocross on Sunday. Before
 4. Finish up wiring for the O2 sensor
 5. Get a harness squared away
 6. More stuff I'm sure I've forgotten!
+

@@ -8,7 +8,9 @@ image:
 categories: [ 350z, nissan, wheels, forsale, parts ]
 redirect_from:
     - for-sale-4-18x10%22-38-enkei-rpf1-w/-710s    
+description: Discover how to build a GoPro camera mount for capturing car shots. Learn from the trial, error and results of our first 350z GoPro mount assembly.
 ---
+
 Asking **$1600** local (delivery extra, I have small vehicles so transport is a pain). Currently located in Half Moon Bay, California, just south of San Francisco.
 
 It looks like 2012 will be a no go for me (no budget to get the car where it needs to be) so I am going to part ways with my beautiful 18x10" +38 Enkei RPF1s. The wheels currently have 18" 305 Kumho 710s mounted, plenty of tread left, though not competitive nationally, great for local/regional events.
@@ -36,6 +38,7 @@ Click on photos for a Larger View
 <a href="https://www.flickr.com/photos/chammond/6586040951/in/photostream"><img border="0" alt="https://farm8.staticflickr.com/7015/6586040951_bba7ecc0d7_m.jpg" src="https://farm8.staticflickr.com/7015/6586040951_bba7ecc0d7_m.jpg" /> </a><a href="https://www.flickr.com/photos/chammond/6586039061/in/photostream"><img border="0" alt="https://farm8.staticflickr.com/7165/6586039061_fe47d6ce12_m.jpg" src="https://farm8.staticflickr.com/7165/6586039061_fe47d6ce12_m.jpg" /></a>    
 
 On car <img border="0" alt="https://farm6.staticflickr.com/5301/5587442397_fbd968141e.jpg" src="https://farm6.staticflickr.com/5301/5587442397_fbd968141e.jpg" />
+
 
 
 

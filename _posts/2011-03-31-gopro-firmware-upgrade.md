@@ -6,7 +6,9 @@ last_modified_at: '2024-05-07T23:21:05+00:00'
 permalink: gopro-firmware-upgrade
 image:
 categories: [ 350z, nissan, setup, gopro ]
+description: Follow the blogger's journey with their GoPro camera upgrade, check the latest V 1.1.5 firmware, and anticipate a time-lapse drive to San Diego.
 ---
+
 So if you read my postings a month or two ago you know I had trouble with the GoPro firmware last time around. Ended up bricking the camera and having to send it in.
 
 Much better luck tonight! I got V 1.1.5 upgraded without any trouble. I wasn't sure what the camera had on it that they sent me in exchange for my repair, so I wanted to make sure I was on the latest firmware for the trip to San Diego. I'm hoping to timelapse the drive.
@@ -14,6 +16,7 @@ Much better luck tonight! I got V 1.1.5 upgraded without any trouble. I wasn't s
 We'll see if the batteries (2 of them) last the trip, I doubt it, but we'll see. I have the camera set for shooting every 5 seconds and plan to mount it facing out the windshield.
 
 Thanks for all of you who â€œlike" [Project350z on Facebook](https://facebook.com/project350z)! We've seen some good growth the past couple of days!
+
 
 
 

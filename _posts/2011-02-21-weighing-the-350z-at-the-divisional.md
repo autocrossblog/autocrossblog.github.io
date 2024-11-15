@@ -5,7 +5,9 @@ date: '2011-02-21T00:09:56+00:00'
 permalink: weighing-the-350z-at-the-divisional
 image:
 categories: [ 350z, nissan, setup ]
+description: Engage in the debate about the proposed move of the 350z from BSP to ESP in SCCA Autocross classing. Discover the pros and cons discussed on the SCCAF...
 ---
+
 So there's been much debate (or really just many people telling me I am crazy) over on SCCAForums in the thread I started to discuss the proposed move of the 350z from BSP to ESP in SCCA Autocross classing.
 
 Ever since the 350z was released I thought it was the perfect F-Stock car, though others have always seemed to think otherwise and it was relegated to B-Stock where all but a few events it became an also ran behind the RX-8. It was also classed in BSP (b street prepared) where it hasn't faired any better for the last 8 years. Last month the SCCA posted a proposal to move the 350z from BSP to ESP, I'm all for the move, most of the ESP folk apparently aren't, "A Japanese car in our American Car Class? How dare you!"
@@ -30,5 +32,6 @@ And what did it weigh in at?
 **3062lbs**
 
 That matches up fairly closely to my 2003 Enthusiast I had from 03-06 in b-stock trim. A few other mods on this one, though the old one had a lighter exhaust setup. The 2003 weighed 3075lbs.
+
 
 

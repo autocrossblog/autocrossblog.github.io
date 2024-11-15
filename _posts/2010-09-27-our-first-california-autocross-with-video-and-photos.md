@@ -5,7 +5,9 @@ date: '2010-09-27T01:48:39+00:00'
 permalink: our-first-california-autocross-with-video-and-photos
 image:
 categories: [ 350z, nissan, setup ]
+description: Join us in recounting a thrilling day of autocross racing in California, including course walk-throughs, heat runs, and personal insights.
 ---
+
 So today was the first time I've ever autocrossed in California, and the first time the car has seen an event since our runs at the Colorado event in January. I left San Carlos early in the morning and headed off to pick up <a href="https://www.willstrohl.com" >Will Strohl</a>. We headed down to Marina California for the Northern California United Five-Ten Owners Club 
 
 We headed south towards Marina, and decided we wanted to try to grab some food, unfortunately we didn't have much luck finding anything, and ended up going a different way than Google Maps originally said. Though, to be honest, I think we went a better way, we headed down 101 to 156, and bypassed the hills/mountains over towards Santa Cruz. We were there before the gates opened, and when they did we were two of the first people there.
@@ -31,6 +33,7 @@ I'm thinking that this car might be fun to play with in SSM, but that might enta
 I took a number of photos at the event, here are some of me, and then the full Flickr Set.
 
 <a title="IMG_6233" href="https://www.flickr.com/photos/17726343@N00/5028892990/"><img border="0" alt="IMG_6233" src="https://static.flickr.com/4083/5028892990_cf3c425755_m.jpg" /></a><a title="IMG_6225" href="https://www.flickr.com/photos/17726343@N00/5028275443/"><img border="0" alt="IMG_6225" src="https://static.flickr.com/4091/5028275443_f27b042640_m.jpg" /></a><a title="IMG_6221" href="https://www.flickr.com/photos/17726343@N00/5028890414/"><img border="0" alt="IMG_6221" src="https://static.flickr.com/4130/5028890414_7988799ccb_m.jpg" /></a><a title="IMG_6220" href="https://www.flickr.com/photos/17726343@N00/5028889402/"><img border="0" alt="IMG_6220" src="https://static.flickr.com/4088/5028889402_99dbc9bc2e_m.jpg" /></a><a title="IMG_6217" href="https://www.flickr.com/photos/17726343@N00/5028271819/"><img border="0" alt="IMG_6217" src="https://static.flickr.com/4110/5028271819_3a2cb49499_m.jpg" /></a><a title="IMG_6215" href="https://www.flickr.com/photos/17726343@N00/5028270725/"><img border="0" alt="IMG_6215" src="https://static.flickr.com/4149/5028270725_e638b419aa_m.jpg" /></a>
+
 
 
 

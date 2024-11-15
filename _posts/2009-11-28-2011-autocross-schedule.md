@@ -6,7 +6,9 @@ last_modified_at: '2024-05-07T23:31:05+00:00'
 permalink: 2011-autocross-schedule
 image:
 categories: [ schedule, 350z ]
+description: Stay updated with the tentative autocross schedule for Project350z, covering multiple events in California and Colorado.
 ---
+
 **Tentative Schedule**
 
 This post will be updated over time to include the autocross schedule for the Project350z. While I doubt the car will make it to all these events, you gotta have a goal to start with right?
@@ -35,3 +37,4 @@ This post will be updated over time to include the autocross schedule for the Pr
 - 10/8-9/2011 American Auto-x, California
 - 10/30/2011 Norcal UFO, California
 - 11/13/2011 Norcal UFO, California
+

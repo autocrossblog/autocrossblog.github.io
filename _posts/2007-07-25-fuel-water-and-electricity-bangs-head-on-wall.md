@@ -6,7 +6,9 @@ last_modified_at: '2024-04-29T15:05:24+23:00'
 permalink: fuel-water-and-electricity-bangs-head-on-wall
 image: 
 categories: [ 240z, datsun, megasquirt ]
+description: Discover how a group of friends troubleshoot fuel leaks, coolant leaks, and blown fuses in a car makeover, strengthening teamwork and engineering skil...
 ---
+
 Fuel leaks, coolant leaks, and blown fuses. That about sums up the evening...
 
 First off, a HUGE thanks to everyone who came over tonight. Henry, Ronnie, Terec, Ian, Eric, Scott, and Andy, without you guys helping out I wouldn't have gotten anything done tonight!
@@ -37,3 +39,4 @@ c) see if the coolant is still leaking and then fix the leak.
 Of those items right now, C scares me the most, I'm hoping I don't have to replace a head gasket or anything of the like.
 
 I'll have video up from tonight, both my usual format, and some HD video as well.
+

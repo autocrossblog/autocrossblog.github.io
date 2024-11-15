@@ -6,8 +6,9 @@ last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: updates-from-the-weekend
 image: 
 categories: [ 240z, datsun, megasquirt, engine, friends ]
-
+description: Follow an automobile enthusiast's journey in troubleshooting issues with Megasquirt, and gain insight into overcoming hurdles in classic car restorati...
 ---
+
 So I spoke with my Megasquirt Guru last week a few times, and again this weekend, and even had him show up in my driveway to help wrench on the car today! 
 
 So yesterday I got up and checked to see if the 36-1 wheel for the Megasquirt (using Ford EDIS) was correctly mounted, meaning, should the mounting have changed due to moving from the 1983 motor, to the 1978 motor. I removed the radiator in order to get to the front of the motor, draining it out was probably a good idea. We had put water in last weekend when getting things ready to start, well the water was pretty darn rusty and dirty when I took it out yesterday, probably need to do that a few more times just to make sure everything gets flushed from the radiator (sitting for 2 years) and the block, which has been sitting for 6 or more years (2+ since it last ran, longer since it actually was used much). 
@@ -21,3 +22,4 @@ We ended up figuring out that the squirt/stim worked fine on his laptop, which m
 All in all we weren't too successful, but we did get it to almost fire up a few times. A few times we got some nice big backfires, once enough that pressure came up through one of the cutouts in the driver's side floorboard, enough to make my foot jump off the floor. I ended up removing the VR sensor from the 36-1 wheel at Andy's suggestion and installed a new one, though the plug is backwards on it, so later this week I'll try it out again, as well as try rewiring the sensor. These sensors are very picky, so we're not sure if that's the problem, or something else, but hopefully rewiring it will correct it and the car will start up! Hopefully right? :D 
 
 Huge thanks to Whittle for the help today.
+

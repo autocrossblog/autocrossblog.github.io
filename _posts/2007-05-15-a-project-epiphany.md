@@ -6,8 +6,9 @@ last_modified_at: '2024-04-21T11:07:00+00:00'
 permalink: a-project-epiphany
 image: 
 categories: [ 240z, datsun ]
-
+description: Follow the journey of renovating a vintage car's interior and navigating the regulations of the SCCA Solo XP class.
 ---
+
 Last night I spent a few hours sitting in the car. I had decided over the weekend I needed to take out all of the interior, or at least most of it, and clean up the inside of the car. I can always get the outside painted later, but the inside, if I'm going to be in it, needs to be cleaned up, and painted. It's orange, or red, I can't tell which, and though most of the interior items cover the orange there are gaps that show through.
 
 So I took out all the diamond plate looking black vinyl, and then started removing the tar board and furry coating over the transmission tunnel. I've removed all that I think I can remove right now, and eventually will also pull the dash out and replace the dash with a fiberglass dash I acquired when I purchased the car.
@@ -20,6 +21,7 @@ So, XP here I come. I still plan to compete in SM2 for St. Louis region autocros
 
 Photos of the interior after last night's work.
   <div class="PoolList" id="pool_499038551"><a href="https://www.flickr.com/photos/chammond/499038551/in/pool-240z/"><img height="67" alt="" src="https://farm1.static.flickr.com/222/499038551_0664df6a27_t.jpg" width="100" /></a> <a href="https://www.flickr.com/photos/chammond/498991348/in/pool-240z/"><img height="67" alt="" src="https://farm1.static.flickr.com/203/498991348_302b50eb61_t.jpg" width="100" /></a> <a href="https://www.flickr.com/photos/chammond/498989758/in/pool-240z/"><img height="67" alt="" src="https://farm1.static.flickr.com/224/498989758_874270380e_t.jpg" width="100" /></a> <a href="https://www.flickr.com/photos/chammond/499037003/in/pool-240z/"><img height="67" alt="" src="https://farm1.static.flickr.com/226/499037003_b99ae80d1b_t.jpg" width="100" /></a> <a href="https://www.flickr.com/photos/chammond/499035671/in/pool-240z/"><img height="100" alt="" src="https://farm1.static.flickr.com/219/499035671_8a91b9158a_t.jpg" width="67" /></a> <a href="https://www.flickr.com/photos/chammond/498988300/in/pool-240z/"><img height="100" alt="" src="https://farm1.static.flickr.com/217/498988300_ad19a541c5_t.jpg" width="67" /></a></div>
+
 
 
 

@@ -6,7 +6,9 @@ permalink: parting-out-the-frs
 image: 3-14-2022/Side-1.jpg
 categories: [ autocross, fr-s, ssc, setup, accident, specfrs ]
 featured: false
+description: Follow one car owner's journey of parting out a 2016 Scion FR-S, from wheel removal to selling off OEM parts and SSC suspension bits.
 ---
+
 
 The time has finally come, time that I finally have, to try to start getting the 2016 Scion FR-S parted out.
 
@@ -24,6 +26,7 @@ Other things I need to do:
 If you're interested in any of the car, or SSC bits, let me know.
 
 Car is located in Wildwood Missouri, just outside of St. Louis. The motor has less than 45k miles on it and runs great.
+
 
 
 

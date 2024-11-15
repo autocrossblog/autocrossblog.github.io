@@ -6,7 +6,9 @@ last_modified_at: '2024-04-26T08:05:24+23:00'
 permalink: today-was-a-good-day
 image: 
 categories: [ 240z, datsun, megasquirt ]
+description: Discover the intriguing process of working on an EDIS and Megasquirt setup; from troubleshooting, to solving problems and gaining unexpected wins in c...
 ---
+
 This morning I woke up with a little hope in my eye, hope that I would make some good progress today.
 
 After doing some reading online about the Megasquirt and EDIS, I headed out to the garage. The first thing I noticed was that the coil pack wasn't plugged into the EDIS module. I'm not sure if I had unplugged it last night when trying to figure out why we didn't have any spark, or if I hadn't plugged it in at all last night.
@@ -32,3 +34,4 @@ Around 10pm I figured it was probably a little too late to try to keep starting 
 I've got a few things to try in the morning before I head off to the muffler shop to see if I can't get an exhaust put on the car.
 
 [Here's some video from tonight, trying to start the car.](/trying-to-start-the-car)
+

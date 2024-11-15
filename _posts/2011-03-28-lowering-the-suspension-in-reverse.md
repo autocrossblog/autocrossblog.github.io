@@ -6,7 +6,9 @@ last_modified_at: '2024-05-07T23:21:05+00:00'
 permalink: lowering-the-suspension-in-reverse
 image:
 categories: [ 350z, nissan, setup, suspension, video ]
+description: Follow our journey of installing new suspension on a 350z, complete with issues, triumphs and insightful photos. Future alignment plans revealed!
 ---
+
 So today I went back at the suspension of the car.
 
 ![Time lapse of lowering the suspension, in reverse](https://www.youtube.com/v/l5VsNjtZXKE?hl=en&hd=1)  
@@ -29,3 +31,4 @@ I drove around the neighborhood a bit with the race tires on to see if I had any
 After doing all the work I had to take the tires over to Charlie's place to put in the back of Ed's truck. Thankfully, Ed is going to haul the wheels/tires down to San Diego for the National Tour next weekend, and the El Toro the following weekend.
 
 I still didn't get a chance to do the alignment on the car, I'm hoping to get it to an alignment shop over lunch Monday or Tuesday. I just want them to check the Toe on the alignment for now, I also want to see what the other specs came out as. I may try to do some adjustments in San Diego on Friday/Saturday, but we'll see.
+

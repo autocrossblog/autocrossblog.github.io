@@ -6,8 +6,9 @@ last_modified_at: '2024-04-26T08:05:24+23:00'
 permalink: p240z-sunday-wiring-starts
 image: 
 categories: [ 240z, datsun, megasquirt ]
-
+description: Follow the author's process of modifying a sensor bracket and tackling wiring tasks for a vehicle, with an aim to start the car soon.
 ---
+
 Here's a quick update on the 240. I got up this morning and finished up modifications to the bracket I built for the VR sensor, you can see what it ended up looking like in the photo below. It's not all that pretty, but not too bad considering I made it out of a drill press, vertical sander, and a jig saw.
 
 ![VR Sensor Bracket](https://farm2.static.flickr.com/1089/872518561_ee2917d9ee_m.jpg)
@@ -32,3 +33,4 @@ Here are more photos from today.
 [VR Sensor Bracket](https://farm2.static.flickr.com/1392/872512225_882694dc4f_s.jpg)
 [VR Sensor Bracket](https://farm2.static.flickr.com/1006/873359360_8922d469fe_s.jpg)
 [Oil Cooler](https://farm2.static.flickr.com/1205/873353908_e4809af1b0_s.jpg)
+

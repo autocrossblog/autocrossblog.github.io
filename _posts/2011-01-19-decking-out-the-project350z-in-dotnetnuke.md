@@ -6,7 +6,9 @@ last_modified_at: '2024-04-30T11:05:25+23:00'
 permalink: decking-out-the-project350z-in-dotnetnuke
 image:
 categories: [ 350z, nissan, vinyl ]
+description: Discover how an avid DotNetNuke user, who also works for the corporation, proudly promotes this open source platform by sporting its logo on his car.
 ---
+
 
 I don't have an Autocross event coming up for a couple weeks, but I couldn't wait, I had to do something to the car.
 
@@ -23,3 +25,4 @@ and
 So I found it fitting that I should try to help promote the product in any way I can. That includes putting the logo on my car, front and back. [I've done it before, on a different car](https://www.flickr.com/photos/chammond/2291945232/), so why not on my current car!
 
 So what do you think? Am I crazy? 
+

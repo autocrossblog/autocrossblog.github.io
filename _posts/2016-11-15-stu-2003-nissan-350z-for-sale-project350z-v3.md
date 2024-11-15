@@ -8,7 +8,9 @@ categories: [ 350z, nissan ]
 redirect_from: 
     - "stu-2003-nissan-350z-for-saleâ€“project350z-v3"
     - stu-2003-nissan-350z-for-sale&ndash;project350z-v3
+description: Explore the ups and downs of the 2016 ProSolo series, experiences with the 350Z car, and anticipation for the upcoming finale and SoloNationals.
 ---
+
 **SOLD!**
 
 2003 Nissan 350z Touring $9000
@@ -88,3 +90,4 @@ The interior is the Frost interior, originally with the leather, heated, electri
 - Shift knob: Tomei composite
 - Shift boot: Alcantara one from eBay
 - Glass Tint: medium (approx 35%
+

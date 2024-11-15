@@ -6,7 +6,9 @@ last_modified_at: '2024-04-30T12:05:23+23:00'
 permalink: dropping-weight-in-the-350z-for-str-now-bsp
 image:
 categories: [ 350z, nissan, setup, bsp ]
+description: Follow the journey of modifying a 2004 Nissan 350Z for weight reduction, detailing modifications including lighter wheels, battery & seats.
 ---
+
 This blog post will be gradually updated over time as I figure out how to drop weight in the 350z prepping it for <s>STR in 2010</s> BSP for 2011.
 
 My 2003 350Z weighed in at 3075lbs in race trim, which included the 17" Enkei RPF1s, as little fuel as possible, and all the loose items in the rear of the car removed (carpet, spare tire, tools). I also had the stock exhaust removed, and a NISMO
@@ -23,3 +25,4 @@ Things I will be looking at:
 - Lighter battery
 - Lightweight flywheel
 - Suspension mods
+

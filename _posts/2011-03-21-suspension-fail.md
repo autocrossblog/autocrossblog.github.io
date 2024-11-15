@@ -6,7 +6,9 @@ last_modified_at: '2024-04-29T15:05:19+00:00'
 permalink: suspension-fail
 image:
 categories: [ 350z, nissan, setup, suspension ]
+description: Follow one man's day juggling fatherhood, work tasks, and car customisation in this candid and engaging blog post.
 ---
+
 No, the suspension didn't break, but man did Murphy show up in full force today.
 
 I'll do a full write-up with photos and what to do, where, etc., later this week, but for now let's talk about what went wrong!
@@ -36,3 +38,4 @@ I have a lot of photos from today posted on the [Suspension Flickr Set](https://
 And of course, here's the time lapse!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gpE_jgeJwMA?si=9e70sPnLm1unnNBp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

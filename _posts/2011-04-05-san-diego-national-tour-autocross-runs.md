@@ -6,7 +6,9 @@ last_modified_at: '2024-04-30T11:05:24+23:00'
 permalink: san-diego-national-tour-autocross-runs
 image:
 categories: [ 350z, nissan, setup, nationaltour, scca, video ]
+description: Explore the basics of car suspension tuning through this novice's journey, starting with Carroll Smith's renowned book, Tune to Win.
 ---
+
 So here we are, one day after the tour and I have all 6 of my runs squared away on video. Now to get them blogged about, in order of course.
 
 Car Class: BSP
@@ -50,4 +52,5 @@ On run 2 I went out and tried to throw down a good time, I was pretty frustrated
 **Day 2, Run 3 time: 51.020**
 
 Finally, a run I could be happy with, the first one all weekend. This run ended up putting me into 6th place in BSP and 1st in our own little ZSP class we had going internally in BSP.
+
 

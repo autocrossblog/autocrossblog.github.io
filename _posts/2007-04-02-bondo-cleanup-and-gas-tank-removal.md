@@ -5,8 +5,9 @@ date: '2007-04-02T09:33:22+00:00'
 permalink: bondo-cleanup-and-gas-tank-removal
 image: 
 categories: [ 240z, datsun ]
-
+description: Follow the latest updates on Project 240Z as we track progress from bondo and primer application to gas tank removal and upcoming deadlines.
 ---
+
 
 I sanded the area that I bondo'd yesterday on the 240Z. I also then cleaned and sprayed it with primer. Now the Project 240Z officially consists of 6, count them 6, colors. Blue, orange, white, black, brown, and grey. After that I removed the gas tank so I can have that cleaned up like we had done with the radiator last week. 
 
@@ -17,4 +18,5 @@ For now, I think Krekeler is safe, the car most likely won't be ready for the fi
 I'm still hoping to have the car running, and street legal before my deadline of May 6th, or 9th, whatever the date of the bet with Seelig was. Though, we'll see if I make that one or not.
 
 There's still a lot left to do on the car. The more I dig into it, the more I wish I had done all this crap back in the fall! I really should of stripped the car to begin with and sent it off for paint and body work!
+
 

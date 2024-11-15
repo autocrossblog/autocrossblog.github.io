@@ -6,7 +6,9 @@ last_modified_at: '2024-04-29T21:05:43+00:00'
 permalink: 350z-and-missouri-safety-and-emissions-tests
 image: PublishThumbnails/Windows-Live-Writer/dfc33fa77b34_14347/image_thumb.png
 categories: [ 350z, nissan ]
+description: Follow the journey of restoring and prepping a 2003 Nissan 350z for competitve autocrossing in SCCA's STU class. Stay tuned for updates.
 ---
+
 The car failed Missouri safety and emissions testing today. When I pulled out of the driveway this morning something happened up front, on the brakes, one of the wheels locked up, "SLIP" and "VDC" lights came on and wouldn't shut off. Restarted the car, got out, checked for anything noticeable and drove down the road to the gas station. At the station I decided to plug the OBDII scanner in and sure enough, it was throwing an ABS code.
 
 Told it to clear all codes to see if that would stay off, but after driving a short time the two lights came back on. Crap.
@@ -22,3 +24,4 @@ Also failed for a couple of exhaust issues, 3 of the 6 (8?) gaskets on the exhau
 Finally, they couldn't even do the emissions testing, because me resetting the codes to try to fix the ABS also cleared all the emissions sensors, so I have to drive the car for a while (how far?) after I get all the exhaust repairs done to try and get the sensors enough mileage to run through their data and hopefully be able to get the car back in for inspection on Friday morning.
 
 <a href="https://www.instagram.com/p/-P8sroOuJ3/?taken-by=thechristoc">https://www.instagram.com/p/-P8sroOuJ3/?taken-by=thechristoc</a>
+

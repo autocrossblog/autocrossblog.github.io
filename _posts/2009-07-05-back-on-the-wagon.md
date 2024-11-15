@@ -6,7 +6,9 @@ last_modified_at: '2024-05-07T23:55:25+23:00'
 permalink: back-on-the-wagon
 image: 
 categories: [ 240z, datsun ]
+description: The blog shares the author's journey of restoring a Datsun, detailing the removal of the rear hatch, plans for extra parts, and experimenting with pai...
 ---
+
 So I finally got some more time on the Datsun over the past few days. Friday I went down to my boss' house and used his bead blaster to clean up some of the suspension pieces (photos of those later this week).
 
 Today I needed to relax a bit (for the reason read this blog post) so I went into the garage and decided to pull the rear hatch off the car. I'm going to try to get rid of all the extra parts I have in the next week or two, and a hatch is one of the extras so I wanted to get the one off the car. That process went pretty quickly, and here are the results:
@@ -22,3 +24,4 @@ After that I started playing around with some paint stripper.Here's the result o
 I don't think I want to buy enough stripper to spray down the whole car! That'll be a lot of chemicals, though it does end up cleaner than if I went to completely sand the whole car down.
 
 More work later this week.
+

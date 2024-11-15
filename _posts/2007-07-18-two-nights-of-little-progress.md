@@ -6,8 +6,9 @@ last_modified_at: '2024-04-26T08:05:24+23:00'
 permalink: two-nights-of-little-progress
 image: 
 categories: [ 240z, datsun ]
-
+description: Follow the author's journey of restoring an '83 L28ET motor, from dealing with oil cooler attachments to managing garage organization and cost conside...
 ---
+
 Monday night I didn't get crap done on the project! I started to work on the oil filter/block attachment only to realize after driving around for 2 hours that I wasn't going to find any easy way to block off the oil cooler attachments for the 83 L28ET motor. By the time I got home from that, it was well after 9, and I needed to spend some time with my wife.
 
 Tuesday I ordered AN fittings to go from the metric 18mm x 1.5 oil cooler fittings to AN -10 fittings so that I can run steel braided lines to the new oil cooler I ordered. All of that should be here tomorrow.
@@ -25,3 +26,4 @@ After running around this evening I got to thinking about how much this project 
 I know I've got a few more things I'll have to purchase, but hopefully, I've got all the big items out of the way, at least for this phase of the project.
 
 More coming this week, and I promise to start doing video again!
+
