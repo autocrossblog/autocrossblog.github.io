@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prepping for the 350z Stud Install
-description: A blog post about prepping for Stud installation on a 2004 Nissan 350z
+description: A blog post about prepping for Stud installation on a 2004 Nissan 350z to better mount wheels.
 date: '2011-02-12T01:52:45+00:00'
 last_modified_at: '2024-04-25T16:21:05+00:00'
 permalink: prepping-for-the-350z-stud-install
