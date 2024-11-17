@@ -1,15 +1,14 @@
 ---
 layout: post
-title: One Year Later
+title: SpecFRS - One Year Later
 date: '2022-06-27T10:00:15+00:00'
 permalink: one-year-later
 image: 6-27-2022/LightPole-1.jpg
 categories: [ autocross, fr-s, ssc, setup, accident ]
 featured: false
 description: Reflecting on a year since his beloved FR-S car's demise, the author passionately plans for a new autocross project, reigniting his racing spirit.
+last_modified_at: '2024-11-16T20:21:05+00:00'
 ---
-
-
 I realized a couple of days ago that it had been 12 months since the FR-S met its unfortunate demise. 
 
 I have only autocrossed once since then, in Dave's Mustang at the 2021 Solo Nationals. 
