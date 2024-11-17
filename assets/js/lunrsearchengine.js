@@ -467,7 +467,7 @@ var documents = [{
     }, {
     "id": 93,
     "url": "https://www.autocrossblog.com/one-year-later",
-    "title": "One Year Later",
+    "title": "SpecFRS - One Year Later",
     "body": "2022/06/27 - I realized a couple of days ago that it had been 12 months since the FR-S met its unfortunate demise. I have only autocrossed once since then, in Dave’s Mustang at the 2021 Solo Nationals. That’s going to change though. I’ve got the bug. I need to find a ride. I need a project car, I need a toy. Sometime later this year the FR-S will be replaced. The FR-S ended up going north, I think towards Minneapolis. The guy who purchased it owns a body shop, I was told it would end up being a track car, but I haven’t seen any progress pictures on it. "
     }, {
     "id": 94,
@@ -1192,7 +1192,7 @@ var documents = [{
     }, {
     "id": 238,
     "url": "https://www.autocrossblog.com/two-years-ago",
-    "title": "Two years ago",
+    "title": "Project240z - Two years ago the motor blew up",
     "body": "2009/08/12 - Two years ago today was the day that the Datsun toasted Motor #1 on it’s first autocross run! Here’s a shot of that first competition run.  And then a short time later (same run) here’s my getting out to push it Here’s what we found when we just happened to pull plug #2 And then this is what it looked like when I went to drain the oil from the motor A few things have happened in the two years since that fateful day. A few months later I purchased a 2004 Corvette Z06 and autocrossed that for a year. I sold the Corvette. I got the Datsun running again with another motor, same turbo setup. We moved to Colorado. www. going2colorado. com In the next few weeks I hope to get more of the 240 back together, starting to work on the electrical system and such. Then during the first week of September the car goes to www. hanksvillehotrods. com for a new exhaust, maybe I can talk them into a cage too ;) "
     }, {
     "id": 239,
@@ -2048,7 +2048,7 @@ var documents = [{
     "id": 409,
     "url": "https://www.autocrossblog.com/updated-the-videos-again",
     "title": "Updated the videos again",
-    "body": "2007/01/30 - "
+    "body": "2007/01/30 - This blog post is apparently empty… Not sure what was originally here! "
     }, {
     "id": 410,
     "url": "https://www.autocrossblog.com/pulling-the-motor-out-of-the-project-240z",
