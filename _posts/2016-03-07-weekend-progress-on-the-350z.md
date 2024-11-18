@@ -3,7 +3,7 @@ layout: post
 title: Weekend progress on the 350z
 date: '2016-03-07T00:13:53+00:00'
 permalink: weekend-progress-on-the-350z
-image: /assets/images/PublishThumbnails/Open-Live-Writer/Weekend-progress-on-the-350z_140A7/2016-03-05 21.33.33_2.jpg
+image: "/assets/images/PublishThumbnails/Open-Live-Writer/Weekend-progress-on-the-350z_140A7/2016-03-05 21.33.33_2.jpg"
 categories: [ 350z, nissan, corvette ]
 description: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
 last_modified_at: '2024-11-18T01:15:43+00:00'
