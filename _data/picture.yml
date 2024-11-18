@@ -5,18 +5,36 @@ presets:
     formats: [original]
     widths: [200, 400, 800, 1600, 2000]
     link_source: false
+    format_quality:
+      webp: 50
+      avif: 30
+      jp2: 30
+      jpg: 65
+    strip_metadata: true
 
   direct:
     markup: direct_url
     formats: [original]
     widths: [200, 400, 800, 1600, 2000]
     fallback_width: 1600
+    format_quality:
+      webp: 50
+      avif: 30
+      jp2: 30
+      jpg: 65
+    strip_metadata: true
 
   directred:
     markup: direct_url
     formats: [original]
     widths: [400]
     fallback_width: 400
+    format_quality:
+      webp: 50
+      avif: 30
+      jp2: 30
+      jpg: 85
+    strip_metadata: true
 
   direct200:
     # markup: direct_url
@@ -24,25 +42,55 @@ presets:
     formats: [ original] # Must be an array, and order matters.
     widths: [200, 400, 800, 1600, 2000] # Must be an array.
     size: 400px
+    format_quality:
+      webp: 50
+      avif: 30
+      jp2: 30
+      jpg: 65
+    strip_metadata: true
 
   directsrc:
     markup: naked_srcset
     widths: [200, 400, 800, 1600, 2000]
+    format_quality:
+      webp: 50
+      avif: 30
+      jp2: 30
+      jpg: 65
+    strip_metadata: true
 
   blogcrop:
     crop: '16:9' # remoted crop for now 
     formats: [ original]
     widths: [200, 400, 800, 1600, 2000]
     link_source: false
+    format_quality:
+      webp: 50
+      avif: 30
+      jp2: 30
+      jpg: 65
+    strip_metadata: true
     
   hpslider:
     formats: [ original]
     widths: [400, 1600, 2000]
     fallback_width: 1600
     link_source: false
+    format_quality:
+      webp: 50
+      avif: 30
+      jp2: 30
+      jpg: 65
+    strip_metadata: true
 
   portthumb:  
     formats: [ original]
     widths: [200, 400, 600]
     link_source: false
     fallback_width: 600
+    format_quality:
+      webp: 50
+      avif: 30
+      jp2: 30
+      jpg: 65
+    strip_metadata: true
