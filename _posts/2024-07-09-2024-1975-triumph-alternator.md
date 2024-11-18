@@ -31,11 +31,11 @@ I started by getting back over to the storage unit and grabbing the battery out 
 
 With the car home I decided it was time to order an alternator, first looking at Moss Motor's website to see what they had in terms of an Alternator for a 1975 Triumph TR6. They had a rebuilt unit, available for cars with an air pump, for $450, quite pricey (I didn't realize at the time that included the refundable $200 core charge). I thought there might be a better option so I searched around, initially at local autoparts stores and online, but I simply couldn't find an alternator that would work. After searching for a bit I started stumbling on some threads in old british car forums suggesting that you could swap out a 75 alternator with one off of a 78-80 Ford Fiesta.
 
-{% picture 2024/July/TR6Alternator/TR6Alternator-2.jpg --alt Existing Lucas alternator in the 1975 Triumph TR6  %}
+{% picture 2024/July/TR6Alternator/TR6Alternator-2.jpg title="Existing Lucas alternator in the 1975 Triumph TR6" --alt Existing Lucas alternator in the 1975 Triumph TR6  %}
 
 From reading, it appeared that it should simply be a drop in replacement without modification to wiring, so I figured I would go that route, a benefit of the change would be improved amperage of the Fiesta alternator as well. I ordered a unit from RockAuto, part number 13107N. Upon receipt I realized it wouldn't quite be as drop in friendly as I had hoped. When I tried to mount it to the side of the engine I realized that the holes wouldn't align to allow me to mount it and use the tensioner that was used on the previous Lucas alternator.
 
-{% picture 2024/July/TR6Alternator/TR6Alternator-3.jpg --alt Old and New alternator sitting on the garage floor  %}
+{% picture 2024/July/TR6Alternator/TR6Alternator-3.jpg title="Old and New alternator sitting on the garage floor" --alt Old and New alternator sitting on the garage floor  %}
 
 ## Getting Help for the Triumph Alternator
 
@@ -70,7 +70,7 @@ So off to RockAuto I went, ordering ANOTHER 13107N alternator for a 78-80 Ford F
 
 I seriously considered taking the new alternator to Autozone to test it out BEFORE I did anything to it, but went ahead and began the process of clocking it. This time however, things went differently. When I pulled it apart I immediately noticed two pieces down inside that stuck out and ultimately blocked the shaft of the alternator from being reinserted. They looked awfully familiar, just like the broken piece of randomness I found after clocking the other new alternator. What I figured out was that I had apparently broken those bits off in the first new alternator, though I only found one piece, not two from that one.
 
-{% picture 2024/July/TR6Alternator/TR6Alternator-7.jpg --alt Picture of voltage regulator brushes, not from a Triumph alternator, just a screengrab from a YouTube video  %}
+{% picture 2024/July/TR6Alternator/TR6Alternator-7.jpg title="Picture of voltage regulator brushes, not from a Triumph alternator, just a screengrab from a YouTube video" --alt Picture of voltage regulator brushes, not from a Triumph alternator, just a screengrab from a YouTube video  %}
 
 Anyways, this time around I made sure not to break those off, I think they are brushes, they ultimately are part of the voltage regulator and press up against part of the copper shaft when the alternator is spinning. I ended up having to take the voltage regulator off the back of the case, tie a string around those two spring loaded brushes to push them back into their position and hold them in place. I then reinserted the voltage regulator, finished clocking the body and then cut/removed the string. This allowed the brushes so go back in place.
 
@@ -82,7 +82,7 @@ As soon as I put the new alternator in, hooked up the wires and the belt, I star
 
 A couple of last items for anyone who stumbles on this post when working on their 1975 Triumph TR6 alternator. The alternator actually has 3 wires, though you'll see above in the pictures that I only have two hooked up, and I only had 2 hooked up on the lucas alternator that I pulled out. The third wire is another 12V, I believe that third wire was used on the OEM alternator, but on newer units it isn't required. The wire was just sitting free in the engine bay as seen in the photo below. I will tie it off to keep it safely not connected to anything.
 
-{% picture 2024/July/TR6Alternator/TR6Alternator-4.jpg --alt Third wire for TR6 alternator  %}
+{% picture 2024/July/TR6Alternator/TR6Alternator-4.jpg title="Third wire for TR6 alternator" --alt Third wire for TR6 alternator  %}
 
 ## Extra alternators?
 So now I have a couple of alternators sitting around the garage. I figure if I can order a new voltage regulator I can repair the 13107N that hasn't been used. I'll also hold on to the Lucas unit in case I need to CORE that at some point.
