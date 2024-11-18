@@ -3,10 +3,11 @@ layout: post
 title: Autocross Crash and Why You Need Autocross Insurance
 description: "My story about an autocross crash and why you should have insurance coverage"
 date: '2022-01-19T13:30:15+00:00'
-last_modified_at: '2024-04-26T11:09:43+00:00'
+last_modified_at: '2024-11-17T22:09:43+00:00'
 permalink: autocross-accident-why-you-need-autocross-insurance
 image: 6-13-2021/side2.jpg
 categories: [ autocross, fr-s, ssc, setup, accident ]
+keywords: "autocross, insurance, crash, accident, fail"
 featured: false
 ---
 
@@ -54,6 +55,6 @@ If you're looking for a track project car, feel free to reach out to me, let's s
 
 What's next for me? Well right now I have an order in for a new Nissan Z, and a Ford F-250 truck. I have no idea when either of those will be built.... 
 
-
-
+## Update: 11/17/2024
+I ended up cancelling my Nissan Z order, have had the 2022 F-250 for just about 2 years now. What's next? Coming soon
 

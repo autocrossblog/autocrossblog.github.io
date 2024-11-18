@@ -4,7 +4,6 @@ title: Project240z - Two years ago the motor blew up
 date: '2009-08-12T23:00:10+00:00'
 permalink: two-years-ago
 image: 2009/twoyearsago.jpg
-last_modified_at: 
 categories: [ 240z, datsun ]
 description: Relive the journey of a Datsun 240z that toasted its first motor in autocross, its revival, and the ongoing journey in car restoration.
 last_modified_at: '2024-11-16T20:21:05+00:00'
