@@ -8,9 +8,7 @@ image:
 categories: [ 350z, nissan, suspension, parts, forsale ]
 description: Discover the process of restoring a 350z back to stock, battling stubborn parts, breaking tools, and eventually triumphing in this car repair journey.
 ---
-
 **Update 11/18/2024: This post is pretty old, nothing for sale still ;)**
-
 
 The suspension is now in St. Louis Missouri and available for $1000 plus shipping, paid via Paypal. That includes
 **Front Suspension**

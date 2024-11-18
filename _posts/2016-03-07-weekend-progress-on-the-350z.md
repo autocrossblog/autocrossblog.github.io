@@ -2,14 +2,12 @@
 layout: post
 title: Weekend progress on the 350z
 date: '2016-03-07T00:13:53+00:00'
-last_modified_at: '2024-04-29T16:05:24+23:00'
 permalink: weekend-progress-on-the-350z
-image:
+image: /assets/images/PublishThumbnails/Open-Live-Writer/Weekend-progress-on-the-350z_140A7/2016-03-05 21.33.33_2.jpg
 categories: [ 350z, nissan, corvette ]
-description: Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest.
+description: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
+last_modified_at: '2024-11-18T01:15:43+00:00'
 ---
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W_L9OQWg1vE?si=Yeplfbtnr_ntK6UL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 It was a good weekend on the 350z, I made progress on pretty much everything I needed/wanted to do to start the 2016 season, with only the corner balance and wheel alignment remaining. Those are scheduled for Monday at [Solo Performance](https://www.SoloPerformance.com).
