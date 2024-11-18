@@ -2,14 +2,15 @@
 layout: post
 title: BSP 350z Suspension Parts and Exhaust for Sale
 date: '2012-01-22T23:59:54+00:00'
-last_modified_at: '2024-04-30T10:05:43+00:00'
+last_modified_at: '2024-11-18T01:05:43+00:00'
 permalink: bsp-350z-suspension-parts-and-exhaust-for-sale
 image:
 categories: [ 350z, nissan, suspension, parts, forsale ]
 description: Discover the process of restoring a 350z back to stock, battling stubborn parts, breaking tools, and eventually triumphing in this car repair journey.
 ---
 
-Update: 1/29/2013 
+**Update 11/18/2024: This post is pretty old, nothing for sale still ;)**
+
 
 The suspension is now in St. Louis Missouri and available for $1000 plus shipping, paid via Paypal. That includes
 **Front Suspension**
