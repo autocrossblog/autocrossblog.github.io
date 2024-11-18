@@ -1,16 +1,15 @@
 ---
 layout: post
 title: All in a day's paint
-description: 
 date: '2007-07-16T09:14:37+00:00'
-last_modified_at: '2024-05-29T13:05:24+23:00'
+last_modified_at: '2024-11-18T23:50:08+00:00'
 permalink: all-in-a-day-s-paint
 image: 
 categories: [ 240z, datsun, megasquirt ]
 redirect_from:
     - all-in-a-day&apos;s-paint
     - all-in-a-day%27s-paint
-
+description: "Follow the journey of DIY car repairs and modifications in a garage. Witness the transformation of an old vehicle into something new and learn along."
 ---
 After yesterday's fun, Eric and I spent some time in the garage today. I was awoken this morning around 8:00am by the doorbell; the Dish Network guy showed up right on time. More on that topic tomorrow on [The Mad Blogger](https://themadblogger.com/). After I got the Dish guy going, I sent Eric an SMS to let him know I was out in the garage working.
 

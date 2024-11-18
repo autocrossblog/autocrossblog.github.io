@@ -6,7 +6,8 @@ date: '2011-04-04T01:16:23+00:00'
 last_modified_at: '2024-05-17T12:05:24+23:00'
 permalink: san-diego-national-tour-day-2
 image:
-categories: [ 350z, nissan, setup, nationaltour ]
+categories: [ 350z, nissan, setup, nationaltour, national-tour ]
+last_modified_at: '2024-11-18T23:50:08+00:00'
 ---
 I was pretty down today. Going into the first set of runs I had a headache that didn't seem to want to go away and I wasn't happy with my performance the day before. I was actually sitting there thinking, why do I do this? I really was thinking, I love seeing friends and talking to everyone, but I was pretty down on the racing part of things.
 

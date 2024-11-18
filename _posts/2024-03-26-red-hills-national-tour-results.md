@@ -3,11 +3,12 @@ layout: post
 title: 
 date: '2024-03-30T15:00:15+00:00'
 permalink: red-hills-national-tour
-description: 
 image: 2024/March/Moultrie/RedHillsNationalTour-6.jpg
-categories: [ autocross, nationaltour, scca, mustang, friends ]
+categories: [ autocross, nationaltour, national-tour, scca, mustang, friends ]
 featured: false
 comments: true
+last_modified_at: '2024-11-18T23:50:08+00:00'
+description: "Embark on a thrilling autocross journey in Moultrie, Georgia for the 2024 Red Hills Solo National Tour; filled with spins, rain, and a relentless driv..."
 ---
 [Last Thursday I wrote a blog post about the trip down to Moultrie Georgia for the 2024 Red Hills Solo National Tour](https://www.autocrossblog.com/roadtrip-to-moultrie), this post will serve as the event review from the event. My first National Tour event in a number of years. 
 
@@ -50,4 +51,3 @@ I knew I needed to put a good clean, fast, run down on my third run, so I went o
 Promptly after third runs were done I started packing things up for the trip home. Dave and Beth planned to make the drive over 2 days, getting home later on Monday, so I hopped in with Sean and Melissa to make the full drive home. Big thanks to both of them, and Dave and Beth, for putting up with me over the weekend!
 
 Overall I was pleased with how I did for my first real event in almost a year, and first time driving the Mustang since September 2021. I look forward to getting more adjusted to the ride and seeing how else the rest of the year goes!
-
