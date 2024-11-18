@@ -9,7 +9,7 @@ image: 2024/August/SoloNats-3.jpg
 categories: [ scca, solonationals, lincoln ]
 featured: true
 comments: true
-# last_modified_at: '2024-07-08T16:50:08+00:00'
+last_modified_at: '2024-11-18T23:50:08+00:00'
 ---
 A month late, it's time to blog about the 2024 Tire Rack SCCA Solo National Championships...
 
