@@ -9,7 +9,7 @@ image: 2024/August/CSM-1.jpg
 categories: [ scca, nationaltour, national-tour, grissom, indiana ]
 featured: false
 comments: true
-last_modified_at: '2024-11-18T23:50:08+00:00'
+last_modified_at: '2024-11-17T23:50:08+00:00'
 ---
 We are what, less than 4 weeks from the 2024 Solo National Championships? I decided I better get back to an event and get some practice in. And boy am I glad I did, I sucked, I need to get some more reps!
 

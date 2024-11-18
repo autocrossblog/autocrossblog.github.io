@@ -9,7 +9,7 @@ image: 2024/May/CAMChallenge/BethCones.jpg
 categories: [ autocross, nationaltour, national-tour, scca, mustang, friends, st.louis, local, cam ]
 featured: false
 comments: true
-last_modified_at: '2024-11-18T23:50:08+00:00'
+last_modified_at: '2024-11-17T23:50:08+00:00'
 ---
 Last week, the thrill of autocross took over the Family Arena in St. Charles, Missouri, with the 2024 St. Louis CAM Challenge event. Competitors in various classes including CAM (Classic American Muscle) and others like XA/XB and Club Spec battled it out on the asphalt for top honors in both class competition and the challenge rounds.
 

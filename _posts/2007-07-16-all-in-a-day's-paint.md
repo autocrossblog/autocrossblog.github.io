@@ -2,7 +2,7 @@
 layout: post
 title: All in a day's paint
 date: '2007-07-16T09:14:37+00:00'
-last_modified_at: '2024-11-18T23:50:08+00:00'
+last_modified_at: '2024-11-17T23:50:08+00:00'
 permalink: all-in-a-day-s-paint
 image: 
 categories: [ 240z, datsun, megasquirt ]

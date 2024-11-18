@@ -7,7 +7,7 @@ image: 2024/March/Moultrie/RedHillsNationalTour-6.jpg
 categories: [ autocross, nationaltour, national-tour, scca, mustang, friends ]
 featured: false
 comments: true
-last_modified_at: '2024-11-18T23:50:08+00:00'
+last_modified_at: '2024-11-17T23:50:08+00:00'
 description: "Embark on a thrilling autocross journey in Moultrie, Georgia for the 2024 Red Hills Solo National Tour; filled with spins, rain, and a relentless driv..."
 ---
 [Last Thursday I wrote a blog post about the trip down to Moultrie Georgia for the 2024 Red Hills Solo National Tour](https://www.autocrossblog.com/roadtrip-to-moultrie), this post will serve as the event review from the event. My first National Tour event in a number of years. 
