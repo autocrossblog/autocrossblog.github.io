@@ -12,7 +12,7 @@ categories: [ 350z, nissan, setup, suspension, koni, install, tutorial ]
 
 *Disclaimer: This article is just an example of a task we completed on the Project 350Z. We do not recommend you try this yourself unless you are a trained professional. We cannot be held liable for any damage to your vehicle or harm you cause to yourself while working on your vehicle. Please use safety equipment, our work was done on a vehicle lift, if you use a jack, use jack stands for safety.*
 
-# [Project 350Z](/category/350z/) Koni Sport Install
+## [Project 350Z](/category/350z/) Koni Sport Install
 
 I finally broke down and bought some Koni Sports for the [Project Z](/category/350z/). I say finally, but they really have only been stateside for 2 months now, so I didn't wait all that long to order them. At the end of this write-up, you'll find a summary of my autocross career, to get a better understanding of the author of this piece.
 
@@ -62,9 +62,9 @@ Repeat this process on the other rear shock for the car. This is what it looks l
 **Front Shock Install**
 The front shock install requires a bit more work than the rear install did. You will also need a spring compressor of some sort to disassemble the front shock units. I borrowed this tool from a local autozone. Basically the way it works is you pay for the tool and you return it when you are done if you want your money back. This isn't like the Wal-mart rental policy; this is actually a legit program.
 
-The FSM tells you to remove the wheel, and then the under cover. I never did figure out what the â€œunder cover" was that it referenced, but I obviously didn't have to remove it to get the shock out if I couldn't find it.
+The FSM tells you to remove the wheel, and then the under cover. I never did figure out what the "under cover" was that it referenced, but I obviously didn't have to remove it to get the shock out if I couldn't find it.
 
-(This step differs on cars with TCS and VDC, this step was performed on a car with only TCS) Next you will remove the Wheel sensors from the back of the hub. The wheel sensor has a cable that is marked with the yellow arrows in this image . This image shows what the sensor looks like mounted on the back of the hub. . When removing the wheel sensor be careful, the FSM specifically says not to pull on the wheel sensor.  Pull out the two grommets where the wire is attached to the shock body, and then use a wrench or socket to remove the bolt holding the sensor itself to the hub. Place the sensor up and out of the way, try not to twist the cable too much, when you go to install the sensor again make sure that the white line does not twist upon install. I set the sensor on what I would assume is the â€œunder cover" towards the front of the car to keep it and the cable out of the way while I removed the shock.   .
+(This step differs on cars with TCS and VDC, this step was performed on a car with only TCS) Next you will remove the Wheel sensors from the back of the hub. The wheel sensor has a cable that is marked with the yellow arrows in this image . This image shows what the sensor looks like mounted on the back of the hub. . When removing the wheel sensor be careful, the FSM specifically says not to pull on the wheel sensor.  Pull out the two grommets where the wire is attached to the shock body, and then use a wrench or socket to remove the bolt holding the sensor itself to the hub. Place the sensor up and out of the way, try not to twist the cable too much, when you go to install the sensor again make sure that the white line does not twist upon install. I set the sensor on what I would assume is the "under cover" towards the front of the car to keep it and the cable out of the way while I removed the shock.   .
 
 Next remove the nut that holds the brake hose to the shock absorber . Pull the mount off of the shock and push the brake line aside.  
     {% picture ProjectZ/KoniInstall/350Z-Koni-Install-51.jpg %}

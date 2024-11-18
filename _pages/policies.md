@@ -4,10 +4,10 @@ title: AutocrossBlog.com Policies
 permalink: /policies
 comments: false
 ---
-# Comment Policy
+## Comment Policy
 Don't be a dick. We reserve the right to remove or censor any comments posted on the site. 
 
-# Privacy Policy
+## Privacy Policy
 
 _Last Updated: 1/17/2024_
 
@@ -52,6 +52,5 @@ AutocrossBlog is not responsible for the practices employed by websites linked t
 
 Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including websites, which have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
 
-
-# Terms of Use
+## Terms of Use
 You agree to give us all your rights as a human for reading this site. (Just kidding, unless you want to)

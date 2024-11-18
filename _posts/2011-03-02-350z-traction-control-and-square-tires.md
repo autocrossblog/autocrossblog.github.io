@@ -9,7 +9,7 @@ categories: [ 350z, nissan, setup ]
 description: Engage in the debate about the proposed move of the 350z from BSP to ESP in SCCA Autocross classing. Discover the pros and cons discussed on the SCCAF...
 ---
 
-So I experienced something while driving the 350z yesterday that I haven't experienced in quite a while. Typically the 350z comes with a staggered tire setup, meaning that the front tires are usually a smaller size than the rears. A week or two ago I got some new street tires put on the car, the new tires are â€œsquare" meaning the fronts are the same size as the rear.
+So I experienced something while driving the 350z yesterday that I haven't experienced in quite a while. Typically the 350z comes with a staggered tire setup, meaning that the front tires are usually a smaller size than the rears. A week or two ago I got some new street tires put on the car, the new tires are "square" meaning the fronts are the same size as the rear.
 
 This actually gives you the ability to rotate the wheels/tires (assuming the wheels are the same size), which can go a long way in making your tires last longer. The old set I had taken off were actually okay in the front, but the rears were bald, being able to rotate could have helped prevent that.
 

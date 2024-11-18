@@ -9,7 +9,7 @@ categories: [ 350z, nissan ]
 description: Follow our 350z's transformation with matte black vinyl, chosen by Facebook poll. Complete with a time-lapse video by the end of June.
 ---
 
-A week ago I posted a â€œquestion" on Facebook to see what color we should wrap the 350z in. 
+A week ago I posted a "question" on Facebook to see what color we should wrap the 350z in. 
 
 Well it looks like the final tally is 31/13/13
 
