@@ -8,7 +8,7 @@
                     <div class="wrapthumbnail">
                         <a href="{{ site.baseurl }}{{ post.url }}">
                             {% if post.image %}
-                                {% picture {{ post.image }} class="featured-box-img-cover lazyimg"  --alt {{ post.title }} %}
+                                {% picture {{ post.image }} class="featured-box-img-cover lazyimg" title="{{ page.title}}" --alt {{ post.title }} %}
                             {% else %}
                                 <!-- do something here -->
                             {% endif %}

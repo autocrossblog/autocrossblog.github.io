@@ -6,7 +6,7 @@
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ post.url }}">
                 {% if post.image %}
-                    {% picture {{ post.image }} class="img-fluid" --alt {{ post.title }} %}
+                    {% picture {{ post.image }} class="img-fluid" title="{{ page.title}}" --alt {{ post.title }} %}
                 {% endif %}
             </a>
         </div>

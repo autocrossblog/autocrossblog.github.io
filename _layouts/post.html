@@ -60,7 +60,7 @@ featured_image:  something.jpg
                 
                 <!-- Post Featured Image -->
                 {% if page.image %}
-                    {% picture featured {{ page.image }} class="featured-image img-fluid lazyimg" itemprop="image" --alt {{ page.title}} %}
+                    {% picture featured {{ page.image }} class="featured-image img-fluid lazyimg" itemprop="image" title="{{ page.title}}" --alt {{ page.title}}  %}
                 {% endif %}
                 <!-- End Featured Image -->
 

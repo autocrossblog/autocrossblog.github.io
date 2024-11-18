@@ -6,7 +6,7 @@ permalink: /about
 author: Chris Hammond
 comments: false
 ---
-{% picture About-1.jpg --alt Chris and Bill Hammond 2008 Topeka KS %}
+{% picture About-1.jpg  title="Chris and Bill Hammond 2008 Topeka KS in front of Chris' Red 2004 Z06" --alt Chris and Bill Hammond 2008 Topeka KS %}
 
 ## Another blog from [Chris Hammond](https://www.chrishammond.com).
 
