@@ -5,7 +5,7 @@ date: '2024-11-18T13:20:15+00:00'
 permalink: solo2-org
 description: "Where did the Ultimate Autocross Website go?"
 keywords: "autocross, solo2.org"
-image: 2024/November/Solo2-org.webp
+image: 2024/November/solo2-org.webp
 categories: [ autocross, website ]
 featured: true
 comments: true
