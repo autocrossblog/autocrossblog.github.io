@@ -3,7 +3,7 @@ layout: post
 title: Project 240z, What's next?
 description: "A blog post with a schedule of planned work from July 2007 for the 240z"
 date: '2007-07-06T00:24:52+00:00'
-last_modified_at: '2024-05-29T13:06:03+23:00'
+last_modified_at: 2024-10-09T13:21:54-05:00
 permalink: project-240z-what-s-next
 image: 
 categories: [ 240z, datsun, megasquirt ]
@@ -30,4 +30,5 @@ Tasks for the next few days.
 If anyone is looking for anything to do on Saturday let me know! I can use the help!
 
 Next week I'm hoping to recruit Nick Jackson to come over and help me running wires in the car for the Megasquirt
+
 

@@ -3,7 +3,7 @@ layout: post
 title: The 350z goes on a Diet
 description: Losing weight in a Nissan 350z for autocross
 date: '2011-01-31T00:49:00+00:00'
-last_modified_at: '2024-04-25T16:21:05+00:00'
+last_modified_at: 2024-10-09T13:21:54-05:00
 permalink: the-350z-goes-on-a-diet
 image:
 categories: [ 350z, nissan, setup, weight ]
@@ -23,6 +23,7 @@ I could have left the amps in and the speakers, and only removed the sub enclosu
 All in all I pulled out about 100lbs of equipment from the car. 45 for the sub+enclosure, 40 for the amps/bracket, and probably 5-6lbs of wiring (remember it wasn't using the stock wiring, the power and grounds were 2 gauge, HUGE wires. The 4 speakers and the stereo itself easily weighing in around 10lbs, for a total of around 100lbs.
 
 Not a bad diet for a day's work. I'll talk more about what I am doing for tunes in tomorrow's blog post where I review the first autocross of 2011. For now here's the video from the stereo removal.  <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:739a7655-a90d-4d42-b929-2a56448fe3b4" class="wlWriterEditableSmartContent"><div id="64bd917b-9b78-426d-b119-19a4b59e16c1" style="margin: 0px; padding: 0px; display: inline;"><div><a href="https://www.youtube.com/watch?v=GGqoF9s0djQ&amp;feature=youtube_gdata_player" target="_new"><img src="/assets/images/PublishThumbnails/Windows-Live-Writer/The-350z-goes-on-a-Diet_12F66/videoc902b241d5d3.jpg" style="border-style: none" galleryimg="no" onload="var downlevelDiv = document.getElementById('64bd917b-9b78-426d-b119-19a4b59e16c1'); downlevelDiv.innerHTML = "&lt;div&gt;&lt;object width=\"448\" height=\"252\"&gt;&lt;param name=\"movie\" value=\"https://www.youtube.com/v/GGqoF9s0djQ?hl=en&amp;hd=1\"&gt;&lt;\/param&gt;&lt;embed src=\"https://www.youtube.com/v/GGqoF9s0djQ?hl=en&amp;hd=1\" type=\"application/x-shockwave-flash\" width=\"448\" height=\"252\"&gt;&lt;\/embed&gt;&lt;\/object&gt;&lt;\/div&gt;";" alt=""></a></div></div><div style="width:448px;clear:both;font-size:.8em">350z Stereo Removal (autocross weight savings)</div></div>
+
 
 
 

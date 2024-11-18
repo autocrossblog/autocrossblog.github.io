@@ -2,7 +2,7 @@
 layout: post
 title: Back on the wagon
 date: '2009-07-05T23:52:31+00:00'
-last_modified_at: '2024-05-07T23:55:25+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: back-on-the-wagon
 image: 
 categories: [ 240z, datsun ]
@@ -24,4 +24,5 @@ After that I started playing around with some paint stripper.Here's the result o
 I don't think I want to buy enough stripper to spray down the whole car! That'll be a lot of chemicals, though it does end up cleaner than if I went to completely sand the whole car down.
 
 More work later this week.
+
 

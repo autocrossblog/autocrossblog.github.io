@@ -2,7 +2,7 @@
 layout: post
 title: It runs again!
 date: '2009-05-09T17:42:24+00:00'
-last_modified_at: '2024-04-30T11:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: it-runs-again
 image: 
 categories: [ 240z, datsun, engine, motor ]
@@ -36,5 +36,6 @@ Crank crank vroom vroom vroom, turbo whistle
 It was a successful day!
 
 So tomorrow I'll get the radiator back on the car, and put the exhaust system on the car, and we'll see what she does then. The car is nowhere near done, but it feels great to have a car that starts again!!!
+
 
 

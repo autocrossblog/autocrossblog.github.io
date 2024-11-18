@@ -2,7 +2,7 @@
 layout: post
 title: Packing the garage, driving the car
 date: '2009-07-20T01:20:10+00:00'
-last_modified_at: '2024-04-30T11:05:28+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: packing-the-garage-driving-the-car
 image: 
 categories: [ 240z, datsun, video ]
@@ -18,5 +18,6 @@ The video is in HD, so watch it that way ;)
 https://www.youtube.com/v/pbd7GbTyAiU
 
 After driving it around I even got more of the front end put together, with a grill and air dam installed, I'll get a picture of that configuration tomorrow.
+
 
 

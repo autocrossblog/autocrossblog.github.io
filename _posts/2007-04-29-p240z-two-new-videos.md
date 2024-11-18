@@ -6,6 +6,7 @@ permalink: p240z-two-new-videos
 image: 
 categories: [ 240z, datsun ]
 description: Explore our latest blog post featuring new updates and improvements on the 240Z project, including a garage tidy-up and brake parts removal.
+last_modified_at: 2024-11-15T12:15:17-06:00
 ---
 
 I've posted two new videos for the 240Z. Yesterday I spent some time finishing up the work bench and organizing the garage a bit.
@@ -18,6 +19,7 @@ And then Russ came over and we spent a few hours doing a few necessary things. W
 
 
  
+
 
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Race tire mounting in the San Francisco Bay Area (Peninsula)
 date: '2011-01-16T04:18:45+00:00'
-last_modified_at: '2024-05-07T23:55:25+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: race-tire-mounting-in-the-san-francisco-bay-area-peninsula
 image:
 categories: [ 350z, nissan, setup ]
@@ -20,5 +20,6 @@ I'll be tasked now with finding a local shop who will hopefully do it for cheape
 Getting them shipped back though might make that cost prohibitive
 
 Anyone got any leads to a good tire mounting shop on the peninsula in  the San Francisco Bay Area?
+
 
 

@@ -3,7 +3,7 @@ layout: post
 title: 350z BSP Parts Configuration
 description: A blog post with details of our 2004 350z setup for BSP
 date: '2011-02-04T03:16:23+00:00'
-last_modified_at: '2024-04-25T16:21:05+00:00'
+last_modified_at: 2024-10-09T13:21:54-05:00
 permalink: 350z-bsp-parts-configuration
 image:
 categories: [ 350z, nissan, setup, wheels ]
@@ -43,3 +43,4 @@ Each part will be marked as Planned or Installed depending on the current status
 
 ## Other
 - TBD
+

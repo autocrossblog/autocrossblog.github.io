@@ -6,6 +6,7 @@ permalink: p240z-update-broken-craftsmen-power-tools
 image: 
 categories: [ 240z, datsun ]
 description: This post shares a weekend experience filled with car repair plans, social outings, and a failed video recording attempt. A mix of relaxation and frus...
+last_modified_at: 2024-11-15T12:15:17-06:00
 ---
 
  
@@ -22,4 +23,5 @@ I changed and went outside, setup the laptop to record video and go to work. I w
 The while taking it out of the box I noticed the darn thing was broken. Not likely broken to the point I couldn't use it, but I decided nonetheless to box it back up and take it back to Sears tomorrow to get a replacement. 
  
 So that was the end of work tonight, I couldn't go any further on the plate and had some work to do on a few websites. I came inside to try to work on my video I recorded, but apparently managed to hose the video recording on the laptop by unplugging the camera before shutting off the software, so there's a tip, if you're using the lifecam software don't unplug the camera before you shut down the software, you're libel to lose your video. 
+
 

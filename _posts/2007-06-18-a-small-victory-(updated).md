@@ -6,6 +6,7 @@ permalink: a-small-victory-updated
 image: 
 categories: [ 240z, engine, motor, video, datsun ]
 description: Follow our car maintenance journey as we document the removal of a car's intake manifold, exhaust manifold, and turbo. Catch it all on HD video!
+last_modified_at: 2024-11-15T12:15:17-06:00
 ---
 
 
@@ -20,5 +21,6 @@ What's next? Cleanup time. I'm going to be ordering a fuel rail, injectors, pres
 More on that later this week. Hopefully video later tonight, if not sometime tomorrow.
 
 [Here's a link to the Video](/engine-removal-video-1-of-2)
+
 
 

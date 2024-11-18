@@ -3,7 +3,7 @@ layout: post
 title: Ingen Super SES Exhaust Leak on Nissan 350z
 description: Leaks in the Ingen Super SES Exhaust on Project350z
 date: '2010-08-10T00:47:03+00:00'
-last_modified_at: '2024-04-25T20:05:01+00:00'
+last_modified_at: 2024-10-09T13:21:54-05:00
 permalink: ingen-super-ses-exhaust-leak-on-nissan-350z
 image:
 categories: [ 350z, nissan, setup ]
@@ -29,6 +29,7 @@ So here we are, back at square one. I've emailed Injen, I'm hoping they will com
 And of course, in honor of Project240z.com, the video is above, I put it together from the work yesterday (After working on cleaning up the garage to make room for the car first). I also created a video of tonight's work while I installed the pipe back in.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4W4jK2A3AY?si=7ASQSN1vMK6WdsVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 

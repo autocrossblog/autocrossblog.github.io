@@ -2,7 +2,7 @@
 layout: post
 title: Let there be sound, and I'm going to Nationals (not in the 350z)
 date: '2011-06-15T00:58:01+00:00'
-last_modified_at: '2024-08-16T11:05:43+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: let-there-be-sound-and-im-going-to-nationals-not-in-the-350z
 image:
 categories: [ 350z, nissan ]
@@ -24,5 +24,6 @@ I'll be driving Dave Whitworth's Mustang in EM at Nationals. Dave and I have bee
 I'll fly into Lincoln, though I'm not sure when yet, and likely be there all week. I've offered to announce at the ProSolo Finale, though I haven't heard if anyone is interested in taking me up on that offer or not. 
 
 I am hoping that for 2012 I can get the 350z sorted out and ready for Nationals. Though, I really don't like that I now live 26 hours from Nationals. Living in St. Louis and being a 5 hour drive from it (when it was in Topeka) definitely spoiled me!
+
 
 

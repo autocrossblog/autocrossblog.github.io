@@ -2,7 +2,7 @@
 layout: post
 title: Updates from the weekend
 date: '2009-05-04T00:15:41+00:00'
-last_modified_at: '2024-04-30T11:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: updates-from-the-weekend
 image: 
 categories: [ 240z, datsun, megasquirt, engine, friends ]
@@ -22,4 +22,5 @@ We ended up figuring out that the squirt/stim worked fine on his laptop, which m
 All in all we weren't too successful, but we did get it to almost fire up a few times. A few times we got some nice big backfires, once enough that pressure came up through one of the cutouts in the driver's side floorboard, enough to make my foot jump off the floor. I ended up removing the VR sensor from the 36-1 wheel at Andy's suggestion and installed a new one, though the plug is backwards on it, so later this week I'll try it out again, as well as try rewiring the sensor. These sensors are very picky, so we're not sure if that's the problem, or something else, but hopefully rewiring it will correct it and the car will start up! Hopefully right? :D 
 
 Huge thanks to Whittle for the help today.
+
 

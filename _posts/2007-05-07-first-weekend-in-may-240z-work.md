@@ -2,7 +2,7 @@
 layout: post
 title: First weekend in May, 240Z work!
 date: '2007-05-07T00:44:12+00:00'
-last_modified_at: '2024-04-21T11:07:00+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: first-weekend-in-may-240z-work
 image: 
 categories: [ 240z, datsun ]
@@ -19,4 +19,5 @@ Sunday: Welding day. I spent most of the day welding, grinding, cussing, welding
 
 
 Photos: <br />  <a style="text-decoration: none"  href="https://www.flickr.com/photos/chammond/487409589/in/pool-341731@N21"><img height="75" alt="image" border="0" src="https://farm1.static.flickr.com/201/487409589_10bfa56f62_m.jpg" /> </a><a style="text-decoration: none"  href="https://www.flickr.com/photos/chammond/487408969/in/pool-341731@N21"><img height="75" alt="image" border="0" src="https://farm1.static.flickr.com/227/487408969_25592228dc_m.jpg" /> </a><a style="text-decoration: none"  href="https://www.flickr.com/photos/chammond/487408169/in/pool-341731@N21"><img height="75" alt="image" border="0" src="https://farm1.static.flickr.com/218/487408169_d3d6b6e962_m.jpg" /> </a><a style="text-decoration: none"  href="https://www.flickr.com/photos/chammond/487407173/in/pool-341731@N21"><img height="75" alt="image" border="0" src="https://farm1.static.flickr.com/201/487407173_1945d8e56a_m.jpg" /> </a><a style="text-decoration: none"  href="https://www.flickr.com/photos/chammond/487405875/in/pool-341731@N21"><img height="75" alt="image" border="0" src="https://farm1.static.flickr.com/193/487405875_105d0461a5_m.jpg" /> </a><a style="text-decoration: none"  href="https://www.flickr.com/photos/chammond/487403873/in/pool-341731@N21"><img height="75" alt="image" border="0" src="https://farm1.static.flickr.com/226/487403873_e887af4a52_m.jpg" /> </a><a style="text-decoration: none"  href="https://www.flickr.com/photos/chammond/487374606/in/pool-341731@N21"><img height="75" alt="image" border="0" src="https://farm1.static.flickr.com/209/487374606_db9a6b36d3_m.jpg" /> </a><a style="text-decoration: none"  href="https://www.flickr.com/photos/chammond/487372484/in/pool-341731@N21"><img height="75" alt="image" border="0" src="https://farm1.static.flickr.com/190/487372484_fecd8e6b66_m.jpg" /></a>
+
 

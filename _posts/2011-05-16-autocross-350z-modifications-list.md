@@ -3,7 +3,7 @@ layout: post
 title: Autocross 350z Modifications List
 date: '2011-05-16T03:04:29+00:00'
 permalink: autocross-350z-modifications-list
-last_modified_at: '2024-05-07T23:21:05+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 image:
 categories: [ 350z, nissan, setup, suspension ]
 description: Explore a comprehensive and regularly updated list of modifications for the 350z, including its suspension, engine, wheels, and interior.
@@ -44,4 +44,5 @@ I realized recently that I didn't have an ongoing list of modifications for the 
 ## Exterior Modifications
 
 - None
+
 

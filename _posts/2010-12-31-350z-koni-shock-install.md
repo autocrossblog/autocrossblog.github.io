@@ -3,7 +3,7 @@ layout: post
 title: 350Z Koni Shock Install
 description: "A very detailed post about installing Koni shocks on a Nissan 350z for autocross purposes."
 date: '2010-12-31T03:00:36+00:00'
-last_modified_at: '2024-05-08T00:15:25+23:00'
+last_modified_at: 2024-11-18T10:51:34-06:00
 permalink: 350z-koni-shock-install
 image: ProjectZ/KoniInstall/350Z-Koni-Install-1.jpg
 categories: [ 350z, nissan, setup, suspension, koni, install, tutorial ]
@@ -114,3 +114,4 @@ I was looking around St. Louis for a few weeks for a LS-1 powered (98+) 6 speed,
 In 2003 I decided to change vehicles and purchased my 2003 Nissan 350Z Enthusiast model. I acquired a second set of the stock Enthusiast 17" wheels for a set of R-compound tires. I competed last year at the Peru National Tour, the Topeka ProSolo and the SCCA Solo II Nationals. At Nationals I finished 43rd out of 60 drivers. I was the second fastest 350Z driver, but far behind Carter Thompson who finished 6th. I was also running on Kumhos, even though the 2003 Results say I was on Hoosiers.
 
 Along comes 2004, I kind of lost interest in autocross up through the end of May. I guess I go through a little lull every year, this year it happened in April and May. To get out of the lull I ordered the Koni Sports (yellows) for the car.
+

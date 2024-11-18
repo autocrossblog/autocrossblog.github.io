@@ -6,6 +6,7 @@ permalink: 240z-the-journey-home
 image: 
 categories: [ 240z, datsun, 280z ]
 description: Follow the journey of restoring a 1978 280Z 2+2 in this blog, including struggles with car parts, towing trips, and the joys of bringing it back to li...
+last_modified_at: 2024-11-15T12:15:17-06:00
 ---
 
 So this morning I got up and finished up what I could get done on the project car, a 1978 280Z 2+2, courtesy of our very own Lynn Wilson, Thanks Lynn!!!
@@ -25,4 +26,5 @@ After getting home, Natalie and I unloaded the 240 from the trailer, though, not
 After rolling her into the garage and test fitting a few of the interior pieces we headed back up north to drop James' trailer off. They weren't home, lucky for them. Had he been home he might have had a heart attack watching me back the trailer in, I ended up parking it about 6 inches from the front of the STi, that darn slopped trailer, makes it hard to judge distances. Lucky for me I stopped when I did, otherwise I would have felt like a complete ass for borrowing a trailer and then hitting the owners car when returning it.
 
 More on the Project240z car later this week!
+
 

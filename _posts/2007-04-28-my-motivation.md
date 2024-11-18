@@ -6,6 +6,7 @@ permalink: my-motivation
 image: 
 categories: [ 240z, datsun ]
 description: Discover the inspiration behind the author's Project240z, as he reminisces over a striking photo from 2004.
+last_modified_at: 2024-11-15T12:15:17-06:00
 ---
 
 
@@ -16,5 +17,6 @@ I was digging through some old photos tonight looking for photos of <A href="htt
 
 
 When I get bored, lazy, or tired of working on the Project240z, I only have to look at that photo and realize what I'm striving for. That car is beautiful, and I hope my car can one day look that good...
+
 
 

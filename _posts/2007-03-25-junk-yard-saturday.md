@@ -6,6 +6,7 @@ permalink: junk-yard-saturday
 image: 
 categories: [ 240z, datsun, megasquirt ]
 description: Join us on a journey to restore a 240Z car with salvaged parts. Learn about our progress - from the ignition system to the brake assembly.
+last_modified_at: 2024-11-15T12:15:17-06:00
 ---
 
 Today, well yesterday now, it's 1am, Dad and I went to Speedway salvage over in Madison Illinois. 3-4 hours later we walked out of there with $120 worth of parts for the Project 240Z. I didn't realize you could spend that much on junk?
@@ -17,4 +18,5 @@ Dad took apart the brake master cylinder and start cleaning it, we'll do the sam
 Tomorrow (Today) we'll see how far we can get towards putting the 83 motor into the car. I'm going to be working on getting the parts we need off of the motor from the parts car so we can get the motor setup to drop in the car.
 
 More tomorrow 
+
 

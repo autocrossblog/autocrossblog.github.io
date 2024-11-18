@@ -2,7 +2,7 @@
 layout: post
 title: Today was a good day!
 date: '2007-07-28T10:10:17+00:00'
-last_modified_at: '2024-04-26T08:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: today-was-a-good-day
 image: 
 categories: [ 240z, datsun, megasquirt ]
@@ -34,4 +34,5 @@ Around 10pm I figured it was probably a little too late to try to keep starting 
 I've got a few things to try in the morning before I head off to the muffler shop to see if I can't get an exhaust put on the car.
 
 [Here's some video from tonight, trying to start the car.](/trying-to-start-the-car)
+
 

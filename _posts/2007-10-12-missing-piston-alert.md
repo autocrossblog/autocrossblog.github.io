@@ -6,7 +6,7 @@ description: "Photo of the piston that blew up in the motor"
 permalink: missing-piston-alert
 image: 
 categories: [ 240z, datsun ]
-
+last_modified_at: 2024-10-09T13:21:54-05:00
 ---
 Can you spot the problem in this photo?
 
@@ -15,4 +15,5 @@ Can you spot the problem in this photo?
 Status: Motor is once again out of the car, and I'm pretty confident it won't be going back into any car..... ever....
 
 The photo is of the piston that decided to leave its brothers behind.
+
 

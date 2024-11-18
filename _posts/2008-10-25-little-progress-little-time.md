@@ -2,7 +2,7 @@
 layout: post
 title: Little progress, little time!
 date: '2008-10-25T19:24:26+00:00'
-last_modified_at: '2024-04-26T11:05:43+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: little-progress-little-time
 image: 
 categories: [ 240z, datsun ]
@@ -18,5 +18,6 @@ Once I could see the top of the car I made room at the back and rolled her back 
 I didn't get too far today, but I hope that tomorrow I can get all of the parts back on the motor, if I can successfully do that I should be able to get the motor back in the car next weekend. The biggest problem I have working on the car is staying focused, if I'm by myself I tend to stray from the task at hand, and I never seem to get anything done. Case in point today, at some point while working on clearing off the car I got out the angle grinder and wire wheeled the hole where the FM antenna was at one point, I thought it looked like it might be rusting so I took the paint off then sprayed some primer on the car. Now it looks worse than before, but I had fun! :)
 
 More updates tomorrow, hopefully with some video. I tried using the Chase Cam today to shoot some video but apparently the PDR doesn't really care for normal AA batteries as it only stayed powered on for about 5 minutes before shutting off, without me knowing.
+
 
 

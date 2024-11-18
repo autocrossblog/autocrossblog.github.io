@@ -2,7 +2,7 @@
 layout: post
 title: Another night with not much success!
 date: '2009-05-27T00:42:38+00:00'
-last_modified_at: '2024-04-30T11:05:25+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: another-night-with-not-much-success
 image: 
 categories: [ 240z, datsun ]
@@ -18,4 +18,5 @@ Terec showed up as i was attempting to start the car. We spent most of the eveni
 The last attempt at starting the car seemed to only get 100rpm from the starter, so we assume that the battery was drained a bit too much. Because of that we threw it on the charger and called it a night.
 
 Another thing that just struck me, I need to check the compression on the motor tomorrow, that hasn't been done :(
+
 

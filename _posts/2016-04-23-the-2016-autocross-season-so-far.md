@@ -2,7 +2,7 @@
 layout: post
 title: The 2016 Autocross Season So Far
 date: '2016-04-23T00:21:33+00:00'
-last_modified_at: '2024-04-29T21:05:43+00:00'
+last_modified_at: 2024-11-18T10:51:34-06:00
 permalink: the-2016-autocross-season-so-far
 image:
 categories: [ 350z, nissan ]
@@ -83,4 +83,5 @@ With SoloStorm you can analyze the data from your runs quickly from an Android t
 ### What's Next?
 
 Next weekend (April 30, May 1st) I'll be at the Grissom Classic in Peru Indiana, and the following weekend I'll be at the Wilmington ProSolo. See you out at an event!
+
 

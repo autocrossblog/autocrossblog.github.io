@@ -9,7 +9,7 @@ image: 2024/August/SoloNats-3.jpg
 categories: [ scca, solonationals, lincoln ]
 featured: true
 comments: true
-last_modified_at: '2024-11-17T23:50:08+00:00'
+last_modified_at: 2024-11-18T09:59:22-06:00
 ---
 A month late, it's time to blog about the 2024 Tire Rack SCCA Solo National Championships...
 
@@ -145,3 +145,4 @@ Nothing too eventful happened, but it was great to get to call Evan William's G 
 
 ## What's next?
 So what's coming next? Well, the next weekend after Nationals I ran a local event in an AS Z06, that was fun! I am leaning towards running in SSC again in 2025 though, so I will be working on purchasing a new ride for that endeavor hopefully in the next month or two!
+

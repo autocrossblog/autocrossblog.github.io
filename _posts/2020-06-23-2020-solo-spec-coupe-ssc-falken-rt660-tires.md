@@ -3,7 +3,7 @@ layout: post
 title: 2020 Solo Spec Coupe (SSC) Falken RT660 Tires
 description: "The time has come, Falken has updated the tire for SSC for 2020 with their latest and greatest Azenis RT660. "
 date: '2020-06-23T15:21:04+00:00'
-last_modified_at: '2024-04-26T11:05:44+00:00'
+last_modified_at: 2024-07-01T11:50:00-05:00
 permalink: 2020-solo-spec-coupe-ssc-falken-rt660-tires
 image: 6-21-2020.jpg
 categories: 
@@ -28,5 +28,6 @@ Here's a video from our fastest run, Run #6, at the event, using our JD1 Camera 
 **Rear Konis:** 1.5 turns from soft  
 **Front Tire Pressure:** 30 psi  
 **Rear Tire Pressure:** 29 psi
+
 
 

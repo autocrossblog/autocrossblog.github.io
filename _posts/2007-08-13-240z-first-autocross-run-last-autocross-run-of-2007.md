@@ -2,7 +2,7 @@
 layout: post
 title: 240Z First Autocross Run, Last Autocross run of 2007
 date: '2007-08-13T19:27:56+00:00'
-last_modified_at: '2024-04-25T22:05:19+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: 240z-first-autocross-run-last-autocross-run-of-2007
 image: 
 categories: [ 240z, datsun, autocross, fail ]
@@ -26,4 +26,5 @@ And part of the reason the motor no longer runs, it doesn't appear to even turn 
 
 <img height="333" alt="This isn't good" src="https://farm2.static.flickr.com/1201/1099418479_1f547da43b.jpg?v=0" width="500" />
  
+
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mark stops by with a welder
 date: '2007-05-01T09:54:16+00:00'
-last_modified_at: '2024-04-26T08:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: mark-stops-by-with-a-welder
 image: 
 categories: [ 240z, datsun ]
@@ -17,5 +17,6 @@ Mark Huebbe from 321GoVideo.com offered to let me borrow his welder for a week a
 I jumped on the offer and he brought the welder over this evening. He took the time to give me some quick lessons, of which I was in dire need. Thanks for all your help Mark, and most of all thanks for the use of the welder! Everyone should be sure to stop by Mark's build site as he puts together his Rally Bug!
 
 [Now for Tonight's Video! It can be found here](/project-240z-rally-bug-welder-arrives).
+
 
 

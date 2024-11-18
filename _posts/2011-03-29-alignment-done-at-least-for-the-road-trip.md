@@ -2,7 +2,7 @@
 layout: post
 title: Alignment done, at least for the road trip
 date: '2011-03-29T01:37:22+00:00'
-last_modified_at: '2024-05-07T23:21:05+00:00'
+last_modified_at: 2024-11-18T10:51:34-06:00
 permalink: alignment-done-at-least-for-the-road-trip
 image:
 categories: [ 350z, nissan, setup ]
@@ -27,4 +27,5 @@ Less than an hour later I got a phone call saying that the car was ready to go. 
 Friday I plan to do some adjustment to the Toe, getting some toe out in front and toe in in the rear. We'll see if I can get that adjustment squared away using my longacre toe plates.
 
 If I come up with some additional settings for autocross alignment I'll create a new blog post for the specs.
+
 

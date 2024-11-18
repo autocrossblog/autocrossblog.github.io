@@ -2,7 +2,7 @@
 layout: post
 title: 350z Trailer Hitch, Take 2
 date: '2011-01-26T01:09:16+00:00'
-last_modified_at: '2024-04-25T16:21:00+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: 350z-trailer-hitch-take-2
 image:
 categories: [ 350z, nissan, setup, towing ]
@@ -32,5 +32,6 @@ Previously, as you can see in the photo I had a rather large trailer, a 6x8. I p
 I don't know exactly what I will do for a trailer this time around, I will likely get something a little bigger than standard harbor freight tire trailer (I would like to be able to carry two sets of tires), though I won't buy brand new like I did last time. I will probably peruse craigslist when the time comes, I just found a 4x6 enclosed utility trailer on there for $200 this evening that would be something that could work (when the time comes).
 
 I'll do a video/blog post of the hitch install this weekend if I can get to it. I'm hoping to hit the NorCalUFO autocross in Marina on Sunday.
+
 
 

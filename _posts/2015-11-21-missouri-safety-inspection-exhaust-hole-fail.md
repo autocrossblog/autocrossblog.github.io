@@ -2,7 +2,7 @@
 layout: post
 title: Missouri Safety inspection exhaust hole, fail
 date: '2015-11-21T00:14:28+00:00'
-last_modified_at: '2024-04-29T21:05:43+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: missouri-safety-inspection-exhaust-hole-fail
 image: PublishThumbnails/Windows-Live-Writer/Missouri-Safety-inspection-exhaust-hole-_14613/image_2.png
 categories: [ 350z, nissan ]
@@ -26,4 +26,5 @@ This morning I took the car back to Dobbs to get the safety and emissions inspec
 So, next weekend I'll head down to Solo Performance Specialtiesâ€‹ and weld something onto the pipe to close up the exhaust.
 
 This winter I will replace the exhaust entirely, but for now I just need to pass the darn safety inspection.
+
 

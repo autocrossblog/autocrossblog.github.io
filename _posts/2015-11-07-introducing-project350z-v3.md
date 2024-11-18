@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Project350z V3
 date: '2015-11-07T00:48:18+00:00'
-last_modified_at: '2024-04-26T11:05:43+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: introducing-project350z-v3
 image: PublishThumbnails/Windows-Live-Writer/Introducing-Project350z-V3_14AF6/image_thumb_1.png
 categories: [ 350z, nissan ]
@@ -18,5 +18,6 @@ I'll be doing some modifications over the winter to get it in line with the STU 
 This Sunday (11/8) I'll have the car out and running at the final Gateway Autocross Association event for 2015, see you out there!
 
 Stay tuned as I dig into the car and get to actively blogging more as I get the work done on the car.
+
 
 

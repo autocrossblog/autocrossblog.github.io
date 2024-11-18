@@ -2,7 +2,7 @@
 layout: post
 title: P240Z Sunday Wiring Starts
 date: '2007-07-23T10:34:20+00:00'
-last_modified_at: '2024-04-26T08:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: p240z-sunday-wiring-starts
 image: 
 categories: [ 240z, datsun, megasquirt ]
@@ -33,4 +33,5 @@ Here are more photos from today.
 [VR Sensor Bracket](https://farm2.static.flickr.com/1392/872512225_882694dc4f_s.jpg)
 [VR Sensor Bracket](https://farm2.static.flickr.com/1006/873359360_8922d469fe_s.jpg)
 [Oil Cooler](https://farm2.static.flickr.com/1205/873353908_e4809af1b0_s.jpg)
+
 

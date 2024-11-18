@@ -3,7 +3,7 @@ layout: post
 title: First event in SSC
 description: "Blog post about our first autocross in the SSC car!"
 date: '2018-04-16T02:14:13+00:00'
-last_modified_at: '2024-04-26T11:10:43+00:00'
+last_modified_at: 2024-10-09T13:21:54-05:00
 permalink: first-event-in-ssc
 image: 
 categories: [ autocross, scion, fr-s, ssc, setup, specfrs ]
@@ -33,3 +33,4 @@ Settings:
 On my 6th run the course started to get slick due to the rain/sleet, and I ended up losing control on the back half of the course. On the way home the car felt funky, so I stopped and took the turns out of the Konis. I ended up noticing that the steering wheel was off-center, and then I noticed that both the ABS and SLIP lights were on the dash. I scanned the OBD2 with my Torque app to see if there were any codes being thrown for those two lights, but wasn't able to find anything. My internet research, and help from the SSC group on Facebook leads me to believe that the alignment (wheel being crooked) is what is causing the lights. I'll head over to SPS this week and see what I screwed up when I spun today!
 
 Overall I'm stoked about how much fun I had in the car today. I didn't win PAX, but I didn't expect to, the PAX for this class doesn't appear to be close to a valid equalizer for 2018. I will be surprised if I get in the top 2 on PAX at all this year locally, but we'll see, maybe I'll be surprised. I'm looking forward to the Misfit Toys event next weekend, and the Blytheville ProSolo the following weekend!
+

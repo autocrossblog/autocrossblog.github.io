@@ -8,7 +8,7 @@ image: 2024/March/Moultrie/MustangVinyl-1.jpg
 categories: [ autocross, nationaltour, national-tour, scca, mustang, friends ]
 featured: false
 comments: true
-last_modified_at: '2024-11-17T23:50:08+00:00'
+last_modified_at: 2024-11-18T08:39:29-06:00
 ---
 ## #SOLONATSHASSTARTED
 Here we go. We are on the road south to Moultrie, Georgia for the 2024 Tire Rack SCCA Red Hills National Tour at Spence Field. I met Dave and Beth at Solo Performance this morning and we hit the road just after 7am, with the plan of getting all the way to Moultrie today, Thursday the 21st. This will be my first time to Moultrie, after having run a few times when the National Tour events were held in Adel, GA. 
@@ -22,3 +22,4 @@ I am looking forward to running the SPS Mustang in CAM-C this season at as many 
 Stay tuned for more updates from Moultrie this weekend and look for some links to photos from the event, assuming I get time to take pictures when not running or working. 
 
 -Chris
+

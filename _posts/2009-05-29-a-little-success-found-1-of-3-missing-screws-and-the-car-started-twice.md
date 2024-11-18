@@ -3,7 +3,7 @@ layout: post
 title: A little success, found 1 of 3 missing screws, AND the car started, twice!
 description: "An update on the 240z with video of me working on the car getting it started"
 date: '2009-05-29T00:50:32+00:00'
-last_modified_at: '2024-04-26T08:04:33+23:00'
+last_modified_at: 2024-10-09T13:21:54-05:00
 permalink: a-little-success-found-1-of-3-missing-screws-and-the-car-started-twice
 image: 
 categories: [ 240z, datsun ]
@@ -33,3 +33,4 @@ I also started disassembling the old block, crank and pistons as I need to get r
 Here's a brief video of today's work, nothing too fascinating, next time I have it running I'll get audio!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eTCFkNBJIQI?si=cnIuGAlEZXGVXckX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

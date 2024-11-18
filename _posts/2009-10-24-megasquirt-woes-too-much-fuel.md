@@ -2,7 +2,7 @@
 layout: post
 title: Megasquirt woes, too much fuel?
 date: '2009-10-24T19:15:52+00:00'
-last_modified_at: '2024-05-07T23:55:25+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: megasquirt-woes-too-much-fuel
 image: 
 categories: [ megasquirt, 240z, datsun ]
@@ -18,5 +18,6 @@ I did start to adjust the fuel map a bit this afternoon but ended up not getting
 Earlier this week I did manage to get the datsun started, and even backed it out of the garage, but I couldn't keep it running enough to drive it back in so I had to push it. I moved it over into the third bay so that I could make room for the F250 to park inside for the winter. That truck is huge, barely fits into our 24ft garage (we also have 18" shelves in front of it), but it does fit, so that made the wife exceptionally happy!
 
 I'll try to get some new photos of the Datsun later this week. I may start doing some body work prep on it, I have a coupon for a maaco paint job for $275, so I think I'll get some bondo out to smooth out some rough spots and get it ready for paint. Bondo? Maaco? I don't see any value in putting a lot of money into the exterior of this Datsun at this point. I just need it to run, and not be 5 different colors, so I'll take it to Maaco for a flat black paint job and be done with it!
+
 
 

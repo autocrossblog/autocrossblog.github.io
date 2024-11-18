@@ -10,6 +10,7 @@ categories: [ scca, solonationals, lincoln ]
 featured: false
 comments: true
 # last_modified_at: '2024-07-08T16:50:08+00:00'
+last_modified_at: 2024-10-09T14:49:51-05:00
 ---
 If you're heading to the 2024 Solo National Championships in Lincoln Nebraska starting late next week you should check this out! 
 
@@ -24,3 +25,4 @@ There's no limit to the number of drivers or classes per car, so you can walk aw
 [Find our more info](https://rainbowmarks.com/Events/2024/08/SoloNationals) or [skip the details and go straight to the buying process](https://rainbowmarks.square.site/product/2024-solo-nationals/4)!
 
 You can also visit those URLs and sign up to get an email after the event when the photos are posted and available for viewing!
+

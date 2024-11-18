@@ -3,7 +3,7 @@ layout: post
 title: How do you travel with your video equipment?
 description: A blog post discussing how to travel with video equipment safely.
 date: '2011-01-31T19:42:27+00:00'
-last_modified_at: '2024-04-25T16:21:00+00:00'
+last_modified_at: 2024-10-09T13:21:54-05:00
 permalink: how-do-you-travel-with-your-video-equipment
 image:
 categories: [ 350z, nissan, setup, photos, photography, camera, gopro ]
@@ -19,6 +19,7 @@ At this point I have 3-6 potential video cameras I could take/use at any one rac
 So what's the best way to get things to an event? Right now I'm packing things into a lowepro 300aw, and that is probably the best solution for the time being, but with all that equipment I'm going to have to trim back what I put in the bag (less lenses for the 5D).
 
 What do you use? A Pelican case? A bag? Something else? 
+
 
 
 

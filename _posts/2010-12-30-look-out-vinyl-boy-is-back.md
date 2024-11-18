@@ -2,7 +2,7 @@
 layout: post
 title: Look out, Vinyl Boy is back
 date: '2010-12-30T14:00:01+00:00'
-last_modified_at: '2024-05-07T23:55:25+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: look-out-vinyl-boy-is-back
 image:
 categories: [ 350z, nissan, setup, vinyl ]
@@ -22,4 +22,5 @@ For a refresher, here are some photos of some of my past vinyl experiences (all 
 [![CRW_8435](https://farm3.static.flickr.com/2520/4116230997_ebe11d2719_t.jpg)](https://www.flickr.com/photos/chammond/4116230997/)
 [![My Old Camaro](https://farm3.static.flickr.com/2232/2063988267_51055763a0_t.jpg)](https://www.flickr.com/photos/chammond/2063988267/)
 [![7G9X4944](https://farm3.static.flickr.com/2659/4142941262_30e670dbc7_t.jpg)](https://www.flickr.com/photos/chammond/4142941262/)
+
 

@@ -2,7 +2,7 @@
 layout: post
 title: Back in the saddle again
 date: '2011-07-04T02:56:30+00:00'
-last_modified_at: '2024-04-26T11:05:43+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: back-in-the-saddle-again
 image:
 categories: [ 350z, nissan ]
@@ -31,4 +31,5 @@ Settings:
 - Tire psi: 25/23 f/r
 - Shocks: Front 7 clicks compression 1 full turn rebound
 - Rear 3 clicks rebound
+
 

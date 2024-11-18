@@ -2,7 +2,7 @@
 layout: post
 title: Labor Day weekend and working on the 240z
 date: '2009-09-03T22:26:45+00:00'
-last_modified_at: '2024-05-07T23:55:25+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: labor-day-weekend-and-working-on-the-240z
 image: 
 categories: [ 240z, datsun ]
@@ -14,6 +14,7 @@ So the Labor Day holiday weekend is coming up, and my brother is coming to town.
 I was looking to try another body, one popped up last week on Craigslist but the dude sold it. I emailed, called, etc but the guy wouldn't call me back, when I finally got in touch with him someone else had already purchased it, just my luck. 
 
 So as of right now I'm going to keep the current body, unless something better pops up in the mean time.
+
 
 
 

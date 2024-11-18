@@ -9,7 +9,7 @@ image: 2024/May/CAMChallenge/BethCones.jpg
 categories: [ autocross, nationaltour, national-tour, scca, mustang, friends, st.louis, local, cam ]
 featured: false
 comments: true
-last_modified_at: '2024-11-17T23:50:08+00:00'
+last_modified_at: 2024-11-18T08:39:29-06:00
 ---
 Last week, the thrill of autocross took over the Family Arena in St. Charles, Missouri, with the 2024 St. Louis CAM Challenge event. Competitors in various classes including CAM (Classic American Muscle) and others like XA/XB and Club Spec battled it out on the asphalt for top honors in both class competition and the challenge rounds.
 
@@ -70,3 +70,4 @@ Here is Dave Whitworth's fastest clean run for the weekend, also Sunday morning:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O6D6v2-ldEo?si=hePmrggWv9XH153L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 And another camera angle of those two runs, placed side by side:
+

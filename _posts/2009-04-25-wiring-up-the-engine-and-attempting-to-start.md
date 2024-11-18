@@ -2,7 +2,7 @@
 layout: post
 title: Wiring up the engine and attempting to start
 date: '2009-04-25T21:59:13+00:00'
-last_modified_at: '2024-04-30T11:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: wiring-up-the-engine-and-attempting-to-start
 image: 
 categories: [ 240z, datsun, engine, video, megasquirt ]
@@ -13,5 +13,6 @@ I spent the morning with Dave and Terec helping to finish buttoning up items on 
 
 
 Here's the video from today's work.
+
 
 

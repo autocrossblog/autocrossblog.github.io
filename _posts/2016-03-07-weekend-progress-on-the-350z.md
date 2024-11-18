@@ -6,7 +6,7 @@ permalink: weekend-progress-on-the-350z
 image: "PublishThumbnails/Open-Live-Writer/Weekend-progress-on-the-350z_140A7/2016-03-05_21.33.33_2.jpg"
 categories: [ 350z, nissan, corvette ]
 description: "Follow our blogger's journey to fix a failed emissions and safety test on his car, from finding leaks to tackling repairs and passing the retest."
-last_modified_at: '2024-11-18T01:15:43+00:00'
+last_modified_at: 2024-11-18T13:36:50-06:00
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W_L9OQWg1vE?si=Yeplfbtnr_ntK6UL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -34,4 +34,5 @@ In addition to the work on the 2003 350z, I also spent a bit of time working on 
 ![Lower intake manifold after cleaning](/assets/images/PublishThumbnails/Open-Live-Writer/Weekend-progress-on-the-350z_140A7/2016-03-05%2021.33.33_thumb.jpg)
 ![Strut tower bar getting plasti-dipped](/assets/images/PublishThumbnails/Open-Live-Writer/Weekend-progress-on-the-350z_140A7/2016-03-06%2018.37.40_thumb.jpg)
 ![Strut tower bar installed after getting plasti-dipped](/assets/images/PublishThumbnails/Open-Live-Writer/Weekend-progress-on-the-350z_140A7/2016-03-06%2018.54.30_thumb.jpg)
+
 

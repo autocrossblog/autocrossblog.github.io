@@ -2,7 +2,7 @@
 layout: post
 title: Buy a motor to build up?
 date: '2010-12-27T02:00:48+00:00'
-last_modified_at: '2024-05-07T23:55:25+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: buy-a-motor-to-build-up
 image:
 categories: [ 350z, nissan, setup ]
@@ -18,6 +18,7 @@ There's a guy selling one on My350z that is somewhat local, could be an interest
 <a href="https://my350z.com/forum/norcal-marketplace/467754-fs-rev-up-motor-w-spun-bearing.html">my350z.com/forum/norcal-marketplace/467754-fs-rev-up-motor-w-spun-bearing.html</a>
 
 I may email him and tell him I'll give him $150, see where that goes.
+
 
 
 

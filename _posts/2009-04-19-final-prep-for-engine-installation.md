@@ -2,7 +2,7 @@
 layout: post
 title: Final Prep for Engine Installation
 date: '2009-04-19T01:40:36+00:00'
-last_modified_at: '2024-04-30T11:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: final-prep-for-engine-installation
 image: 
 categories: [ 240z, datsun, motor, engine, video ]
@@ -20,5 +20,6 @@ I assembled the new bushings in the rear mount and then test fitted it under the
 So I didn't get a whole lot of progress made today, but I hope to tomorrow as Terec will be coming over in the morning and helping me with the big task, getting the motor up and into the car, 6 bolts should be all it takes! Then it'll probably take me all week to hook up all the wires and lines to it, hopefully I'll be able to try and crank it over next week.
 
 Here's the video from today, not much
+
 
 

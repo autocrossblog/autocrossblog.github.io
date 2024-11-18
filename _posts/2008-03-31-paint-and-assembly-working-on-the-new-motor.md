@@ -2,7 +2,7 @@
 layout: post
 title: Paint and Assembly, working on the new motor
 date: '2008-03-31T03:38:03+00:00'
-last_modified_at: '2024-04-26T08:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: paint-and-assembly-working-on-the-new-motor
 image: 
 categories: [ 240z, datsun ]
@@ -42,4 +42,5 @@ description: Discover the progress on restoring a classic L28ET motor with our l
 
 ### Coming Weeks:
 - Out of town races and other commitments will pause the project temporarily. Excited to resume soon!
+
 

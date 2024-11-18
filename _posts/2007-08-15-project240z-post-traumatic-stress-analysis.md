@@ -6,6 +6,7 @@ permalink: project240z-post-traumatic-stress-analysis
 image: 
 categories:
 description: "Join our blogger as they venture into the garage for an in-depth investigation into a motor failure, detailing their step-by-step process, from draining oil to uncovering misplaced rocket arm guides. Packed with photos and plans for future exploration, this post delves into the mystery of the misbehaving motor."
+last_modified_at: 2024-11-15T11:49:11-06:00
 ---
 
 
@@ -28,5 +29,6 @@ From there I didn't get too far, I did get the timing sprocket and chain removed
 No dice, so I'll have to wait until this weekend to get further on the investigation. I'm going to have to pull the motor out of the car in order to take the manifolds off so that I can remove the cylinder head and see what happened on Sunday.
 
 [Here's a link to the video of me working in the garage tonight. Notice the music](/post-traumatic-stress-analysis)!
+
 
 

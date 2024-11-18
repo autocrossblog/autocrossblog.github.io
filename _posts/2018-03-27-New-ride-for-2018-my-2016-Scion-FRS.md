@@ -2,7 +2,7 @@
 layout: post
 title: New ride for 2018, my 2016 Scion FR-S
 date: '2018-03-27T03:32:58+00:00'
-last_modified_at: '2024-04-26T11:11:44+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: new-ride-for-2018-my-2016-scion-frs
 image: 
 categories: [ toyota, scion, fr-s ]
@@ -20,4 +20,5 @@ Because we were on our way down to the Champ Tour, and we wanted to try to swing
 After that, we tried to move forward with the paperwork, I had pre-approval paperwork ready to go from my bank, and even with that it took about 2.5 hours after we arrived before I was back on the road trying to catch up with Dave and his dad who headed off to Lynchburg to take a tour of the distillery.
 
 Stay tuned for more posts here on the [SpecFRS blog](/category/specfrs/), and be sure to [follow us on Twitter too](https://twitter.com/specfrs).
+
 

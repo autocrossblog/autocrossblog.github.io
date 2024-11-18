@@ -2,7 +2,7 @@
 layout: post
 title: Autocross alignment in St. Louis Missouri
 date: '2018-04-13T03:51:32+00:00'
-last_modified_at: '2024-04-26T11:11:43+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: autocross-alignment-in-st-louis-missouri
 image: 
 categories: [ autocross, scion, fr-s, ssc, install, setup, specfrs ]
@@ -27,4 +27,5 @@ Dave at Solo Performance knows his stuff, so he was able to get the car setup as
 [![SpecFRS.com Alignment](https://farm1.staticflickr.com/792/27530585808_1fe8647719_z.jpg)](https://www.flickr.com/photos/chammond/27530585808/in/photostream/)
 
 Next up is the first St. Louis region autocross on April 15th. There are 3 SSC cars entered, so let's see how this thing (and mainly this driver) does!
+
 

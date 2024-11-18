@@ -2,7 +2,7 @@
 layout: post
 title: 350Z Autocross Car Setup
 date: '2009-11-18T00:40:01+00:00'
-last_modified_at: '2024-05-07T23:55:25+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: 350z-autocross-car-setup
 image:
 categories: [ 350z ]
@@ -38,4 +38,5 @@ Running in BS (B-Stock) for three years, I learned a lot about the 350Z and the 
   - RR 0.03 degrees
 
 Some of these values might be off, it has been three years since I owned the car ;) I'm working on trying to get all my old information together about the car.
+
 

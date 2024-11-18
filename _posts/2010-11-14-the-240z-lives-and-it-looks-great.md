@@ -2,7 +2,7 @@
 layout: post
 title: The 240z Lives! and it looks great!
 date: '2010-11-14T01:50:22+00:00'
-last_modified_at: '2024-05-07T23:31:05+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: the-240z-lives-and-it-looks-great
 image: green.jpg
 categories: [ datsun, 240z, colorado ]
@@ -20,4 +20,5 @@ I cried a little bit. The car looks great, it has a motor in it, and it even has
 I'm glad he sent them to be, but it definitely makes me sad, to see the car up and running, all one color, I had it 4 years and never had it looking that good! Great work, I hope to hear more about the car in the future.
 
 I'm still debating what is going on with the 350z, one day I want to trade it and get an EVO or STI, other days I want to keep it and put a turbo on it. We'll see, for now I imagine it will stick around because we've got a lot of other things going on and the budget doesn't necessarily allow for a turbo AWD right now.
+
 

@@ -2,7 +2,7 @@
 layout: post
 title: All in a day's paint
 date: '2007-07-16T09:14:37+00:00'
-last_modified_at: '2024-11-17T23:50:08+00:00'
+last_modified_at: 2024-11-18T08:39:29-06:00
 permalink: all-in-a-day-s-paint
 image: 
 categories: [ 240z, datsun, megasquirt ]
@@ -41,3 +41,4 @@ And here are some after shots:
 We ended up painting a few coats over most areas of the interior and then let the car sit for a while to dry. Once dry, we rolled the car back into the garage and started running fuel lines. We ran both the feed and return lines for the fuel cell, mounted the pump again after removing it for paint, and fixed the fuel lines to the transmission tunnel.
 
 Tomorrow, I'll be working on the motor again. I hope to get the intake and exhaust manifolds back on the motor so that we can put it in the car Tuesday or Wednesday night. From there, it'll be time to start wiring up the Megasquirt.
+

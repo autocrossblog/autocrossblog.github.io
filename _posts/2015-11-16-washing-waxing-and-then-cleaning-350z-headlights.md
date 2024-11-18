@@ -2,7 +2,7 @@
 layout: post
 title: Washing, Waxing and then Cleaning 350z Headlights
 date: '2015-11-16T00:57:03+00:00'
-last_modified_at: '2024-04-29T21:05:43+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: washing-waxing-and-then-cleaning-350z-headlights
 image: PublishThumbnails/Windows-Live-Writer/1c3584c943ab_12BEC/Headlight-progress_2.jpg
 categories: [ 350z, nissan ]
@@ -31,5 +31,6 @@ Step 1) Don't be afraid here, but you are going to scratch the crap out of your 
 Step 2) The instructions for the product don't tell you much about this, but Step 2 is a spray can of clear coat that will restore the gloss and shine to your headlamps. Be sure to tape off the area around the lamp if you haven't done this already for Step 1. Basically you spray the clear coat on in two separate applications, waiting 3-5 minutes for the first coat to dry.
 
 I must admit, I was not thrilled about scratching up the headlights even more to use this kit, but the end results was most definitely worth it!
+
 
 

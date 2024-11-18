@@ -2,7 +2,7 @@
 layout: post
 title: Two nights of little progress
 date: '2007-07-18T09:32:53+00:00'
-last_modified_at: '2024-04-26T08:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: two-nights-of-little-progress
 image: 
 categories: [ 240z, datsun ]
@@ -26,4 +26,5 @@ After running around this evening I got to thinking about how much this project 
 I know I've got a few more things I'll have to purchase, but hopefully, I've got all the big items out of the way, at least for this phase of the project.
 
 More coming this week, and I promise to start doing video again!
+
 

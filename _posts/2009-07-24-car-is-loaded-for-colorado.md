@@ -2,7 +2,7 @@
 layout: post
 title: Car is loaded for Colorado
 date: '2009-07-24T02:10:37+00:00'
-last_modified_at: '2024-04-30T11:05:29+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: car-is-loaded-for-colorado
 image: 
 categories: [ 240z, datsun, trailer ]
@@ -15,6 +15,7 @@ So I loaded the car up on the trailer tonight after work (well, between work act
 I even drove it up on the trailer under its own power!
 
 <a href="https://www.flickr.com/photos/chammond/3749868081/"><img alt="@project240z is loaded for trip to colorado. #going2colorado" src="https://farm3.static.flickr.com/2454/3749868081_c4bd798642_m.jpg" width="240" height="180" /></a>
+
 
 
 

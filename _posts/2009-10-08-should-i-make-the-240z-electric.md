@@ -2,7 +2,7 @@
 layout: post
 title: Should I make the 240Z Electric?
 date: '2009-10-08T18:22:16+00:00'
-last_modified_at: '2024-05-07T23:55:25+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: should-i-make-the-240z-electric
 image: 
 categories: [ electric ]
@@ -16,6 +16,7 @@ From there I clicked on another link, I'm not even sure which one, and I came ac
 This is awesome, I so want to turn the 240Z into an electric car now! I know a guy who works for A123Systems, I wonder if I couldn't get a good deal on some batteries? :) 
 
 If you've got some time to kill, check out the video! You can also watch more of his videos at https://evtv.me it looks like I've got videos to watch for a week now! Maybe I can download them and watch them on the plasma. 
+
 
 
 

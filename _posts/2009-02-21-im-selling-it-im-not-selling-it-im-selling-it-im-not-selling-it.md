@@ -6,6 +6,7 @@ permalink: im-selling-it-im-not-selling-it-im-selling-it-im-not-selling-it
 image: 
 categories: [ 240z, datsun, forsale ]
 description: Follow the author's adventure as he contemplates whether to sell his Datsun or spend weekends in March restoring it with his buddy, Terec.
+last_modified_at: 2024-11-15T12:15:17-06:00
 ---
 
 I don't know what I'm doing with the Datsun just yet. I should sell it, but I couldn't sleep the other night because I was thinking about what fun it would be to spend a few weekends in March working on the 240Z.
@@ -17,5 +18,6 @@ Now, I just need to get my book done, and hire my good buddy Terec for a weekend
 Happy Belated Bday to Terec as well, 2/18.
 
 So, am I selling the car? I don't know. I want to buy another 350Z, but it would make a lot more sense to not do that and try to get this datsun running.
+
 
 

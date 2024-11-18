@@ -2,7 +2,7 @@
 layout: post
 title: A Project Epiphany
 date: '2007-05-15T16:23:46+00:00'
-last_modified_at: '2024-04-21T11:07:00+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: a-project-epiphany
 image: 
 categories: [ 240z, datsun ]
@@ -21,6 +21,7 @@ So, XP here I come. I still plan to compete in SM2 for St. Louis region autocros
 
 Photos of the interior after last night's work.
   <div class="PoolList" id="pool_499038551"><a href="https://www.flickr.com/photos/chammond/499038551/in/pool-240z/"><img height="67" alt="" src="https://farm1.static.flickr.com/222/499038551_0664df6a27_t.jpg" width="100" /></a> <a href="https://www.flickr.com/photos/chammond/498991348/in/pool-240z/"><img height="67" alt="" src="https://farm1.static.flickr.com/203/498991348_302b50eb61_t.jpg" width="100" /></a> <a href="https://www.flickr.com/photos/chammond/498989758/in/pool-240z/"><img height="67" alt="" src="https://farm1.static.flickr.com/224/498989758_874270380e_t.jpg" width="100" /></a> <a href="https://www.flickr.com/photos/chammond/499037003/in/pool-240z/"><img height="67" alt="" src="https://farm1.static.flickr.com/226/499037003_b99ae80d1b_t.jpg" width="100" /></a> <a href="https://www.flickr.com/photos/chammond/499035671/in/pool-240z/"><img height="100" alt="" src="https://farm1.static.flickr.com/219/499035671_8a91b9158a_t.jpg" width="67" /></a> <a href="https://www.flickr.com/photos/chammond/498988300/in/pool-240z/"><img height="100" alt="" src="https://farm1.static.flickr.com/217/498988300_ad19a541c5_t.jpg" width="67" /></a></div>
+
 
 
 

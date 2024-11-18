@@ -2,7 +2,7 @@
 layout: post
 title: Success! The bushings are removed from the upper control arms
 date: '2011-03-25T02:10:52+00:00'
-last_modified_at: '2024-05-07T23:21:05+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: success-the-bushings-are-removed-from-the-upper-control-arms
 image:
 categories: [ 350z, nissan, setup, suspension, video ]
@@ -26,5 +26,6 @@ and here's the removed bushings (sans some of the burned out rubber):
 [![remnants of the front bushings](https://static.flickr.com/5014/5557378579_bf4def4f27.jpg)](https://www.flickr.com/photos/17726343@N00/5557378579/)
 
 and here's a video of the process over the past two days:
+
 
 

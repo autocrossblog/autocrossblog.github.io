@@ -2,12 +2,11 @@
 layout: post
 title: P240Z fabricating a seat bracket
 date: '2007-06-27T11:15:00+00:00'
-last_modified_at: '2024-04-25T21:05:21+00:00'
+last_modified_at: 2024-10-09T13:21:54-05:00
 description: "Tonight was a semi productive night on the 240Z, which is always a good thing when some productivity happens during the week"
 permalink: p240z-fabricating-a-seat-bracket
 image: 
 categories: [ 240z, datsun ]
-
 ---
 Tonight was a semi productive night on the 240Z, which is always a good thing when some productivity happens during the week, it's hard enough being productive on the weekends. More on tonight in a bit. Summit Racing kindly sent me all of the fuel part oddities I had ordered last week. I had a 12x12 box sitting at the office when I returned from lunch today. I was dissapointed to find such a small box, after spending so much money! But I guess I did order "small" parts.
 
@@ -20,4 +19,5 @@ Here's a link to the Video I took tonight. Towards the end you'll notice a small
 Tomorrow night, or Thursday I plan to finish up the passenger side brackets and get started on the driver's side brackets, as well as to start cutting for the fuel cell. I'll have to pick up some more 4.5" cutting wheels though, I've gone through 3.5 of them in the past two days of working on the car and have plenty more cutting left to do.
 
 I say tomorrow or Thursday, because I'm not sure I'll get any work done tomorrow (Wednesday) because I may head off and play roller hockey with some guys I used to work with at The Sporting News, they are in the process of relocating the "online" side of TSN to North Carolina and I think Wednesday night is the last night for Ray Slover at the pickup hockey games that have been going on for the past 5-6 years now.
+
 

@@ -2,7 +2,7 @@
 layout: post
 title: Working on the 240Z on a weeknight?
 date: '2009-04-22T00:07:16+00:00'
-last_modified_at: '2024-04-30T11:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: working-on-the-240z-on-a-weeknight
 image: 
 categories: [ 240z, datsun, video ]
@@ -14,5 +14,6 @@ I can't say I've really put any effort into the Datsun on a weeknight in probabl
 I also put the throttlebody and the intake to the turbo back on the car. I put the battery onto the charger so that it'll be ready to go Saturday. The more I mess with that thing the more I realize I need to get that moved to the back of the car soon after the car runs again, rather than having it sitting up in the engine bay taking up valuable room.
 
 I'll probably do a few more of these minor buttoning up items tomorrow and Thursday night, leaving for tasks like the radiator and coolant, along with other minor things, for Saturday when Dave and possibly Terec are over to assist.
+
 
 

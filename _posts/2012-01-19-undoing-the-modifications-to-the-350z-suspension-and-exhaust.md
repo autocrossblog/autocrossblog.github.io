@@ -6,6 +6,7 @@ permalink: undoing-the-modifications-to-the-350z-suspension-and-exhaust
 image:
 categories: [ 350z, nissan ]
 description: Discover the process of restoring a 350z back to stock, battling stubborn parts, breaking tools, and eventually triumphing in this car repair journey.
+last_modified_at: 2024-11-18T10:51:34-06:00
 ---
 
 
@@ -18,5 +19,6 @@ I of course time lapsed the whole affair, using my trusty [GoPro Camera HD HERO2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C5CMvuvCwac?si=zDDA6RBFgcajnLL-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Are you interested in buying any of the parts I've removed from the car? Stay tuned for a full blog post with pictures next week of everything I have for sale, but in the mean time if you want to get the jump on the next guy, head on  over to the About page and fill out the contact form to make an offer.
+
 
 

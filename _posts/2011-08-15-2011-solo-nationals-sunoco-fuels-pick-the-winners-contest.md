@@ -2,7 +2,7 @@
 layout: post
 title: 2011 Solo Nationals Sunoco Fuels Pick The Winners Contest
 date: '2011-08-15T01:36:25+00:00'
-last_modified_at: '2024-04-28T20:34:44+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: 2011-solo-nationals-sunoco-fuels-pick-the-winners-contest
 image:
 categories: [ 350z, nissan ]
@@ -14,6 +14,7 @@ For the past few weeks we've been putting together this years rendition of the h
 Here are the basics: Pick who you think will win in each of the classes competing at the 2011 Tire Rack SCCA Solo Nationals. The person that has the most correct picks wins! For all the details, rules, and the list of kick ass prizes, check out the Pick The Winners portion of SCCAForums.com.
 
 Anyone can enter, you just have to be a registered user on SCCAForums.com, make sure you're profile is updated and has a valid email address so you can be contacted if you win! If you aren't sure who to vote for, check out the current totals.
+
 
 
 

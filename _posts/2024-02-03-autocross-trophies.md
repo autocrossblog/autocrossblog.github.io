@@ -8,6 +8,7 @@ image: 2024/February/AutocrossTrophies/AutocrossTrophies-1.jpg
 categories: [ autocross, trophies, regions ]
 featured: false
 comments: true
+last_modified_at: 2024-10-09T13:21:54-05:00
 ---
 Here in the St. Louis region, you used to compete for a trophy at every event you entered. You could stick around after the event, and if you qualified, you would get a trophy to take home. When I started autocrossing, this was my motivation. I wanted to earn a trophy every time I competed.
 
@@ -42,4 +43,5 @@ Comment below, did you ever get autocross trophies at local events?
 What are some of your favorites?
 
 This post was NOT sponsored by [SPS Trophy Shop, but if you're looking for Autocross Trophies you might want to check them out](https://soloperformance.com/collections/sps-trophy-shop)!
+
 

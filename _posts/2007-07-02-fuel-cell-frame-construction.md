@@ -3,7 +3,7 @@ layout: post
 title: Fuel Cell frame construction
 description: "Work on the fuel cell frame, including welding!"
 date: '2007-07-02T08:50:36+00:00'
-last_modified_at: '2024-04-26T08:05:03+00:00'
+last_modified_at: 2024-10-09T13:21:54-05:00
 permalink: fuel-cell-frame-construction
 image: 
 categories: [ 240z, datsun ]
@@ -41,4 +41,5 @@ The tank sits just low enough, it is barely visible from the back of the car, I 
 All in all I'm really impressed with myself, I got a lot more done this weekend than most weekends, though I still have the build the driver's side seat mounts, I finished the passenger side yesterday. What's next? Well like I said, tomorrow night I'll be building the driver's side seat mount, as well as visiting Mr. Whittle's house to test fit some fuel injectors into my new fuel rail that should be arriving and the old intake manifold. If the injectors he has fit I'll be ordering injectors on Tuesday.
 
 After that I'll be running fuel lines, and be working on putting the motor back together so I can attempt to put it back in the car next weekend if all goes well. That might be a lofty goal, but this whole project has been lofty for me, so why quit shooting high now!
+
 

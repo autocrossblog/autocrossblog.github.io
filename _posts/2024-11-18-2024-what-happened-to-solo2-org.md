@@ -10,6 +10,7 @@ categories: [ autocross, website ]
 featured: true
 comments: true
 # last_modified_at: '2024-07-08T16:50:08+00:00'
+last_modified_at: 2024-11-18T13:45:00-06:00
 ---
 ## The beginning
 In the beginning, there was Christoc.com's Racing Forums, that was quickly replaced with Pylon.CC, and ultimately became SOLO2.ORG. CRF started out with a little guerilla marketing, I would take photos at autocrosses (film) and then print out all the photos, at the next event I would distribute those photos to the various cars in each photo and include a printed out small flyer promoting the Forums.
@@ -27,3 +28,4 @@ Ultimately with the rise of Facebook and groups there, along with a few other fo
 Now the domain redirects here to AutocrossBlog.com.
 
 Never say never though, SOLO2.ORG might come back one day.
+

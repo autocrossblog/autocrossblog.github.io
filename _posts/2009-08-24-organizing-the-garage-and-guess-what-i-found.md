@@ -2,7 +2,7 @@
 layout: post
 title: Organizing the garage, and guess what I found?
 date: '2009-08-24T00:59:55+00:00'
-last_modified_at: '2024-04-30T11:05:33+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: organizing-the-garage-and-guess-what-i-found
 image: 
 categories: [ 240z, datsun ]
@@ -14,5 +14,6 @@ So we've barely been in the house three weeks and I already lost and found somet
 So all is well again in Project240z.com land, well, as well as it can be! I was going to drive the car around the block tonight, and park it in the third car garage, but I quickly realized that wasn't going to happen unless I wanted to take the wiring harness out of the old dash and hook up the wires. Right now the ignition wires aren't going to anything, so that would make it kind of hard to start the car and drive it. Oh well, I moved it around a bit by hand and made room for one of our cars in the garage at least, the F350 will have to stay outside for a while longer.
 
 Hopefully by the end of September I'll either have a new quieter exhaust on the car, or all the paint completely stripped off, or maybe even both!
+
 
 

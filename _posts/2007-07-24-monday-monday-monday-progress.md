@@ -2,7 +2,7 @@
 layout: post
 title: Monday Monday Monday Progress!
 date: '2007-07-24T09:36:36+00:00'
-last_modified_at: '2024-04-29T15:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: monday-monday-monday-progress
 image: 
 categories: [ 240z, datsun, megasquirt ]
@@ -22,4 +22,5 @@ Ronnie was able to get the power from the new battery hooked up to the starter, 
 So I've got more work to do tomorrow night. I'll try to finish up the wiring that is left in the engine bay, as well as wire up the fuse panel and try to mount the Megasquirt tomorrow night.
 
 Right now my goal is to try and start the car either Wednesday, or Thursday night! Though, I'm seriously thinking I won't be going to Topeka, though I'm still hoping to at least take the car to the local autox this Sunday.
+
 

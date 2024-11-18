@@ -2,7 +2,7 @@
 layout: post
 title: Always good after a wash and a wax
 date: '2010-03-08T01:24:46+00:00'
-last_modified_at: '2024-04-30T12:06:13+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: always-good-after-a-wash-and-a-wax
 image:
 categories: [ 350z, nissan, setup ]
@@ -18,6 +18,7 @@ I washed the car, clay barred the various marks and such in the paint, washed it
 <a href="https://www.flickr.com/photos/chammond/4416388858/"><img alt="IMG_2159" src="https://farm3.static.flickr.com/2715/4416388858_f5a350d3ec_m.jpg" width="240" height="180" style="border-width: 0px; border-style: solid;" /></a> <a href="https://www.flickr.com/photos/chammond/4416379820/"><img alt="IMG_2158" src="https://farm3.static.flickr.com/2725/4416379820_e0b8e238f7_m.jpg" width="240" height="180" style="border-width: 0px; border-style: solid;" /></a>
 
 The rest of the afternoon I hung out and had a BBQ with friends, and new friends. I had a great time, but had to head back down here to San Mateo so I can work tomorrow. I made the drive in 1hr and 10 minutes. If only traffic were that nice all the time I might consider buying a house in my old stomping grounds and commuting to work. But I can only imagine that most days that would be a 2+ hr drive during commute times. Some day, perhaps later this week, I'll get around to blogging about the Project350z's first autocross which happened a few weeks ago.
+
 
 
 

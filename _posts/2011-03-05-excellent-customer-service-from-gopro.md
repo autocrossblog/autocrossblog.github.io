@@ -6,6 +6,7 @@ permalink: excellent-customer-service-from-gopro
 image:
 categories: [ 350z, nissan, setup ]
 description: Engage in the debate about the proposed move of the 350z from BSP to ESP in SCCA Autocross classing. Discover the pros and cons discussed on the SCCAF...
+last_modified_at: 2024-11-18T10:51:34-06:00
 ---
 
 
@@ -18,4 +19,5 @@ So I applied the firmware update, but something during the process failed and th
 This was a couple of weeks ago, right before a 2 day autocross and right before we were heading out of town for vacation, so I didn't get the camera mailed out until Tuesday of this week. On Thursday I got an email from them saying that they had a replacement camera ready to mail out, but I hadn't included a return address. I replied with our address, and then on Friday I got an email saying it would go out. It is nice that we live about 15 miles from their headquarters because the camera showed up today via USPS.
 
 I'm not positive that the firmware fix has been applied to this camera yet, but I'm going to leave it as is for now. I want to use it at the autocross tomorrow, so I don't want to run the risk of bricking it again!
+
 

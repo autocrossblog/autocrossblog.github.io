@@ -2,7 +2,7 @@
 layout: post
 title: Injen Super SES exhaust removal, OEM 350z exhaust installation
 date: '2010-12-06T02:52:21+00:00'
-last_modified_at: '2024-05-07T23:31:05+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: injen-super-ses-exhaust-removal-oem-350z-exhaust-installation
 image:
 categories: [ 350z, nissan, setup, video ]
@@ -26,4 +26,5 @@ I need to see if anyone makes a trailer hitch for a 350z so that I can haul whee
 I've yet to decide what I'll do with the Injen system. I may try to sell it, I may take it somewhere for scrap.
 
 Injen, if you're reading this, I'm still open to putting the SuperSES system back on the car, but I need your help replacing the midpipes to do that! I'm even willing to pay, but I need you guys to respond to basic customer service emails.
+
 

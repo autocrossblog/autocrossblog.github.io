@@ -2,7 +2,7 @@
 layout: post
 title: Undoing the BSP 350z
 date: '2012-01-08T00:04:51+00:00'
-last_modified_at: '2024-04-30T10:05:43+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: undoing-the-bsp-350z
 image:
 categories: [ 350z, nissan, bsp, parts ]
@@ -19,6 +19,7 @@ I picked up some tools from the local Ace Hardware in Half Moon Bay to get that 
 <img style="display: inline; float: right" align="right" src="https://farm8.staticflickr.com/7005/6656782531_814820e325_m.jpg" />
       
 So the first parts of the car are back to stock, I'm shipping out Mike's new control arms early next week, and hopefully they will see some autocross action soon!
+
 
 
 

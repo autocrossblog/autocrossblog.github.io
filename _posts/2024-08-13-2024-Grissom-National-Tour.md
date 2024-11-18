@@ -9,7 +9,7 @@ image: 2024/August/CSM-1.jpg
 categories: [ scca, nationaltour, national-tour, grissom, indiana ]
 featured: false
 comments: true
-last_modified_at: '2024-11-17T23:50:08+00:00'
+last_modified_at: 2024-11-18T08:39:29-06:00
 ---
 We are what, less than 4 weeks from the 2024 Solo National Championships? I decided I better get back to an event and get some practice in. And boy am I glad I did, I sucked, I need to get some more reps!
 
@@ -40,3 +40,4 @@ Here is Dave's best run from Sunday, GoPro Hero12 mounted on the front of the ho
 I ended up in third for the weekend in the CAM-C class, Dave ended up in second.
 
 On to Nationals in Lincoln Nebraska in 3 weeks!
+

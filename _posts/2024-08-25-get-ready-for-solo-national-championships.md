@@ -10,6 +10,7 @@ categories: [ scca, solonationals, lincoln ]
 featured: false
 comments: true
 # last_modified_at: '2024-07-08T16:50:08+00:00'
+last_modified_at: 2024-11-18T11:19:52-06:00
 ---
 So you're heading to your first Solo National Championships, it can be overwhelming, you've likely never experienced anything like you're going to see this week in Lincoln Nebraska, so I'm going to try to take some time to give you a heads up! Hopefully it will help you have an even more fun week!
 
@@ -79,3 +80,4 @@ Attending the 2024 Solo Nationals as a first-timer will be an unforgettable expe
 Good luck, and see you on the course!
 
 What did we miss? Add your thoughts to the comments below!
+

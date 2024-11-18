@@ -2,7 +2,7 @@
 layout: post
 title: Dropping Weight in the 350z, for STR (now BSP)
 date: '2010-01-27T23:53:21+00:00'
-last_modified_at: '2024-04-30T12:05:23+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: dropping-weight-in-the-350z-for-str-now-bsp
 image:
 categories: [ 350z, nissan, setup, bsp ]
@@ -25,4 +25,5 @@ Things I will be looking at:
 - Lighter battery
 - Lightweight flywheel
 - Suspension mods
+
 

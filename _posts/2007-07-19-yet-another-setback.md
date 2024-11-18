@@ -2,7 +2,7 @@
 layout: post
 title: Yet another setback!
 date: '2007-07-19T09:14:00+00:00'
-last_modified_at: '2024-04-26T08:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: yet-another-setback
 image: 
 categories: [ 240z, datsun ]
@@ -18,6 +18,7 @@ After I found that, all the stuff I had overnighted from Summit last night is pr
 The other night I attempted to find two nuts to fit over this to aid in backing this adapter out, I failed at finding any. So I took my vice grips and clamped down, the adapter came out rather easily. I stuck that adapter into the block on the turbo motor, and stuck the oil filter on. Problem solved, no more oil cooler, at least not for now. Though I could have saved myself a few hundred bucks had I just done that two nights ago :(
 
 Later tonight I went back out to the garage (around 11:30) and started looking at how I'm going to fabricate my mount for the VR sensor to read the 36-1 wheel. I think I have a good setup figured out and will fabricate that immediately after work tomorrow so I can try to finish up any welding I may need to do (I think that's the last thing) because I know the Rally Bug will be needing the welder back soon!
+
 
 
 

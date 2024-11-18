@@ -2,7 +2,7 @@
 layout: post
 title: Solo Spec Coupe Parts Installation
 date: '2018-04-02T06:26:11+00:00'
-last_modified_at: '2024-04-26T11:11:43+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: solo-spec-coupe-parts-installation
 image: 
 categories: [ autocross, toyota, fr-s, ssc, install, setup, specfrs ]
@@ -49,4 +49,5 @@ Putting the rear shocks together, I ended up using the spring compressor to remo
 [![Install Completed](https://farm1.staticflickr.com/787/41176740751_44eec849c8.jpg)](https://www.flickr.com/photos/chammond/41176740751/in/album-72157694192449114/)
 
 - [TRD Lowering Springs install guide](https://www.billswebspace.com/PTR07-18130inst.pdf)
+
 

@@ -2,7 +2,7 @@
 layout: post
 title: Decking out the Project350z in DotNetNuke
 date: '2011-01-19T01:48:43+00:00'
-last_modified_at: '2024-04-30T11:05:25+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: decking-out-the-project350z-in-dotnetnuke
 image:
 categories: [ 350z, nissan, vinyl ]
@@ -25,4 +25,5 @@ and
 So I found it fitting that I should try to help promote the product in any way I can. That includes putting the logo on my car, front and back. [I've done it before, on a different car](https://www.flickr.com/photos/chammond/2291945232/), so why not on my current car!
 
 So what do you think? Am I crazy? 
+
 

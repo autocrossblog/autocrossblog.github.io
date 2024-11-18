@@ -2,7 +2,7 @@
 layout: post
 title: One week after ignition
 date: '2007-08-07T01:20:24+00:00'
-last_modified_at: '2024-04-29T15:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: one-week-after-ignition
 image: 
 categories: [ 240z, datsun ]
@@ -33,4 +33,5 @@ I'm still aiming to ~~compete~~ drive the car at the Autocross on Sunday. Before
 4. Finish up wiring for the O2 sensor
 5. Get a harness squared away
 6. More stuff I'm sure I've forgotten!
+
 

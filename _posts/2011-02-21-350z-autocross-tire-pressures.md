@@ -2,7 +2,7 @@
 layout: post
 title: 350z Autocross Tire Pressures
 date: '2011-02-21T00:18:38+00:00'
-last_modified_at: '2024-05-07T23:55:25+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: 350z-autocross-tire-pressures
 image:
 categories: [ 350z, nissan, setup ]
@@ -18,5 +18,6 @@ So here it is, a thread that I will continually update with tire pressure inform
 ## Current Pressures
 - Front: 25psi   
 - Rear: 23psi   (as of 2/20/2011, 3/6/2011)
+
 
 

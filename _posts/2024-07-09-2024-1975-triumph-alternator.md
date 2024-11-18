@@ -10,6 +10,7 @@ categories: [ triumph, tr6 ]
 featured: false
 comments: true
 # last_modified_at: '2024-07-08T16:50:08+00:00'
+last_modified_at: 2024-11-18T10:34:13-06:00
 ---
 So now for a little story about the Triumph. The first of potentially many. Another Project car!
 
@@ -90,3 +91,4 @@ So now I have a couple of alternators sitting around the garage. I figure if I c
 Now that the car is running again I need to get it inspected so I can get plates on it and drive it around town!
 
 ### Have any questions? Ask below!
+

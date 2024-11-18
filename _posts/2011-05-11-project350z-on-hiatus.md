@@ -2,7 +2,7 @@
 layout: post
 title: Project350z on Hiatus?
 date: '2011-05-11T00:51:44+00:00'
-last_modified_at: '2024-05-07T23:21:05+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: project350z-on-hiatus
 image:
 categories: [ 350z, nissan ]
@@ -16,4 +16,5 @@ I plan to run more events this year, but life has put autocross to the side for 
 This weekend there's the Dual at DeAnza, last year I was hoping to run this year's event, but due to everything going on I ended up not registering. It looks like Grant (ShamuZ) has lost his car for the event, due to losing a rear diff (He's got an OS Giken diff as far as I know, I need to find out what happened as that is the diff I was hoping to put in my car later this year). I've asked Grant to see if he can get me into his entry position for the Duel, if he can I will try to run the event.
 
 If it doesn't work out, so be it, but I think it would be cool to run. The next few weeks are going to be extremely busy, so an autocross before all of that would be a good release!
+
 

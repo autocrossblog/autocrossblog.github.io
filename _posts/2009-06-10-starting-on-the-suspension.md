@@ -2,7 +2,7 @@
 layout: post
 title: Starting on the suspension
 date: '2009-06-10T22:17:08+00:00'
-last_modified_at: '2024-04-26T08:05:43+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: starting-on-the-suspension
 image: 
 categories: [ 240z, datsun, suspension ]
@@ -16,5 +16,6 @@ When I got the car from Jeff, uhhh over three years ago now, it came with a seco
 I got stuck at the tie rod, but I did manage to get most of the other bolts removed. I came to a conclusion though, I'm going to likely just drop the whole front suspension out, including the cross member as the second suspension has one as well. In order to do that though I am going to have to dismount the motor. I will attempt to do that by lifting the motor up off the mounts with the cherry picker, hopefully without having to disconnect the transmission and not removing the whole thing from the car.
 
 Before I do that though I will likely fully disassemble the other suspension and take it to a friend's house to sandblast everything. I'm heading to Tampa for a conference tomorrow, so that will have to wait until the evenings next week. I'll try to get everything disassembled during the week, both front and rear suspensions, and then probably go down to his place Saturday if he'll be around.
+
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Saturday Progress
 date: '2007-07-23T10:33:54+00:00'
-last_modified_at: '2024-04-29T15:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: saturday-progress
 image: 
 categories: [ 240z, datsun ]
@@ -26,4 +26,5 @@ The fuel cell is mounted, Eric started on the oil cooler mounting, we ended up f
 - Add Oil to the Motor and Transmission
 - Add Coolant
 - I'm sure I'll have to add more to this list.
+
 

@@ -10,6 +10,7 @@ featured: false
 comments: true
 redirect_from:
     - "2024stlouis-solo"
+last_modified_at: 2024-10-09T13:21:54-05:00
 ---
 The 2024 St. Louis Region SCCA Solo Schedule was released just yesterday! It isn't even up on their website, but we've got it here for you now! 
 
@@ -31,4 +32,5 @@ Check out the schedule above and make sure to mark your calendars for all the ev
 I'm working on putting my 2024 schedule together, and I'm excited to see what the St. Louis Region has in store for us this year.
 
 Which events are you planning to attend? Let us know in the comments below!
+
 

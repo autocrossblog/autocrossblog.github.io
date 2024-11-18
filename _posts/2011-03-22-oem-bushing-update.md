@@ -2,7 +2,7 @@
 layout: post
 title: OEM Bushing Update
 date: '2011-03-22T01:15:21+00:00'
-last_modified_at: '2024-04-30T12:21:05+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: oem-bushing-update
 image:
 categories: [ 350z, nissan, setup ]
@@ -23,6 +23,7 @@ I ended up coming home and going back to the approach that John from BetaMotorsp
 So tonight I came home and completed step 1 on all 4 of the bushings (I had one done yesterday). Unfortunately I don't have a hack saw! Tried to stop by Ace Hardware on the way home, but they were closed. So I'll head somewhere tomorrow and grab one and hopefully get through steps 2-5. I doubt I'll have the car back on the road tomorrow night, but hopefully I can get it done Wednesday.
 
 I also got the [Longacre Alignment tools](https://soloperformance.com/pages/search-results-page?q=longacre) from SoloPerformance today so I can align the car after all these changes.
+
 
 
 

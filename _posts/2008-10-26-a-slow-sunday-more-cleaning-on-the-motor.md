@@ -2,7 +2,7 @@
 layout: post
 title: A slow Sunday, more cleaning on the motor.
 date: '2008-10-26T20:44:15+00:00'
-last_modified_at: '2024-04-26T11:05:43+00:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: a-slow-sunday-more-cleaning-on-the-motor
 image: 
 categories: [ 240z, datsun ]
@@ -18,4 +18,5 @@ I can't seem to locate the baggy of all the manifold parts from when I removed t
 Now for the video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k480f-hsqgs?si=TJr4PIzn3zOdTyYO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 

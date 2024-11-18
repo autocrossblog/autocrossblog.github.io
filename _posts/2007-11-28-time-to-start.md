@@ -6,6 +6,7 @@ permalink: time-to-start
 image: 
 categories: [ 240z, datsun ]
 description: Follow the author's journey restoring a 240Z car motor, detailing errors of the past and plans for engine rehabilitation.
+last_modified_at: 2024-11-15T12:15:17-06:00
 ---
 
 
@@ -16,6 +17,7 @@ So I hope to get the L28E motor somewhat apart so that I can replace the seals o
 
 
 Nick, if you're reading this and you aren't working all weekend I hope to see you and the new friend over here this weekend! At least on Saturday, Sunday I should really spend time with the wife for our first Wedding Anniversary!
+
 
 
 

@@ -3,7 +3,7 @@ layout: post
 title: Exceptional Results in Lincoln Nebraska!
 description: "Wow, what a week! Last Wednesday I loaded up the SpecFRS onto a borrowed trailer and left St. Louis the following morning to drive to Lincoln Nebraska for spring Nationals"
 date: '2018-06-06T18:29:53+00:00'
-last_modified_at: '2024-04-26T11:05:43+00:00'
+last_modified_at: 2024-11-18T10:51:34-06:00
 permalink: exceptional-results-in-lincoln-nebraska
 image:
 categories: [ autocross, toyota, fr-s, ssc, setup, specfrs ]
@@ -34,3 +34,4 @@ For the Champ Tour, Chris finished out day 1 way back, outside of the trophies, 
 **Front Tire Pressure:** 32 psi  
 **Rear Tire Pressure:** 32 psi  
 **Brake Pads:** Ferodo DS2500
+

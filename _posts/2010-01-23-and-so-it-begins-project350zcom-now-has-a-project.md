@@ -6,6 +6,7 @@ permalink: and-so-it-begins-project350zcom-now-has-a-project
 image:
 categories: [ 350z ]
 description: "Explore the journey of trading a faulty Projectquattro.com for a 2004 Nissan 350Z Enthusiast, its features, comparisons with a 2003 model, and future..."
+last_modified_at: 2024-11-15T12:15:17-06:00
 ---
 
 So begins the latest project, Projectquattro.com has been disposed of, after the incident a few weeks ago, where it took out a light pole, it was time for the car to go. I ended up not getting
@@ -63,6 +64,7 @@ Also tomorrow I've got a guy coming to take a look at the [Project240z](/categor
     this 350z!
 
 On January 30th I'm going to take the [Project350z](/category/350z/) out to its first Autocross.
+
 
 
 

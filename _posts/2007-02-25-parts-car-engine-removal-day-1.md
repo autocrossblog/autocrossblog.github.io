@@ -2,7 +2,7 @@
 layout: post
 title: Parts Car Engine Removal Day 1
 date: '2007-02-25T05:13:38+00:00'
-last_modified_at: '2024-04-30T11:05:24+23:00'
+last_modified_at: 2024-11-15T12:15:17-06:00
 permalink: parts-car-engine-removal-day-1
 image: 
 categories: [ 240z, datsun, 280z, 2.8l ]
@@ -18,5 +18,6 @@ Accomplished today
     - Removed the rest of the front valance
     - Removed Passenger Side Mirror
     - Removed Passenger/Driver side chrome trim
+
 
 

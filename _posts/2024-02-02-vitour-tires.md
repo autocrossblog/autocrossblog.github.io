@@ -8,6 +8,7 @@ image: 2024/vitourtire.jpg
 categories: [ autocross, tires ]
 featured: false
 comments: true
+last_modified_at: 2024-10-09T13:21:54-05:00
 ---
 If you're looking for information on the Vitour Tempesta P1 tire for the sport of autocross you've come to the right place!
 
@@ -36,3 +37,4 @@ In some regions, but not in any respectible region. Stick with know and trusted 
 
 
 Opinions are my own, and just that, opinions. 
+

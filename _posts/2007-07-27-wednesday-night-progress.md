@@ -3,7 +3,7 @@ layout: post
 title: Wednesday Night Progress on the Datsun 240z
 description: "Well, Wednesday night was an eventful night. When I got home from work I  jumped under the car and tried to track down my coolant leak"
 date: '2007-07-27T09:53:11+00:00'
-last_modified_at: '2024-04-26T08:05:03+03:00'
+last_modified_at: 2024-10-09T13:21:54-05:00
 permalink: wednesday-night-progress
 image: 
 categories: [ 240z, datsun, fuel ]
@@ -20,5 +20,6 @@ The cause of the fuel leak ended up being the 45 degree fitting we had on the  i
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/URmn1lSll2U?si=EkPTY0F9lLL_SJK6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
