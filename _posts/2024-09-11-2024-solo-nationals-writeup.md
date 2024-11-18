@@ -11,7 +11,7 @@ featured: true
 comments: true
 # last_modified_at: '2024-07-08T16:50:08+00:00'
 ---
-A month late, it's time to blog about the 2024 SOlo National Championships...
+A month late, it's time to blog about the 2024 Tire Rack SCCA Solo National Championships...
 
 <link href="/assets/css/lightbox.min.css" rel="stylesheet" />
 <script src="/assets/js/lightbox-plus-jquery.min.js"></script>
