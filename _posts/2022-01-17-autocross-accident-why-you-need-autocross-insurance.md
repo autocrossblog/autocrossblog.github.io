@@ -8,7 +8,7 @@ permalink: autocross-accident-why-you-need-autocross-insurance
 image: 6-13-2021/side2.jpg
 categories: [ autocross, fr-s, ssc, setup, accident ]
 keywords: "autocross, insurance, crash, accident, fail"
-featured: false
+featured: true
 ---
 
 Hello there, long time no see.... Where has SpecFRS gone? Well here's the story of how my autocross car came to a very sad demise, and a couple of tips for you on how to not have it happen to yourself.

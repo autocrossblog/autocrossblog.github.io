@@ -7,7 +7,7 @@ description: "Not sure what to expect at Nationals? We've got you covered"
 keywords: "scca, lincoln, national championships, solo nationals"
 image: 2024/August/SoloNats-2.jpg
 categories: [ scca, solonationals, lincoln ]
-featured: true
+featured: false
 comments: true
 # last_modified_at: '2024-07-08T16:50:08+00:00'
 ---
