@@ -1,6 +1,6 @@
 # [AutocrossBlog.com](AutocrossBlog.com)
 
-![AutocrossBlog.com Logo](/assets/GradientLogo.jpg)
+![AutocrossBlog.com Logo](/assets/GradientLogo.webp)
 
 Welcome to the GitHub Repository for AutocrossBlog.com. Here you'll find the Jekyll code for the website. What use will it be to you? Probably not a whole lot, but if you're looking to get into using Jekyll you should definitely check out [JekyllExample.com](https://www.jekylexample.com). This website is based off the template available there.
 

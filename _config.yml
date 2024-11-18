@@ -3,7 +3,7 @@
 name: "AutocrossBlog.com"
 title: "AutocrossBlog.com"
 description: "Explore autocross insights with Chris Hammond's 24+ years of experience. Get tips, event recaps, and SCCA schedule updates on my Autocross Blog."
-logo: 'assets/GradientLogo.jpg'
+logo: 'assets/GradientLogo.webp'
 favicon: '/assets/favicon.ico'
 baseurl: ""
 google_analytics: 'G-438M5WVM2K' # configured for Google Analytics 4 MEASUREMENT ID
