@@ -16,15 +16,41 @@
 {% endif %}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+{% if page.type == "category" %}
 <title>
     {% if paginator.page %}
         {% if paginator.page > 1 %}
             Page {{ paginator.page }} of {{ paginator.total_pages }} - 
         {% endif %}
     {% endif %}
-    {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+    
+    Explore posts in the {{ page.title }} category on {{ site.title }}.
 
 </title>
+
+
+{% else %}
+
+<title>
+    {% if paginator.page %}
+        {% if paginator.page > 1 %}
+            Page {{ paginator.page }} of {{ paginator.total_pages }} - 
+        {% endif %}
+    {% endif %}
+    {% if page.title %}
+        {% if page.title | size < 40 %}
+            {{ page.title }} - {{ site.title }}
+        {% else %}
+            {{ page.title }}
+        {% endif %}
+    {% else %}
+        {{ site.title }}
+    {% endif %}
+</title>
+
+{% endif %}
+
 <link rel="icon" href="{{ site.baseurl }}{{ site.favicon }}">
 
 <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
