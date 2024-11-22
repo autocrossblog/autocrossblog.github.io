@@ -39,7 +39,8 @@
         {% endif %}
     {% endif %}
     {% if page.title %}
-        {% if page.title | size < 40 %}
+        {% assign title_length = page.title | size %}
+        {% if title_length < 40 %}
             {{ page.title }} - {{ site.title }}
         {% else %}
             {{ page.title }}
