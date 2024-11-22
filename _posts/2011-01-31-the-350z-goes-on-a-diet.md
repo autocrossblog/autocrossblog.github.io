@@ -1,11 +1,11 @@
 ---
 layout: post
 title: The 350z goes on a Diet
-description: Losing weight in a Nissan 350z in order to improve performance for autocross 
+description: "Discover how a 350z shed 100lbs of unnecessary weight for better autocross performance. From subwoofers and amps to speakers and wiring, this blog dives into the stereo removal process, the challenges faced, and the benefits of a lighter car in motorsports. Watch the video and learn why weight savings matter for speed and control!"
 date: '2011-01-31T00:49:00+00:00'
 last_modified_at: '2024-11-22T09:21:54-05:00'
 permalink: the-350z-goes-on-a-diet
-image:
+image: 2024/350z-lose-weight.webp
 categories: [ 350z, nissan, setup, weight ]
 ---
 On Saturday the 350z went on a diet, losing (rough guess here) about 3% of it's total weight.
